@@ -1,0 +1,497 @@
+,Hermanson Companies Content Management Specifications,,,,,,,,
+,,,,,,,,,
+1,CONCEPT CATEGORIES,,,"Music Family
+Tier 1","
+'+Tier 2",,,CATE,CODE
+2,,1,Basic Elements,BASE,,,,BASE,BASE
+3,,,,Active,,,,ACT,BASE-ACT
+4,,,,Inactive,,,,IACT,BASE-IACT
+5,,,,Aural,,,,AUR,BASE-AUR
+6,,,,Visual,,,,VIS,BASE-VIS
+,,,,Free,,,,FREE,BASE-FREE
+7,,,,+TYPE,,,,TYPE,BASE-TYPE-TYPE
+8,,,,,Game-Beginner,,,Game-Beginner,BASE-TYPE-Game-Beginner
+9,,,,,Game-Older,,,Game-Older,BASE-TYPE-Game-Older
+10,,,,,Video,,,Video,BASE-TYPE-Video
+11,,,,,Music,,,Music,BASE-TYPE-Music
+12,,,,,Text,,,Text,BASE-TYPE-Text
+13,,,,,Task,,,Task,BASE-TYPE-Task
+14,,,,+Method,,,,METH,BASE-METH
+15,,,,,Identify,,,ID,BASE-METH-ID
+16,,,,,Name,,,NAME,BASE-METH-NAME
+17,,,,,Play,,,PLAY,BASE-METH-PLAY
+18,, ,,,Same or different,,,SAME,BASE-METH-SAME
+19,,,,,Arrange,,,ARRG,BASE-METH-ARRG
+20,,,,,Match,,,MATC,BASE-METH-MATC
+21,,,,,Dictation,,,DICT,BASE-METH-DICT
+22,,,,MIDI,,,,MIDI,BASE-MIDI
+23,,,,Timed,,,,TIME,BASE-TIME
+24,,,,+Instrument,,,,INSTR,BASE-INSTR
+25,,,,,Piano,,,PIANO,BASE-INSTR-PIANO
+26,,,,,Clarinet,,,CLAR,BASE-INSTR-CLAR
+27,,,,,Saxophone,,,SAX,BASE-INSTR-SAX
+28,,,,,Trumpet,,,TRUMP,BASE-INSTR-TRUMP
+29,,,,,,,,,
+30,,2,Stage,STAGE,,,,STAGE,STAGE
+31,,,,Learn Stage,,,,LERN,STAGE-LERN
+32,,,,Play Stage,,,,PLAY,STAGE-PLAY
+33,,,,Quiz Stage,,,,QUIZ,STAGE-QUIZ
+34,,,,Challenge Stage,,,,CHAL,STAGE-CHAL
+35,,,,Pre-Game,,,,Pre-Game,STAGE-Pre-Game
+36,,,,Post-Game,,,,Post-Game,STAGE-Post-Game
+37,,,,,,,,,
+38,,3,Rhythm,RHYTM,,,,RHYTM,RHYTM
+39,,,,Null,,,,NULL,
+40,,,,+Pre-Reading,,,,PRER,RHYTM-PRER
+41,,,,,Steady Beat vs. Unsteady Beat,,,STDY,RHYTM-PRER-STDY
+42,,,,,Long & Short,,,LONG,RHYTM-PRER-LONG
+43,,,,+Note & Rest Values,,,,NOTV,RHYMT-NOTV
+44,,,,,Whole note,,,WHOL,RHYTM-NOTV-WHOL
+45,,,,,Whole rest,,,WHRS,RHYTM-NOTV-WHRS
+46,,,,,Half note,,,HALF,RHYTM-NOTV-HALF
+47,,,,,Half note-dotted,,,HADT,RHYTM-NOTV-HADT
+48,,,,,Half rest,,,HARS,RHYTM-NOTV-HARS
+49,,,,,Quarter note,,,QUAR,RHYTM-NOTV-QUAR
+50,,,,,Quarter note-dotted,,,QUDT,RHYTM-NOTV-QUDT
+51,,,,,Quarter rest,,,QURS,RHYTM-NOTV-QURS
+52,,,,,Quarter rest-dotted,,,QRED,RHYTM-NOTV-QRED
+53,,,,,Eighth note,,,EIGH,RHYTM-NOTV-EIGH
+54,,,,,Eighth note-dotted,,,EIDT,RHYTM-NOTV-EIDT
+55,,,,,Eighth rest,,,EIRS,RHYTM-NOTV-EIRS
+56,,,,,Sixteenth note,,,SIXT,RHYTM-NOTV-SIXT
+57,,,,,Sixteenth rest,,,SIRS,RHYTM-NOTV-SIRS
+58,,,,,Ties,,,TIES,RHYTM-NOTV-TIES
+59,,,,,,,,,
+60,,,,Syncopation,,,,SYNC,RHYT-SYNC
+61,,,,,,,,,
+62,,,,Rythmic Dictation,,,,RDIC,RHYT-RDIC
+63,,,,,,,,,
+64,,,,+Pattern Identification,,,,PATN,RHYT-PATN
+65,,,,,Triplets,,,TRIP,RHYT-PATN-TRIP
+66,,,,,Eighth note pair,,,EE,RHYT-PATN-EE
+67,,,,,"Dotted Quarter, 8th note",,,dQE,RHYT-PATN-dQE
+68,,,,,Quarter note tied to 8th,,,dQtE,RHYT-PATN-dQtE
+69,,,,,4 16th notes,,,6666,RHYT-PATN-6666
+70,,,,,Eighth and 2 16ths,,,E66,RHYT-PATN-E66
+71,,,,,2 16ths and 8th,,,66E,RHYT-PATN-66E
+72,,,,,Dotted 8th and 16th,,,d86,RHYT-PATN-d86
+73,,,,,,,,,
+74,,4,Meter,METER,,,,METER,METER
+75,,,,Null,,,,,
+76,,,,2/4 Meter,,,,2/4,METER-2/4
+77,,,,3/4 Meter,,,,3/4,METER-3/4
+78,,,,4/4 Meter,,,,4/4,METER-4/4
+79,,,,5/4 Meter,,,,5/4,METER-5/4
+80,,,,6/4 Meter,,,,6/4,METER-6/4
+81,,,,3/8 Meter,,,,3/8,METER-3/8
+82,,,,6/8 Meter,,,,6/8,METER-6/8
+83,,,,9/8 Meter,,,,9/8,METER-9/8
+84,,,,,,,,,
+85,,5,Staff & Pitch,STAFF,,,,STAFF,STAFF
+86,,,,Null,,,,,
+87,,,,+Treble,,,,TREB,STAFF-TREB
+88,,,,,Treble Staff,,,TSTF,STAFF-TREB-TSTF
+89,,,,,Ledger Lines Above Treble Staff ,,,LEDA,STAFF-TREB-LEDA
+90,,,,,Middle C Pentascale,,,MCPT,STAFF-TREB-MCPT
+91,,,,,Treble G Pentascale,,,TGPT,STAFF-TREB-TGPT
+92,,,,,Treble Spaces,,,TSPC,STAFF-TREB-TSPC
+93,,,,,Treble Lines,,,TLIN,STAFF-TREB-TLIN
+94,,,,,Treble Sharps,,,TSRP,STAFF-TREB-TSRP
+95,,,,,Treble Flats,,,TFLT,STAFF-TREB-TFLT
+96,,,,,,,,,
+97,,,,+Bass,,,,BASS,STAFF-BASS
+98,,,,,Bass Staff,,,BSTF,STAFF-BASS-BSTF
+99,,,,,Middle C Pentascale,,,MCPT,STAFF-BASS-MCPT
+100,,,,,Treble G Pentascale,,,TGPT,STAFF-BASS-TGPT
+101,,,,,Ledger Lines Below Bass Staff,,,LEDB,STAFF-BASS-LEDB
+102,,,,,Bass Lines,,,BLIN,STAFF-BASS-BLIN
+103,,,,,Bass Spaces,,,BSPC,STAFF-BASS-BSPC
+104,,,,,Bass Sharps,,,BSRP,STAFF-BASS-BSRP
+105,,,,,Bass Flats,,,BFLT,STAFF-BASS-BFLT
+106,,,,,,,,,
+107,,,,+Grand,,,,GRND,STAFF-GRND
+108,,,,,Ledger Lines Between Staves,,,LEDT,STAFF-GRND-LEDT
+109,,,,,Lines and spaces,,,LNSP,STAFF-GRND-LNSP
+110,,,,,Ledger lines above and below staff,,,LEDX,STAFF-GRND-LEDX
+111,,,,,Sharps and flats,,,SHFL,STAFF-GRND-SHFL
+112,,,,,With key signatures,,,WKEY,STAFF-GRND-WKEY
+113,,,,,,,,,
+114,,,,,,,,,
+115,,6,Melody,MELOD,,,,MELOD,MELOD
+116,,,,Null,,,,,
+117,,,,+Pre-Reading,,,,PRER,MELOD-PRER
+118,,,,,High vs. Low,,,HHLW,MELOD-PRER-HHLW
+119,,,,,"Do, Re, Mi",,,DORE,MELOD-PRER-DORE
+120,,,,,Tunes,,,TUNE,MELOD-PRER-TUNE
+121,,,,,Two Note Patterns,,,TWNT,MELOD-PRER-TWNT
+122,,,,,Up vs. Down,,,UPDN,MELOD-PRER-UPDN
+123,,,,,Up vs. Down vs. Same,,,UPDS,MELOD-PRER-UPDS
+124,,,,,,,,,
+125,,,,+Pattern Playing,,,,PATNP,MELOD-PATNP
+126,,,,,"Grand Staff, Treble G, Middle C, Bass F",,,GRTGMCBF,MELOD-PATNP-GRTGMCBF
+127,,,,,"Grand Staff, Treble C, Middle C, Bass C",,,GRTCMCBC,MELOD-PATNP-GRTCMCBC
+128,,,,,"Grand Staff, Treble G, Middle G, Bass G",,,GRTGMGBG,MELOD-PATNP-GRTGMGBG
+129,,,,,"Grand Staff, the 5 C's",,,GR5C,MELOD-PATNP-GR5C
+130,,,,,"Grand Staff, All Guide Notes",,,GRGUIDE,MELOD-PATNP-GRGUIDE
+131,,,,,"Grand Staff, White Keys",,,GRWHIT,MELOD-PATNP-GRWHIT
+132,,,,,"Grand Staff, Black Keys",,,GRBLCK,MELOD-PATNP-GRBLCK
+133,,,,,"Grand Staff, White Keys, Black Keys",,,GRWHBL,MELOD-PATNP-GRWHBL
+134,,,,,"Grand Staff, White Keys, Black Keys, Key Signatures",,,GRWHBLKEY,MELOD-PATNP-GRWHBLKEY
+135,,,,,"Steps, Repeats, Treble Staff",,,STRETS,MELOD-PATNP-STRETS
+136,,,,,"Steps, Repeats, Bass Staff",,,STREBS,MELOD-PATNP-STREBS
+137,,,,,Major Pentascales,,,MAJP,MELOD-PATNP-MAJP
+138,,,,,Minor Pentascales,,,MINP,MELOD-PATNP-MINP
+139,,,,,,,,,
+140,,,,Error Detection,,,,ERRD,MELOD-ERRD
+141,,,,,,,,,
+142,,,,+Melodic Dictation,,,,MDIC,MELOD-MDIC
+143,,,,,Arrange Melody,,,ARRG,MELOD-MDIC-ARRG
+144,,,,,"Melodic Dictation, Pentascale",,,MDICP,MELOD-MDIC-MDICP
+145,,,,,,,,,
+146,,,,+Pattern Identification,,,,PATNID,MELOD-PATNID
+147,,,,,Pentascale Major,,,PENTM,MELD-PATNID-PENTM
+148,,,,,Pentascale Minor,,,PENTM,MELD-PATNID-PENTM
+149,,,,,Major,,,MAJ,MELD-PATNID-MAJ
+150,,,,,Natural Minor,,,NMIN,MELD-PATNID-NMIN
+151,,,,,Harmonic Minor,,,HMIN,MELD-PATNID-HMIN
+152,,,,,Melodic Minor,,,MMIN,MELD-PATNID-MMIN
+153,,,,,,,,,
+154,,7,Scale,SCALE,,,,SCALE,SCALE
+155,,,,Null,,,,,
+156,,,,+Pentascale Major,,,,PENTM,SCALE-PENTM
+157,,,,,C Major,,,CMAJ,SCALE-PENTM-CMAJ
+158,,,,,G Major,,,GMAJ,SCALE-PENTM-GMAJ
+159,,,,,D Major,,,DMAJ,SCALE-PENTM-DMAJ
+160,,,,,A Major,,,AMAJ,SCALE-PENTM-AMAJ
+161,,,,,E Major,,,EMAJ,SCALE-PENTM-EMAJ
+162,,,,,B Major,,,BMAJ,SCALE-PENTM-BMAJ
+163,,,,,F# Major,,,F#MAJ,SCALE-PENTM-F#MAJ
+164,,,,,C# Major,,,C#MAJ,SCALE-PENTM-C#MAJ
+165,,,,,F Major,,,FMAJ,SCALE-PENTM-FMAJ
+166,,,,,Bb Major,,,BbMAJ,SCALE-PENTM-BbMAJ
+167,,,,,Eb Major,,,EbMAJ,SCALE-PENTM-EbMAJ
+168,,,,,Ab Major,,,AbMAJ,SCALE-PENTM-AbMAJ
+169,,,,,Db Major,,,DbMAJ,SCALE-PENTM-DbMAJ
+170,,,,,Gb Major,,,GbMAJ,SCALE-PENTM-GbMAJ
+171,,,,,Cb Major,,,CbMAJ,SCALE-PENTM-CbMAJ
+172,,,,,,,,,
+173,,,,+Pentascale Minor,,,,PENTN,SCALE-PENTN
+174,,,,,a Minor,,,aMIN,SCALE-PENTN-aMIN
+175,,,,,e Minor,,,eMIN,SCALE-PENTN-eMIN
+176,,,,,b Minor,,,bMIN,SCALE-PENTN-bMIN
+177,,,,,f# Minor,,,f#MIN,SCALE-PENTN-f#MIN
+178,,,,,c# Minor,,,c#MIN,SCALE-PENTN-c#MIN
+179,,,,,g# Minor,,,g#MIN,SCALE-PENTN-g#MIN
+180,,,,,d# Minor,,,d#MIN,SCALE-PENTN-d#MIN
+181,,,,,a# Minor,,,a#MIN,SCALE-PENTN-a#MIN
+182,,,,,d Minor,,,dMIN,SCALE-PENTN-dMIN
+183,,,,,g Minor,,,gMIN,SCALE-PENTN-gMIN
+184,,,,,c Minor,,,cMIN,SCALE-PENTN-cMIN
+185,,,,,f Minor,,,fMIN,SCALE-PENTN-fMIN
+186,,,,,bb Minor,,,bbMIN,SCALE-PENTN-bbMIN
+187,,,,,eb Minor,,,ebMIN,SCALE-PENTN-ebMIN
+188,,,,,ab Minor,,,abMIN,SCALE-PENTN-abMIN
+189,,,,,,,,,
+190,,,,+Major Scales,,,,MAJS,SCALE-MAJS
+191,,,,,C Major,,,CMAJ,SCALE-MAJS-CMAJ
+192,,,,,G Major,,,GMAJ,SCALE-MAJS-GMAJ
+193,,,,,D Major,,,DMAJ,SCALE-MAJS-DMAJ
+194,,,,,A Major,,,AMAJ,SCALE-MAJS-AMAJ
+195,,,,,E Major,,,EMAJ,SCALE-MAJS-EMAJ
+196,,,,,B Major,,,BMAJ,SCALE-MAJS-BMAJ
+197,,,,,F# Major,,,F#MAJ,SCALE-MAJS-F#MAJ
+198,,,,,C# Major,,,C#MAJ,SCALE-MAJS-C#MAJ
+199,,,,,F Major,,,FMAJ,SCALE-MAJS-FMAJ
+200,,,,,Bb Major,,,BbMAJ,SCALE-MAJS-BbMAJ
+201,,,,,Eb Major,,,EbMAJ,SCALE-MAJS-EbMAJ
+202,,,,,Ab Major,,,AbMAJ,SCALE-MAJS-AbMAJ
+203,,,,,Db Major,,,DbMAJ,SCALE-MAJS-DbMAJ
+204,,,,,Gb Major,,,GbMAJ,SCALE-MAJS-GbMAJ
+205,,,,,Cb Major,,,CbMAJ,SCALE-MAJS-CbMAJ
+206,,,,,,,,,
+207,,,,+Natural Minor Scale,,,,NMIN,SCALE-NAMN
+208,,,,,a Minor,,,aMIN,SCALE-NAMN-aMIN
+209,,,,,e Minor,,,eMIN,SCALE-NAMN-aMIN
+210,,,,,b Minor,,,bMIN,SCALE-NAMN-aMIN
+211,,,,,f# Minor,,,f#MIN,SCALE-NAMN-aMIN
+212,,,,,c# Minor,,,c#MIN,SCALE-NAMN-aMIN
+213,,,,,g# Minor,,,g#MIN,SCALE-NAMN-aMIN
+214,,,,,d# Minor,,,d#MIN,SCALE-NAMN-aMIN
+215,,,,,a# Minor,,,a#MIN,SCALE-NAMN-aMIN
+216,,,,,d Minor,,,dMIN,SCALE-NAMN-aMIN
+217,,,,,g Minor,,,gMIN,SCALE-NAMN-aMIN
+218,,,,,c Minor,,,cMIN,SCALE-NAMN-aMIN
+219,,,,,f Minor,,,fMIN,SCALE-NAMN-aMIN
+220,,,,,bb Minor,,,bbMIN,SCALE-NAMN-aMIN
+221,,,,,eb Minor,,,ebMIN,SCALE-NAMN-aMIN
+222,,,,,ab Minor,,,abMIN,SCALE-NAMN-aMIN
+223,,,,,,,,,
+224,,,,+Harmonic Minor Scales,,,,HMIN,SCALE-HMIN
+225,,,,,a Minor,,,aMIN,SCALE-HMIN-aMIN
+226,,,,,e Minor,,,eMIN,SCALE-HMIN-eMIN
+227,,,,,b Minor,,,bMIN,SCALE-HMIN-bMIN
+228,,,,,f# Minor,,,f#MIN,SCALE-HMIN-f#MIN
+229,,,,,c# Minor,,,c#MIN,SCALE-HMIN-c#MIN
+230,,,,,g# Minor,,,g#MIN,SCALE-HMIN-g#MIN
+231,,,,,d# Minor,,,d#MIN,SCALE-HMIN-d#MIN
+232,,,,,a# Minor,,,a#MIN,SCALE-HMIN-a#MIN
+233,,,,,d Minor,,,dMIN,SCALE-HMIN-dMIN
+234,,,,,g Minor,,,gMIN,SCALE-HMIN-gMIN
+235,,,,,c Minor,,,cMIN,SCALE-HMIN-cMIN
+236,,,,,f Minor,,,fMIN,SCALE-HMIN-fMIN
+237,,,,,bb Minor,,,bbMIN,SCALE-HMIN-bbMIN
+238,,,,,eb Minor,,,ebMIN,SCALE-HMIN-ebMIN
+239,,,,,ab Minor,,,abMIN,SCALE-HMIN-abMIN
+240,,,,,,,,,
+241,,,,+Melodic Minor Scales,,,,MMIN,SCALE-MMIN
+242,,,,,a Minor,,,aMIN,SCALE-MMIN-aMIN
+243,,,,,e Minor,,,eMIN,SCALE-MMIN-eMIN
+244,,,,,b Minor,,,bMIN,SCALE-MMIN-bMIN
+245,,,,,f# Minor,,,f#MIN,SCALE-MMIN-f#MIN
+246,,,,,c# Minor,,,c#MIN,SCALE-MMIN-c#MIN
+247,,,,,g# Minor,,,g#MIN,SCALE-MMIN-g#MIN
+248,,,,,d# Minor,,,d#MIN,SCALE-MMIN-d#MIN
+249,,,,,a# Minor,,,a#MIN,SCALE-MMIN-a#MIN
+250,,,,,d Minor,,,dMIN,SCALE-MMIN-dMIN
+251,,,,,g Minor,,,gMIN,SCALE-MMIN-gMIN
+252,,,,,c Minor,,,cMIN,SCALE-MMIN-cMIN
+253,,,,,f Minor,,,fMIN,SCALE-MMIN-fMIN
+254,,,,,bb Minor,,,bbMIN,SCALE-MMIN-bbMIN
+255,,,,,eb Minor,,,ebMIN,SCALE-MMIN-ebMIN
+256,,,,,ab Minor,,,abMIN,SCALE-MMIN-abMIN
+257,,,,,,,,,
+258,,,,Chromatic Scale,,,,CHRMS,SCALE-CHRMS
+259,,,,Whole Tone Scale,,,,WHOLS,SCALE-WHOLS
+260,,,,,,,,,
+261,,8,Key Signatures,KYSIG,,,,KYSIG,KYSIG
+262,,,,Null,,,,,
+263,,,,+Major,,,,MAJ,KYSIG-MAJ
+264,,,,,"Major, C, F, G",,,CFG,KYSIG-MAJ-CFG
+265,,,,,"Major, D, A, E",,,DAE,KYSIG-MAJ-DAE
+266,,,,,"Major, Bb, Eb, Ab",,,BbEbAb,KYSIG-MAJ-BbEbAb
+267,,,,,"Major, Db, Gb, F#",,,DbGbF#,KYSIG-MAJ-DbGbF#
+268,,,,,"Major, C, G, D, A, E, F, Bb",,,CGDAEFBb,KYSIG-MAJ-CGDAEFBb
+269,,,,,"Major, All Sharp Keys",,,SHRP,KYSIG-MAJ-SHRP
+270,,,,,"Major, All Flat Keys",,,FLAT,KYSIG-MAJ-FLAT
+271,,,,+Minor,,,,MIN,KYSIG-MIN
+272,,,,,"Minor, All Sharp Keys",,,SHRP,KYSIG-MIN-SHRP
+273,,,,,"Minor, All Flat Keys",,,FLAT,KYSIG-MIN-FLAT
+274,,,,,"Relative Minor, A, E, D, B",,,AEDB,KYSIG-MIN-AEDB
+275,,9,Intervals,INTVL,,,,INTVL,INTVL
+276,,,,Null,,,,,
+277,,,,+Pre-reading,,,,PRER,INTVL-PRER
+278,,,,,Steps,,,STEP,INTVL-PRER-STEP
+279,,,,,Skips,,,SKIP,INTVL-PRER-SKIP
+280,,,,P1,,,,P1,INTVL-P1
+281,,,,M2,,,,M2,INTVL-M2
+282,,,,M3,,,,M3,INTVL-M3
+283,,,,P4,,,,P4,INTVL-P4
+284,,,,P5,,,,P5,INTVL-P5
+285,,,,M6,,,,M6,INTVL-M6
+286,,,,M7,,,,M7,INTVL-M7
+287,,,,P8,,,,P8,INTVL-P8
+288,,,,m2,,,,m2,INTVL-m2
+289,,,,m3,,,,m3,INTVL-m3
+290,,,,m6,,,,m6,INTVL-m6
+291,,,,m7,,,,m7,INTVL-m7
+292,,,,,,,,,
+293,,,,Tritone,,,,TRIT,INTVL-TRIT
+294,,,,,,,,,
+295,,10,Keyboard Elements,KEYBD,,,,KEYBD,KEYBD
+296,,,,Null,,,,NULL,
+297,,,,+Pre-Reading,,,,PRER,KEYBD-PRER
+298,,,,,"Low, Middle, High",,,LOW,KEYBD-PRER-LOW
+299,,,,,"Two Black Keys, Vs, 3 Black Keys",,,2BLK,KEYBD-PRER-2BLK
+300,,,,+Piano key names,,,,NAME,KEYBD-NAME
+301,,,,,"C, D, E",,,CDE,KEYBD-NAME-CDE
+302,,,,,"F, G, A, B",,,FGAB,KEYBD-NAME-FGAB
+303,,,,,"A, B, C, D, E, F, G",,,ABCDEFG,KEYBD-NAME-ABCDEFG
+304,,,,,"F#, G#, A#, C#, D#",,,F#G#A#C#D#,KEYBD-NAME-F#G#A#C#D#
+305,,,,,"Gb, Ab, Bb, Db, Eb",,,GbAbBbDbEb,KEYBD-NAME-GbAbBbDbEb
+306,,,,,"F#, Gb, G#, Ab, A#, Bb, C#, Db, D#, Eb",,,F#GbG#AbA#BbC#DbD#Eb,KEYBD-NAME-F#GbG#AbA#BbC#DbD#Eb
+307,,,,,"E#, Fb, B#, Cb",,,E#FbB#Cb,KEYBD-NAME-E#FbB#Cb
+308,,11,Chords,CHORD,,,,CHORD,CHORD
+309,,,,Null,,,,,
+310,,,,+Major Chord,,,,MAJC,CHORD-MAJC
+311,,,,,C,,,C,CHORD-MAJC-C
+312,,,,,G,,,G,CHORD-MAJC-G
+313,,,,,D,,,D,CHORD-MAJC-D
+314,,,,,A,,,A,CHORD-MAJC-A
+315,,,,,E,,,E,CHORD-MAJC-E
+316,,,,,B,,,B,CHORD-MAJC-B
+317,,,,,F#,,,F#,CHORD-MAJC-F#
+318,,,,,C#,,,C#,CHORD-MAJC-C#
+319,,,,,F,,,F,CHORD-MAJC-F
+320,,,,,Bb,,,Bb,CHORD-MAJC-Bb
+321,,,,,Eb,,,Eb,CHORD-MAJC-Eb
+322,,,,,Ab,,,Ab,CHORD-MAJC-Ab
+323,,,,,Db,,,Db,CHORD-MAJC-Db
+324,,,,,Gb,,,Gb,CHORD-MAJC-Gb
+325,,,,,Cb,,,Cb,CHORD-MAJC-Cb
+326,,,,+Minor Chord,,,,MINC,CHORD-MINC
+327,,,,,a,,,a,CHORD-MINC-a
+328,,,,,e,,,e,CHORD-MINC-e
+329,,,,,b,,,b,CHORD-MINC-b
+330,,,,,f#,,,f#,CHORD-MINC-f#
+331,,,,,c#,,,c#,CHORD-MINC-c#
+332,,,,,g#,,,g#,CHORD-MINC-g#
+333,,,,,d#,,,d#,CHORD-MINC-d#
+334,,,,,a#,,,a#,CHORD-MINC-a#
+335,,,,,d,,,d,CHORD-MINC-d
+336,,,,,g,,,g,CHORD-MINC-g
+337,,,,,c,,,c,CHORD-MINC-c
+338,,,,,f,,,f,CHORD-MINC-f
+339,,,,,bb,,,bb,CHORD-MINC-bb
+340,,,,,eb,,,eb,CHORD-MINC-eb
+341,,,,,ab,,,ab,CHORD-MINC-ab
+342,,,,,,,,,
+343,,,,+Diminished Chord,,,,DIMC,CHORD-DIMC
+344,,,,,a,,,a,CHORD-DIMC-a
+345,,,,,e,,,e,CHORD-DIMC-e
+346,,,,,b,,,b,CHORD-DIMC-b
+347,,,,,f#,,,f#,CHORD-DIMC-f#
+348,,,,,c#,,,c#,CHORD-DIMC-c#
+349,,,,,g#,,,g#,CHORD-DIMC-g#
+350,,,,,d#,,,d#,CHORD-DIMC-d#
+351,,,,,a#,,,a#,CHORD-DIMC-a#
+352,,,,,d,,,d,CHORD-DIMC-d
+353,,,,,g,,,g,CHORD-DIMC-g
+354,,,,,c,,,c,CHORD-DIMC-c
+355,,,,,f,,,f,CHORD-DIMC-f
+356,,,,,bb,,,bb,CHORD-DIMC-bb
+357,,,,,eb,,,eb,CHORD-DIMC-eb
+358,,,,,ab,,,ab,CHORD-DIMC-ab
+359,,,,,,,,,
+360,,,,+Augmented Chord,,,,AUGC,CHORD-AUGC
+361,,,,,C,,,C,CHORD-AUGC-C
+362,,,,,G,,,G,CHORD-AUGC-G
+363,,,,,D,,,D,CHORD-AUGC-D
+364,,,,,A,,,A,CHORD-AUGC-A
+365,,,,,E,,,E,CHORD-AUGC-E
+366,,,,,B,,,B,CHORD-AUGC-B
+367,,,,,F#,,,F#,CHORD-AUGC-F#
+368,,,,,C#,,,C#,CHORD-AUGC-C#
+369,,,,,F,,,F,CHORD-AUGC-F
+370,,,,,Bb,,,Bb,CHORD-AUGC-Bb
+371,,,,,Eb,,,Eb,CHORD-AUGC-Eb
+372,,,,,Ab,,,Ab,CHORD-AUGC-Ab
+373,,,,,Db,,,Db,CHORD-AUGC-Db
+374,,,,,Gb,,,Gb,CHORD-AUGC-Gb
+375,,,,,Cb,,,Cb,CHORD-AUGC-Cb
+376,,,,,,,,,
+377,,,,Dominant 7th,,,,DOM7,CHORD-DOM7
+378,,,,Diminished 7th,,,,DIM7,CHORD-DIM7
+379,,,,Major 7th,,,,MAJ7,CHORD-MAJ7
+380,,,,Half diminished 7th,,,,HDIM7,CHORD-HDIM7
+381,,,,Other 7th,,,,OTH7,CHORD-OTH7
+382,,,,,,,,,
+383,,12,Harmonic Progression,HARM,,,,HARM,HARM
+384,,,,Null,,,,,
+385,,,,I,,,,I,HARM-I
+386,,,,ii,,,,ii,HARM-ii
+387,,,,ii dim,,,,ii dim,HARM-ii dim
+388,,,,iii,,,,iii,HARM-iii
+389,,,,IV,,,,IV,HARM-IV
+390,,,,iv,,,,iv,HARM-iv
+391,,,,V,,,,V,HARM-V
+392,,,,V7,,,,V7,HARM-V7
+393,,,,vi,,,,vi,HARM-vi
+394,,,,vii,,,,vii,HARM-vii
+395,,,,,,,,,
+396,,13,Music Terms,TERM,,,,TERM,TERM
+397,,,,Null,,,,,
+398,,,,+Dynamics,,,,DYNM,TERM-DYNM
+399,,,,,Loud vs Soft,,,LDSOFT,TERM-DYNM-LDSOFT
+400,,,,,Forte vs Piano,,,FORTPIAN,TERM-DYNM-FORTPIAN
+401,,,,+Symbols,,,,SYMB,TERM-SYMB
+402,,,,,Left vs Right,,,LFTRIG,TERM-SYMB-LFTRIG
+403,,,,,Finger Numbers,,,FGNM,TERM-SYMB-FGNM
+404,,,,,Treble (G) Clef,,,TCLEF,TERM-SYMB-TCLEF
+405,,,,,Bass (F) Clef,,,BCLEF,TERM-SYMB-BCLEF
+406,,,,,4/4 Time,,,44TM,TERM-SYMB-44TM
+407,,,,,3/4 Time,,,34TM,TERM-SYMB-34TM
+408,,,,,Staff,,,STAF,TERM-SYMB-STAF
+409,,,,,Piano,,,PIAN,TERM-SYMB-PIAN
+410,,,,,Forte,,,FORT,TERM-SYMB-FORT
+411,,,,,Mezzo forte,,,MFORT,TERM-SYMB-MFORT
+412,,,,,Mezzo piano,,,MPIAN,TERM-SYMB-MPIAN
+413,,,,,Repeat sign,,,REP,TERM-SYMB-REP
+414,,,,,Quarter rest,,,QREST,TERM-SYMB-QREST
+415,,,,,Half rest,,,HREST,TERM-SYMB-HREST
+416,,,,,Whole rest,,,WHREST,TERM-SYMB-WHREST
+417,,,,,End bar line,,,ENDBAR,TERM-SYMB-ENDBAR
+418,,,,,Quarter note,,,QNOTE,TERM-SYMB-QNOTE
+419,,,,,Half note,,,HNOTE,TERM-SYMB-HNOTE
+420,,,,,Dotted Quarter Note,,,DQNOTE,TERM-SYMB-DQNOTE
+421,,,,,Whole note,,,WHNOTE,TERM-SYMB-WHNOTE
+422,,,,,Bar line,,,BAR,TERM-SYMB-BAR
+423,,,,,Crescendo,,,CRES,TERM-SYMB-CRES
+424,,,,,Diminuendo (decrescendo),,,DIMIN,TERM-SYMB-DIMIN
+425,,,,,Ritard,,,RITD,TERM-SYMB-RITD
+426,,,,,Pianissimo,,,PIANIS,TERM-SYMB-PIANIS
+427,,,,,Fortissimo,,,FORTIS,TERM-SYMB-FORTIS
+428,,,,,Sharp,,,SHRP,TERM-SYMB-SHRP
+429,,,,,Flat,,,FLAT,TERM-SYMB-FLAT
+430,,,,,Tonic chord,,,TONC,TERM-SYMB-TONC
+431,,,,,Dominant chord,,,DOMC,TERM-SYMB-DOMC
+432,,,,,Repeat signs,,,REPS,TERM-SYMB-REPS
+433,,,,,Natural sign,,,NATS,TERM-SYMB-NATS
+434,,,,,Key signature,,,KEYS,TERM-SYMB-KEYS
+435,,,,,Melodic interval,,,MELINT,TERM-SYMB-MELINT
+436,,,,,Harmonic interval,,,HARINT,TERM-SYMB-HARINT
+437,,,,,Block chord,,,BLOCKC,TERM-SYMB-BLOCKC
+438,,,,,Broken chord,,,BROKC,TERM-SYMB-BROKC
+439,,,,,Fermata,,,FERM,TERM-SYMB-FERM
+440,,,,,Accent,,,ACCNT,TERM-SYMB-ACCNT
+441,,,,,Staccato,,,STACC,TERM-SYMB-STACC
+442,,,,,Octave,,,OCTV,TERM-SYMB-OCTV
+443,,,,,Coda,,,CODA,TERM-SYMB-CODA
+444,,,,,To Coda sign,,,TOCODA,TERM-SYMB-TOCODA
+445,,,,,6/8 time,,,68TM,TERM-SYMB-68TM
+446,,,,,Common time (4/4),,,44TM,TERM-SYMB-44TM
+447,,,,,Cut time (2/2),,,22TM,TERM-SYMB-22TM
+448,,,,,Metronome marking,,,METRO,TERM-SYMB-METRO
+449,,,,,Tenuto,,,TENUT,TERM-SYMB-TENUT
+450,,,,,First ending,,,FRSTEND,TERM-SYMB-FRSTEND
+451,,,,,Double sharp,,,DBLS,TERM-SYMB-DBLS
+452,,,,,Double flat,,,DBLF,TERM-SYMB-DBLF
+453,,,,,Sforzando,,,SFORZ,TERM-SYMB-SFORZ
+454,,,,,9/8 time,,,98TM,TERM-SYMB-98TM
+455,,,,,Tie,,,TIE,TERM-SYMB-TIE
+456,,,,,Slur,,,SLUR,TERM-SYMB-SLUR
+457,,,,,Phrase mark,,,PHRSE,TERM-SYMB-PHRSE
+458,,,,,Grace note,,,GRAC,TERM-SYMB-GRAC
+459,,,,,,,,,
+460,,,,+Italian Terms,,,,ITAL,TERM-ITAL
+461,,,,,Ritardando (ritard),,,RITD,TERM-ITAL-RITD
+462,,,,,Adagio,,,ADAG,TERM-ITAL-ADAG
+463,,,,,Moderato,,,MODR,TERM-ITAL-MODR
+464,,,,,Allegro,,,ALEG,TERM-ITAL-ALEG
+465,,,,,Andante,,,ANDT,TERM-ITAL-ANDT
+466,,,,,Poco a poco,,,POCO,TERM-ITAL-POCO
+467,,,,,A tempo,,,ATEMP,TERM-ITAL-ATEMP
+468,,,,,Molto,,,MOLT,TERM-ITAL-MOLT
+469,,,,,accelerando,,,ACEL,TERM-ITAL-ACEL
+470,,,,,,,,,
+471,,,,,,,,,
+472,,14,Tonal Memory & Playback,MEMO,,,,MEMO,MEMO
+473,,,,Null,,,,,
+474,,,,+Pre-Reading,,,,PRER,MEMO-PRER
+475,,,,,2-note,,,2NOT,MEMO-PRER-2NOT
+476,,,,,3-note,,,3NOT,MEMO-PRER-3NOT
+477,,,,,4-note,,,4NOT,MEMO-PRER-4NOT
+478,,,,,5-note,,,5NOT,MEMO-PRER-5NOT
+479,,,,,,,,,
+480,,,,+Staff,,,,STAF,MEMO-STAF
+481,,,,,2-note,,,2NOT,MEMO-STAF-2NOT
+482,,,,,3-note,,,3NOT,MEMO-STAF-3NOT
+483,,,,,4-note,,,4NOT,MEMO-STAF-4NOT
+484,,,,,5-note,,,5NOT,MEMO-STAF-5NOT
+,,,,,Octave,,,OCTV,MEMO-STAF-OCTV
+,,,,,,,,,
+,,,,+Keyboard,,,,KEYB,MEMO-KEYB
+,,,,,2-note,,,2NOT,MEMO-KEYB-2NOT
+,,,,,3-note,,,3NOT,MEMO-KEYB-3NOT
+,,,,,4-note,,,4NOT,MEMO-KEYB-4NOT
+,,,,,5-note,,,5NOT,MEMO-KEYB-5NOT
+,,,,,Octave,,,OCTV,MEMO-KEYB-OCTV

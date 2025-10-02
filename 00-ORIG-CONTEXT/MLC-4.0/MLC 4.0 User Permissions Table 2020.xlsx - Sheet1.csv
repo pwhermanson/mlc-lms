@@ -1,0 +1,46 @@
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,520  USER PERMISSIONS TABLE,,,,,,,,,,,,,,,,,,,
+,Permission,,Permitted,,,,,Prelude,,Solo,,Ensemble,,Teacher,,Student,,Customer,,Site
+,Code,,Action,,,,,Member,,Member,,Member,,,,,,Service,,Admin
+,,,,,,,,,,,,,,,,,,,,
+,MEM,,Member Create and Manage,,,,,,,,,,,,,,,X,,X
+,UNC,,Member User Name Create,,,,,,,,,,,,,,,X,,X
+,UNM,,Member User Name Modify,,,,,X,,X,,X,,,,,,X,,X
+,PWC,,Member Password Create,,,,,X,,X,,X,,,,,,X,,X
+,PWM,,Member Password Modify,,,,,X,,X,,X,,,,,,X,,X
+,TEM,,Teacher Create and Manage,,,,,X,,X,,X,,,,,,X,,X
+,TUM,,Teacher User Name Modify,,,,,X,,X,,X,,X,,,,X,,X
+,TPM,,Teacher Password Modify,,,,,X,,X,,X,,X,,,,X,,X
+,STM,,Student Create and Manage,,,,,X,,X,,X,,X,,,,X,,X
+,SUM,,Student User Name Modify,,,,,X,,X,,X,,X,,,,X,,X
+,SPM,,Student Password Modify,,,,,X,,X,,X,,X,,X,,X,,X
+,CLR,,Content Library Read,,,,,X,,X,,X,,X,,?,,X,,X
+,CLE,,Content Library Edit,,,,,?,,?,,?,,,,,,X,,X
+,NLC,,Newsletter Create,,,,,,,,,,,,,,,X,,X
+,NLR,,Newsletter Read,,,,,X,,X,,X,,,,,,X,,X
+,SUB,,Subscription Management,,,,,,,,,,,,,,,X,,X
+,SPM,,Suspend Management,,,,,,,X,,X,,,,,,X,,X
+,NUM,,Number of Students Mgmt,,,,,,,X,,X,,,,,,X,,X
+,UPU,,Upload Utility Use,,,,,,,,,X,,,,,,X,,X
+,SPA,,Sponsor Code Use,,,,,,,,,X,,,,,,X,,X
+,SRC,,Student Resource Cen Access,,,,,X,,X,,X,,X,,X,,X,,X
+,TRC,,Teacher Resource Cen Access,,,,,X,,X,,X,,X,,,,X,,X
+,MDA,,Member Dash Board Access,,,,,X,,X,,X,,,,,,X,,X
+,PLA,,Play Games,,,,,X,,X,,X,,X,,X,,X,,X
+,REF,,Refund Payments,,,,,,,,,,,,,,,X,,X
+,SQC,,Named Sequence Creation,,,,,,,,,,,,,,,,,X
+,SQM,,Named Sequence Modify,,,,,,,,,,,,,,,,,X
+,LEC,,Learning Element Creation,,,,,,,,,,,,,,,,,X
+,TBU,,Table Direct Update,,,,,,,,,,,,,,,,,X
+,RPC,,Create User Report,,,,,,,,,,,,,,,,,X
+,RPU,,User Report Run,,,,,X,,X,,X,,X,,X,,X,,X
+,MRC,,Management Report Creation,,,,,,,,,,,,,,,,,X
+,MRR,,Management Report Run,,,,,,,,,,,,,,,X,,X

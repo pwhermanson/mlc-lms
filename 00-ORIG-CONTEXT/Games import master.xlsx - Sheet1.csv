@@ -1,0 +1,7 @@
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,id,game_number,title,description,thumbnail_img,Category,skill_level,skill_area_id,skill_type,active,keyboard,timed,solfege_text,midi_capable,language,stage_id,game_path,target_score,Free
+,,GAM-1680-2E,LetterFly 3 CDEFGAB - Play,White Keys--Identify and play on the onscreen keyboard.,/images/LetterFly.jpg,Keyboard elements,P,Piano Key Names,V,1,1,0,0,0,E,Play,/game_uploads/GAM-1680-2E/index.html,300,1

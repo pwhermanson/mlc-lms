@@ -1,0 +1,140 @@
+,,,,,,,,,,
+,,Evaluation Curriculum,,[To evaluate student's degree of competence in primary skill areas],,,,,,
+EVAL,,,,,Seq,Element,,,,
+Code,Group,Level Title,Unit Title,Active, Order,Type,#,Stage,Name,Description
+EVAL,0010,Primary Level 1A,B. Intervals ,A,00150,GAM-,0120-1E,LEARN,Alpha Steps & Skips 3,Name the letters of the musical alphabet that make steps and skips up & down
+EVAL,0010,Primary Level 1A,B. Intervals ,A,00200,GAM-,0120-3E,QUIZ,Alpha Steps & Skips 3,Name the letters of the musical alphabet that make steps and skips up & down
+EVAL,0015,Primary Level 1A,C. Scales & Key Signature,A,00250,GAM-,0830-1E,LEARN,FloatANote Pentascales 1,Identify the notes of the C Major pentascale - Middle CDEFG
+EVAL,0015,Primary Level 1A,C. Scales & Key Signature,A,00300,GAM-,0830-3E,QUIZ,FloatANote Pentascales 1,Identify the notes of the C Major pentascale - Middle CDEFG
+EVAL,0015,Primary Level 1A,C. Scales & Key Signature,A,00350,GAM-,0840-1E,LEARN,FloatANote Pentascales 2,Identify the notes of the C Major pentascale - Bass CDEFG
+EVAL,0015,Primary Level 1A,C. Scales & Key Signature,A,00400,GAM-,0840-3E,QUIZ,FloatANote Pentascales 2,Identify the notes of the C Major pentascale - Bass CDEFG
+EVAL,0020,Primary Level 1A,D. Pitch & Melody ,A,00450,GAM-,1970-1E,LEARN,Melody Pix 2,Hear and identify patterns of Do-Re-Mi -different tonics; staff & noteheads.
+EVAL,0020,Primary Level 1A,D. Pitch & Melody ,A,00500,GAM-,1970-3E,QUIZ,Melody Pix 2,Hear and identify patterns of Do-Re-Mi -different tonics; staff & noteheads.
+EVAL,0020,Primary Level 1A,D. Pitch & Melody ,A,00550,GAM-,3480-1E,LEARN,Songbirds High and Low,Identify high sounds and low sounds
+EVAL,0020,Primary Level 1A,D. Pitch & Melody ,A,00600,GAM-,3480-3E,QUIZ,Songbirds High and Low,Identify high sounds and low sounds
+EVAL,0020,Primary Level 1A,D. Pitch & Melody ,A,00650,GAM-,0980-1E,LEARN,Grand Staff Guide Notes 2,"Read and Play Treble C, Middle C, Bass C "
+EVAL,0020,Primary Level 1A,D. Pitch & Melody ,A,00700,GAM-,0980-3E,QUIZ,Grand Staff Guide Notes 2,"Read and Play Treble C, Middle C, Bass C "
+EVAL,0025,Primary Level 1A,E. Rhythm,A,00750,GAM-,0760-1E,LEARN,Faster-Slower-Same 2,"Does the music become faster, slower or the same? "
+EVAL,0025,Primary Level 1A,E. Rhythm,A,00800,GAM-,0760-3E,QUIZ,Faster-Slower-Same 2,"Does the music become faster, slower or the same? "
+EVAL,0025,Primary Level 1A,E. Rhythm,A,00850,GAM-,3070-1E,LEARN,Rhythm Pop 1A,"How many beats?  Quarter, half, dotted half and whole notes"
+EVAL,0025,Primary Level 1A,E. Rhythm,A,00900,GAM-,3070-3E,QUIZ,Rhythm Pop 1A,"How many beats?  Quarter, half, dotted half and whole notes"
+EVAL,0030,Primary Level 1A,F. Keyboard Elements,A,00950,GAM-,1640-1E,LEARN,LetterFly 1,CDE--Identify and play on the onscreen keyboard
+EVAL,0030,Primary Level 1A,F. Keyboard Elements,A,01000,GAM-,1640-3E,QUIZ,LetterFly 1,CDE--Identify and play on the onscreen keyboard
+EVAL,0030,Primary Level 1A,F. Keyboard Elements,A,01050,GAM-,1660-1E,LEARN,LetterFly 2,FGAB--Identify and play on the onscreen keyboard
+EVAL,0030,Primary Level 1A,F. Keyboard Elements,A,01100,GAM-,1660-3E,QUIZ,LetterFly 2,FGAB--Identify and play on the onscreen keyboard
+EVAL,0035,Primary Level 1A,G. Music Terms & Symbols,A,01150,GAM-,2150-1E,LEARN,Music Darts 2,"Identify music symbols (see the ""Learn"" level of the game)"
+EVAL,0035,Primary Level 1A,G. Music Terms & Symbols,A,01200,GAM-,2150-3E,QUIZ,Music Darts 2,"Identify music symbols (see the ""Learn"" level of the game)"
+EVAL,0035,Primary Level 1A,G. Music Terms & Symbols,A,01250,GAM-,0710-1E,LEARN,Falling Symbols 2,"Identify music symbols (see the ""Learn"" level of the game)"
+EVAL,0035,Primary Level 1A,G. Music Terms & Symbols,A,01300,GAM-,0710-3E,QUIZ,Falling Symbols 2,"Identify music symbols (see the ""Learn"" level of the game)"
+EVAL,0040,Primary Level 1A,H. Tonal Memory & Playback,A,01350,GAM-,3420-2E,PLAY,Song Birds 2,Hear and play back random patterns of DO - RE - MI -- pre-staff
+EVAL,0040,Primary Level 1A,H. Tonal Memory & Playback,A,01400,GAM-,3420-3E,QUIZ,Song Birds 2,Hear and play back random patterns of DO - RE - MI -- pre-staff
+EVAL,0060,Level 1,C. Scales & Key Signature,A,01450,GAM-,2620-1E,LEARN,Page Turner Keyboard 4,Read and play the notes of the Treble G Major pentascale-GABCD
+EVAL,0060,Level 1,C. Scales & Key Signature,A,01500,GAM-,2620-3E,QUIZ,Page Turner Keyboard 4,Read and play the notes of the Treble G Major pentascale-GABCD
+EVAL,0060,Level 1,C. Scales & Key Signature,A,01550,GAM-,2640-1E,LEARN,Page Turner Keyboard 5,Read and play the notes of the Bass G Major pentascale-GABCD
+EVAL,0060,Level 1,C. Scales & Key Signature,A,01600,GAM-,2640-3E,QUIZ,Page Turner Keyboard 5,Read and play the notes of the Bass G Major pentascale-GABCD
+EVAL,0065,Level 1,D. Pitch & Melody ,A,01650,GAM-,1840-1E,LEARN,Melody Match 2,Hear a melody and tell which melody matches the one you heard
+EVAL,0065,Level 1,D. Pitch & Melody ,A,01700,GAM-,1840-3E,QUIZ,Melody Match 2,Hear a melody and tell which melody matches the one you heard
+EVAL,0065,Level 1,D. Pitch & Melody ,A,01750,GAM-,1990-2E,PLAY,Melody Puzzles 1,"Hear a melody, see the measures out of order, and put measures in order"
+EVAL,0065,Level 1,D. Pitch & Melody ,A,01800,GAM-,1060-1E,LEARN,Grand Staff Pattern Reading 1,"Read from 3 Guide Notes: Bass F, Middle C, Treble G "
+EVAL,0065,Level 1,D. Pitch & Melody ,A,01850,GAM-,1060-3E,QUIZ,Grand Staff Pattern Reading 1,"Read from 3 Guide Notes: Bass F, Middle C, Treble G "
+EVAL,0070,Level 1,E. Rhythm ,A,01900,GAM-,3120-1E,LEARN,Rhythm Rally 1,Which one-measure rhythm is played?  Quarter notes and quarter rests
+EVAL,0070,Level 1,E. Rhythm ,A,01950,GAM-,3120-3E,QUIZ,Rhythm Rally 1,Which one-measure rhythm is played?  Quarter notes and quarter rests
+EVAL,0070,Level 1,E. Rhythm ,A,02000,GAM-,3090-1E,LEARN,Rhythm Pop 3,How many beats? - Adds half and whole rests and ties 
+EVAL,0070,Level 1,E. Rhythm ,A,02050,GAM-,3090-3E,QUIZ,Rhythm Pop 3,How many beats? - Adds half and whole rests and ties 
+EVAL,0075,Level 1,F. Keyboard Elements,A,02100,GAM-,1750-1E,LEARN,LetterFly 6,Play Black Key Sharps & Flats on the onscreen keyboard
+EVAL,0075,Level 1,F. Keyboard Elements,A,02150,GAM-,1750-3E,QUIZ,LetterFly 6,Play Black Key Sharps & Flats on the onscreen keyboard
+EVAL,0080,Level 1,G. Music Terms & Symbols,A,02200,GAM-,3390-1E,LEARN,Snowball Stems 1,Identify whether the stem direction of a note is correct or incorrect. 
+EVAL,0080,Level 1,G. Music Terms & Symbols,A,02250,GAM-,3390-3E,QUIZ,Snowball Stems 1,Identify whether the stem direction of a note is correct or incorrect. 
+EVAL,0085,Level 1,H. Tonal Memory & Playback,A,02300,GAM-,2210-1E,LEARN,Musical Memory 1 CDEG,Play back random patterns of C D E G on the staff with visual clues
+EVAL,0085,Level 1,H. Tonal Memory & Playback,A,02350,GAM-,2210-3E,QUIZ,Musical Memory 1 CDEG,Play back random patterns of C D E G on the staff with visual clues
+EVAL,0090,Level 2,A. Chords & Harmony,A,02400,GAM-,3920-1E,LEARN,Tumble Triads 1,Aurally identify chord quality:  Major and minor
+EVAL,0090,Level 2,A. Chords & Harmony,A,02450,GAM-,3920-3E,QUIZ,Tumble Triads 1,Aurally identify chord quality:  Major and minor
+EVAL,0090,Level 2,A. Chords & Harmony,A,02500,GAM-,3860-1E,LEARN,Triad Launch 1,Write major triads starting on white keys
+EVAL,0090,Level 2,A. Chords & Harmony,A,02550,GAM-,3860-3E,QUIZ,Triad Launch 1,Write major triads starting on white keys
+EVAL,0090,Level 2,A. Chords & Harmony,A,02600,GAM-,0180-1E,LEARN,Beat the Clock - Triads 1,"Play triads on the onscreen keyboard: C, G and F Major"
+EVAL,0090,Level 2,A. Chords & Harmony,A,02650,GAM-,0180-3E,QUIZ,Beat the Clock - Triads 1,"Play triads on the onscreen keyboard: C, G and F Major"
+EVAL,0095,Level 2,B. Intervals,A,02700,GAM-,0520-1E,LEARN,Climbing High 2,"Minor pentascales--hear and play back 2nds, 3rds, 4ths, 5ths - same root"
+EVAL,0095,Level 2,B. Intervals,A,02750,GAM-,0520-3E,QUIZ,Climbing High 2,"Minor pentascales--hear and play back 2nds, 3rds, 4ths, 5ths - same root"
+EVAL,0095,Level 2,B. Intervals,A,02800,GAM-,1380-1E,LEARN,Interval Rockets 1,"Identify 2nds, 3rds, 4ths, 5ths, 6ths, 7ths & 8ve on the staff"
+EVAL,0095,Level 2,B. Intervals,A,02850,GAM-,1390-3E,QUIZ,Interval Rockets 1,"Identify 2nds, 3rds, 4ths, 5ths, 6ths, 7ths & 8ve on the staff"
+EVAL,0100,Level 2,C. Scales & Key Signature,A,02900,GAM-,2500-1E,LEARN,Order Me Up 2,Name the order of the sharps as they appear in key signatures
+EVAL,0100,Level 2,C. Scales & Key Signature,A,02950,GAM-,2500-3E,QUIZ,Order Me Up 2,Name the order of the sharps as they appear in key signatures
+EVAL,0100,Level 2,C. Scales & Key Signature,A,03000,GAM-,2820-1E,LEARN,Pentascale Toolbox 2,Visually identify C G F D Major and minor pentascales 
+EVAL,0100,Level 2,C. Scales & Key Signature,A,03050,GAM-,2820-3E,QUIZ,Pentascale Toolbox 2,Visually identify C G F D Major and minor pentascales 
+EVAL,0105,Level 2,D. Pitch & Melody ,A,03100,GAM-,1870-1E,LEARN,Melody Mayhem 1,"See two melodies in 3/4 range of a 5th, 2nds and 3rds & tell which one you hear"
+EVAL,0105,Level 2,D. Pitch & Melody ,A,03150,GAM-,1870-3E,QUIZ,Melody Mayhem 1,"See two melodies in 3/4 range of a 5th, 2nds and 3rds & tell which one you hear"
+EVAL,0105,Level 2,D. Pitch & Melody ,A,03200,GAM-,1510-1E,LEARN,Jingle Notes 3,Identify and name three ledger lines above the treble staff
+EVAL,0105,Level 2,D. Pitch & Melody ,A,03250,GAM-,1510-3E,QUIZ,Jingle Notes 3,Identify and name three ledger lines above the treble staff
+EVAL,0110,Level 2,E. Rhythm ,A,03300,GAM-,1210-1E,LEARN,Hot Air Rhythms 2,"See 2 rhythms, choose which one you hear.  Quarter notes, dotted quarter-eighth notes "
+EVAL,0110,Level 2,E. Rhythm ,A,03350,GAM-,1210-3E,QUIZ,Hot Air Rhythms 2,"See 2 rhythms, choose which one you hear.  Quarter notes, dotted quarter-eighth notes "
+EVAL,0110,Level 2,E. Rhythm ,A,03400,GAM-,2950-1E,LEARN,Rhythm Factory 1,Hear and see a 2-measure rhythm--are they the same or different? Quarter & eighth-note pairs 3/4
+EVAL,0110,Level 2,E. Rhythm ,A,03450,GAM-,2950-3E,QUIZ,Rhythm Factory 1,Hear and see a 2-measure rhythm--are they the same or different? Quarter & eighth-note pairs 3/4
+EVAL,0110,Level 2,E. Rhythm ,A,03500,GAM-,3000-1E,LEARN,Rhythm Math 1,Supply the missing note or rest in a measure.  Note & rest values through eighth-note pairs
+EVAL,0110,Level 2,E. Rhythm ,A,03550,GAM-,3000-3E,QUIZ,Rhythm Math 1,Supply the missing note or rest in a measure.  Note & rest values through eighth-note pairs
+EVAL,0120,Level 2,G. Music Terms & Symbols,A,03600,GAM-,0730-1E,LEARN,Falling Symbols 4,Identify music terms & symbols.  See the Learn level of the game
+EVAL,0120,Level 2,G. Music Terms & Symbols,A,03650,GAM-,0730-3E,QUIZ,Falling Symbols 4,Identify music terms & symbols.  See the Learn level of the game
+EVAL,0125,Level 2,H. Tonal Memory & Playback,A,03700,GAM-,2310-2E,PLAY,Mystery Note 1,Hear  CDE followed by one of the notes.  Play note on the onscreen keyboard
+EVAL,0125,Level 2,H. Tonal Memory & Playback,A,03750,GAM-,2270-2E,PLAY,Musical Memory 3-CDEG,Play back random patterns of C D E G on the onscreen keyboard
+EVAL,0125,Level 2,H. Tonal Memory & Playback,A,03800,GAM-,2270-3E,QUIZ,Musical Memory 3-CDEG,Play back random patterns of C D E G on the onscreen keyboard
+EVAL,0130,Level 3,A. Chords & Harmony,A,03850,GAM-,3960-1E,LEARN,Tumbleweeds 1,"Hear I-V7-I, i-V7-i, I-IV-I and i-iv-i and identify whether the progression is Maj or min"
+EVAL,0130,Level 3,A. Chords & Harmony,A,03900,GAM-,3960-3E,QUIZ,Tumbleweeds 1,"Hear I-V7-I, i-V7-i, I-IV-I and i-iv-i and identify whether the progression is Maj or min"
+EVAL,0130,Level 3,A. Chords & Harmony,A,03950,GAM-,0660-1E,LEARN,Falling Chords 2,"Visually identify I, IV and V chords in C and G Major"
+EVAL,0130,Level 3,A. Chords & Harmony,A,04000,GAM-,0660-3E,QUIZ,Falling Chords 2,"Visually identify I, IV and V chords in C and G Major"
+EVAL,0135,Level 3,B. Intervals,A,04050,GAM-,1160-1E,LEARN,Hearing Harmonic Intervals1,"Hear a pattern of 3 harmonic intervals and identify the intervals: 2nds, 3rds, 4ths, 5ths"
+EVAL,0135,Level 3,B. Intervals,A,04100,GAM-,1160-3E,QUIZ,Hearing Harmonic Intervals1,"Hear a pattern of 3 harmonic intervals and identify the intervals: 2nds, 3rds, 4ths, 5ths"
+EVAL,0135,Level 3,B. Intervals,A,04150,GAM-,4020-1E,LEARN,Will Work for Peanuts 2,"Visually identify 5ths, 6ths, 7ths and octaves on the keyboard"
+EVAL,0135,Level 3,B. Intervals,A,04200,GAM-,4020-3E,QUIZ,Will Work for Peanuts 2,"Visually identify 5ths, 6ths, 7ths and octaves on the keyboard"
+EVAL,0140,Level 3,C. Scales & Key Signature,A,04250,GAM-,2090-1E,LEARN,Minor Keyboard Playback 1,Hear & play back random patterns in the A natural minor scale - on the MIDI keyboard
+EVAL,0140,Level 3,C. Scales & Key Signature,A,04300,GAM-,2090-3E,QUIZ,Minor Keyboard Playback 1,Hear & play back random patterns in the A natural minor scale - on the MIDI keyboard
+EVAL,0140,Level 3,C. Scales & Key Signature,A,04350,GAM-,2340-1E,LEARN,Natural Minor Memory 1,"Hear, then play back random patterns in the A natural minor scale-on the staff"
+EVAL,0140,Level 3,C. Scales & Key Signature,A,04400,GAM-,2340-3E,QUIZ,Natural Minor Memory 1,"Hear, then play back random patterns in the A natural minor scale-on the staff"
+EVAL,0145,Level 3,D. Pitch & Melody ,A,04450,GAM-,2880-1E,LEARN,Pitch Detective 1,Melodic Dictation: C-F-G Major pentascales 2nds and 3rds
+EVAL,0145,Level 3,D. Pitch & Melody ,A,04500,GAM-,2880-3E,QUIZ,Pitch Detective 1,Melodic Dictation: C-F-G Major pentascales 2nds and 3rds
+EVAL,0145,Level 3,D. Pitch & Melody ,A,04550,GAM-,3990-1E,LEARN,Underwater Clef Hanger,See a note on a line or space. Which clef makes it the displayed letter name?
+EVAL,0145,Level 3,D. Pitch & Melody ,A,04600,GAM-,3990-3E,QUIZ,Underwater Clef Hanger,See a note on a line or space. Which clef makes it the displayed letter name?
+EVAL,0150,Level 3,E. Rhythm ,A,04650,GAM-,2990-1E,LEARN,Rhythm Finder 1,Rhythmic dictation in patterns including 8th-note pairs
+EVAL,0150,Level 3,E. Rhythm ,A,04700,GAM-,2990-3E,QUIZ,Rhythm Finder 1,Rhythmic dictation in patterns including 8th-note pairs
+EVAL,0150,Level 3,E. Rhythm ,A,04750,GAM-,3290-1E,LEARN,Rhythm Writer 4,Place the barlines in 3-4 and 4-4 rhythms with eighth-note syncopation
+EVAL,0150,Level 3,E. Rhythm ,A,04800,GAM-,3290-3E,QUIZ,Rhythm Writer 4,Place the barlines in 3-4 and 4-4 rhythms with eighth-note syncopation
+EVAL,0160,Level 3,G. Music Terms & Symbols,A,04850,GAM-,0730-1E,LEARN,Falling Symbols 4,Identify music terms & symbols.  See the Learn level of the game
+EVAL,0160,Level 3,G. Music Terms & Symbols,A,04900,GAM-,0730-3E,QUIZ,Falling Symbols 4,Identify music terms & symbols.  See the Learn level of the game
+EVAL,0165,Level 3,H. Tonal Memory & Playback,A,04950,GAM-,2280-1E,LEARN,Musical Memory Challenge 1,"Hear, then playback random patterns in the C Major Scale"
+EVAL,0165,Level 3,H. Tonal Memory & Playback,A,05000,GAM-,2280-3E,QUIZ,Musical Memory Challenge 1,"Hear, then playback random patterns in the C Major Scale"
+EVAL,0170,Level 4,A. Chords & Harmony,A,05050,GAM-,1150-1E,LEARN,Harmony Puzzle 2,"Hear 4 chord progressions. Match to correct chord symbols. I-V7-I,  i-V7-i,  I-IV-I,  i-iv-i"
+EVAL,0170,Level 4,A. Chords & Harmony,A,05100,GAM-,1150-3E,QUIZ,Harmony Puzzle 2,"Hear 4 chord progressions. Match to correct chord symbols. I-V7-I,  i-V7-i,  I-IV-I,  i-iv-i"
+EVAL,0170,Level 4,A. Chords & Harmony,A,05150,GAM-,0890-1E,LEARN,Floating Inversions 2,Name the Major triad in root position and 2nd inversion
+EVAL,0170,Level 4,A. Chords & Harmony,A,05200,GAM-,0890-3E,QUIZ,Floating Inversions 2,Name the Major triad in root position and 2nd inversion
+EVAL,0175,Level 4,B. Intervals,A,05250,GAM-,1270-1E,LEARN,Interval Aliens 2,"Identify aural intervals: 2nd, mi 3rd, M3rd, 4th, 5th, octave"
+EVAL,0175,Level 4,B. Intervals,A,05300,GAM-,1270-3E,QUIZ,Interval Aliens 2,"Identify aural intervals: 2nd, mi 3rd, M3rd, 4th, 5th, octave"
+EVAL,0175,Level 4,B. Intervals,A,05350,GAM-,2430-1E,LEARN,Note Flakes-Diatonic Intervals 1,"Identify 2nds through octaves, Major and Perfect, on the staff"
+EVAL,0175,Level 4,B. Intervals,A,05400,GAM-,2430-3E,QUIZ,Note Flakes-Diatonic Intervals 1,"Identify 2nds through octaves, Major and Perfect, on the staff"
+EVAL,0180,Level 4,C. Scales & Key Signature,A,05450,GAM-,1550-1E,LEARN,Key Signature Canoes 1,See a scale pattern and select the key signature that makes it a Major scale - sharps
+EVAL,0180,Level 4,C. Scales & Key Signature,A,05500,GAM-,1550-3E,QUIZ,Key Signature Canoes 1,See a scale pattern and select the key signature that makes it a Major scale - sharps
+EVAL,0185,Level 4,D. Pitch & Melody ,A,05550,GAM-,1890-1E,LEARN,Melody Mayhem 3,"Which melody do you hear? In 3-4 & 4-4, eighth-note pairs, C-F-G pentascales"
+EVAL,0185,Level 4,D. Pitch & Melody ,A,05600,GAM-,1890-3E,QUIZ,Melody Mayhem 3,"Which melody do you hear? In 3-4 & 4-4, eighth-note pairs, C-F-G pentascales"
+EVAL,0185,Level 4,D. Pitch & Melody ,A,05650,GAM-,1530-1E,LEARN,Jingle Notes 4,Identify and name three ledger lines below the bass staff
+EVAL,0185,Level 4,D. Pitch & Melody ,A,05700,GAM-,1530-3E,QUIZ,Jingle Notes 4,Identify and name three ledger lines below the bass staff
+EVAL,0190,Level 4,E. Rhythm ,A,05750,GAM-,3240-1E,LEARN,Rhythm Rockets 4,Hear 4 rhythms and choose which one matches the written rhythm - triplets
+EVAL,0190,Level 4,E. Rhythm ,A,05800,GAM-,3240-3E,QUIZ,Rhythm Rockets 4,Hear 4 rhythms and choose which one matches the written rhythm - triplets
+EVAL,0190,Level 4,E. Rhythm ,A,05850,GAM-,3800-1E,LEARN,Surfin' Rhythms 2,"Hear a rhythm and choose from 3 written rhythms: quarter note,rest, 8th note pairs"
+EVAL,0190,Level 4,E. Rhythm ,A,05900,GAM-,3800-3E,QUIZ,Surfin' Rhythms 2,"Hear a rhythm and choose from 3 written rhythms: quarter note,rest, 8th note pairs"
+EVAL,0205,Level 4,H. Tonal Memory & Playback,A,05950,GAM-,2300-1E,LEARN,Musical Memory Keybd Challenge 2,"Hear, then play back random patterns of notes from the bass G Major 1-octave scale-onscreen keybd"
+EVAL,0205,Level 4,H. Tonal Memory & Playback,A,06000,GAM-,2300-3E,QUIZ,Musical Memory Keybd Challenge 2,"Hear, then play back random patterns of notes from the bass G Major 1-octave scale-onscreen keybd"
+EVAL,0210,Level 5,A. Chords & Harmony,A,06050,GAM-,3950-1E,LEARN,Tumble Triads 4,Aurally identify minor and diminished triads
+EVAL,0210,Level 5,A. Chords & Harmony,A,06100,GAM-,3950-3E,QUIZ,Tumble Triads 4,Aurally identify minor and diminished triads
+EVAL,0210,Level 5,A. Chords & Harmony,A,06150,GAM-,0680-1E,LEARN,Falling Chords 4,"Visually identify tonic, subdominant & dominant chords in G, D, A & E Major"
+EVAL,0210,Level 5,A. Chords & Harmony,A,06200,GAM-,0680-3E,QUIZ,Falling Chords 4,"Visually identify tonic, subdominant & dominant chords in G, D, A & E Major"
+EVAL,0215,Level 5,B. Intervals,A,06250,GAM-,1280-1E,LEARN,Interval Aliens 3,"Identify aural intervals: m2, M2, m3, M3, P4, P5"
+EVAL,0215,Level 5,B. Intervals,A,06300,GAM-,1280-3E,QUIZ,Interval Aliens 3,"Identify aural intervals: m2, M2, m3, M3, P4, P5"
+EVAL,0215,Level 5,B. Intervals,A,06350,GAM-,2440-1E,LEARN,Note Flakes-Diatonic Intervals 2,"Identify M & mi 2nds and 3rds, Perfect 4ths and 5ths"
+EVAL,0215,Level 5,B. Intervals,A,06400,GAM-,2440-3E,QUIZ,Note Flakes-Diatonic Intervals 2,"Identify M & mi 2nds and 3rds, Perfect 4ths and 5ths"
+EVAL,0220,Level 5,C. Scales & Key Signature,A,06450,GAM-,0440-1E,LEARN,Circle of Fifths 1,Learn the sharp circle and the flat circle separately
+EVAL,0220,Level 5,C. Scales & Key Signature,A,06500,GAM-,0440-3E,QUIZ,Circle of Fifths 1,Learn the sharp circle and the flat circle separately
+EVAL,0225,Level 5,D. Pitch & Melody ,A,06550,GAM-,1900-1E,LEARN,Melody Mayhem 4,Which melody do you hear? Major or parallel minor? Triplets and 16ths
+EVAL,0225,Level 5,D. Pitch & Melody ,A,06600,GAM-,1900-3E,QUIZ,Melody Mayhem 4,Which melody do you hear? Major or parallel minor? Triplets and 16ths
+EVAL,0225,Level 5,D. Pitch & Melody ,A,06650,GAM-,0060-1E,LEARN,60 Second Club 4,Rapidly read & play all grand staff notes-with key signatures--on the onscreen keyboard-timed
+EVAL,0225,Level 5,D. Pitch & Melody ,A,06700,GAM-,0060-3E,QUIZ,60 Second Club 4,Rapidly read & play all grand staff notes-with key signatures--on the onscreen keyboard-timed
+EVAL,0230,Level 5,E. Rhythm ,A,06750,GAM-,2930-1E,LEARN,Random Rhythms 1,"Aurally identify notated eighth, dotted eighth-16th, triplets and various 16th note patterns"
+EVAL,0230,Level 5,E. Rhythm ,A,06800,GAM-,2930-3E,QUIZ,Random Rhythms 1,"Aurally identify notated eighth, dotted eighth-16th, triplets and various 16th note patterns"
+EVAL,0230,Level 5,E. Rhythm ,A,06850,GAM-,3310-1E,LEARN,Rhythm Writer 6,Place the barlines in 6-8 rhythms
+EVAL,0230,Level 5,E. Rhythm ,A,06900,GAM-,3310-3E,QUIZ,Rhythm Writer 6,Place the barlines in 6-8 rhythms

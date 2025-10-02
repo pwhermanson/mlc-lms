@@ -1,0 +1,78 @@
+﻿All Games Page Re-Design
+Improving "All Games" is our highest priority. The website has no value without efficient student game playing.  Game view (not game/stage) has always been part of our specs--that is why stage is a numbered suffix and thumbnail goes with game. (I have revised the All Games Re-design docs)
+
+List View:
+(a) List view needs to be a single line per game (not game/stage). 
+(b) Minimum info per line is Game ID, Game Name, Skill Level, Skill Area.
+(c) We need a simple indicator of whether a game is available.
+(d) Thumbnails need to be tiny.  Eliminate if one line is not achievable.
+
+Default View:
+(a) View needs to be games, not game/stages
+(b) Thumbnails need to be very small.  Request for more per page really meant to be able to see more "above the fold".  Excessive scrolling is not desirable.
+
+Filter Controls:
+Now that single game search is available, these are now sufficient.
+
+Structure:
+We really need a two-tier structure for the game-selection experience.
+(1) User can choose either default or list view to select a game (Screen 1).
+(2) Upon selection of a game the user can choose the stage (Screen 2).
+(3) Game/stage is presented for play in a “full screen” experience (Screen 3).
+(4) Upon game completion “Quitting” the game should return the user to Screen 2.
+
+The Screen 3 must have the header and footer removed—it serves no purpose and takes up screen.
+
+(Regarding Structure (2) the Review stage need not be presented, but if it is easier to program all stages to appear, that is acceptable.)
+
+
+
+
+
+
+
+
+
+
+
+
+Original All Games Page Re-design Discussion is below for reference
+________________
+
+
+Original All Games Page Re-design Discussion is below for reference:
+
+
+12.        L5-B        PRELUDE        Dashboard        / “All Games”
+
+
+The search boxes work fine. All of the selection criteria works. Switching between list and thumbnails is fine.
+
+
+The problem is with the number of games appearing and the lack of information.  There are both game-playing functional needs to meet as well as an instructional and marketing element.
+
+
+(1) Many more thumbnails should be on the page—the size could be significantly reduced so that instead of 12 games showing, it could be 24 to 36.
+
+
+(2) What should show is the Game, not Game/Stage.  To play a Game the student would first click on the Game, then a second pane presents the Learn, Play, Quiz, Challenge options linking to the game play.  “Review” is used in the sequence—it is just the Quiz over again—and does not need to show in the all games.
+
+
+(3) We need a search by Game Name.  Teachers need to be able to assign individual games and the student should be able to go to it without scrolling a list.  (Resolved)
+
+
+(4) The list view could also be two-part.  A. Select the Game, then B. Select the Game/Stage.
+
+
+(5) Add a button (under Clear Search) for return to “Dashboard”. (Agree to disregard)
+
+
+(6) We should see more information about a Game in the list part A (like what appears on the game-playing screen):
+        Game ID
+        Game Name
+        Skill Level
+        Skill Area
+        Visual or Aural
+
+
+(7) Game play page Header and Footer (and logo) need to be revised.  Game should take up whole screen.  There should be a Back button if student decides not to play the game.  When student chooses Quit button at the end of a game they should automatically be taken back to All Games to select next game.

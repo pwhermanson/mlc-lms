@@ -1,0 +1,36 @@
+Shortcomings of current system.
+lack of gamification.
+
+4.0 is totally controlled by Blayzer
+
+4.0 is constucted using a obsolete and fragile version of PHP/Laravel
+
+Laggy and slow
+
+Does not have a standard or pleasing design, themes, system. Practical with none of the whimsical or fun style look and feel that is required.
+
+The system was not built from the ground up for MLC, it was a previous LMS open source that was hacked together for MLC so we could stay under budget. Corners were cut.
+
+
+One symptom of this problem is that the database is almost useless. It is nearly impossible to find the data that you are looking for during development because tables and columns are not labeled appropriately.
+
+
+The 4.0 specifications that we have were given to Blayzer to create the 4.0 system. But the specifications were only partially implemented. 
+
+UX is lacking on every screen.
+
+Many links out to 3rd party roadmap and docs: help.musiclearningcommunity.com
+
+
+Need to make account management easier to use.
+
+Need better functionality that is easy to use for teacher to manage students (communications, make assignments, add or remove students)
+
+Need better functionality for a student record to be independent from a teacher so that if/when a student leaves and comes back, or a teacher leaves or comes back - that student can be re-associated with a teacher. Note that we will not have an email address for a student, so the student must keep their student ID?  Not sure how this will work, but we may have this documented already in the specs.
+
+Pathways to user support are unclear
+
+
+As a student, need usability for kindergarten / pre-reading students
+
+Mobile usability (especially phone) is currently not good.

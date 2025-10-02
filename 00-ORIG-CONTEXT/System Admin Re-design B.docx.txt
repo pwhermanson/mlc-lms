@@ -1,0 +1,34 @@
+﻿SYSTEM ADMIN RE-DESIGN
+
+
+The system administrator panels have some deficiencies in meeting our specs.  
+
+
+Prioritization:
+Here are the priority needs (discussion is below):
+
+
+(A).  Using the member number filter, we can see all users associated with that member.  We need that list sorted by type, in the order; Subscriber, Teacher-Admin, Teacher, Student.  Sort order within each type is irrelevant. (Labelling of type would be helpful, but lower priority)
+
+
+(B).  Because there will be thousands of students, we need to be able to see just the Subscribers with a filter.  Sort order by reverse chronology, as it is now, is acceptable.
+
+
+
+
+Member profile/structure:
+In our old system the product administrator could see a member’s entire structure of admin, teachers, students.  To do that in the MLC live now one must find the member in Admin then log on with their credentials to the LMS to see.  But the administrator panels do not provide the credentials (password).  So, we cannot see the entire profile and structure of a member.
+
+
+        Suggestion 1:  Can the subscribing member’s username and password be included in the user list (maybe as an additional select on the members username)?  I note that right now clicking on the username takes you to a panel with other information concentrated on student work.  But it includes “Profile”.  If that could be populated with Profile and subscription information of the member, including username and password, that could solve most of the problem.  Or the “EDIT” control for a user already has most of the profile—it could echo the password.
+
+
+        Suggestion 2:  Can the user list be sorted to show all names associated with a subscribing member? (filter?).  This can be done using the member number—but if this is a school of 1300 students, the list is totally unusable.  If it could be sorted by Subscriber, then Teacher-Admin, then Teacher, then students, that would be a help.
+
+
+        Suggestion 3:  Can the user list add a field that shows name type, e.g. Admin, Teacher-Admin, Teacher, Student?  Phone could be moved to the profile as in Suggestion 1.
+
+
+Users list:
+The users list shows all names in the system, of all types (admin, teacher, student), apparently in reverse order by registration date.  With many members this list will become unwieldy, particularly when a new school with many students is added.   (We added some new members since April 1.).  Additional filtering and/or sorting criteria are needed.
+        Suggestion 4:  Can a filter be added to only show Subscriber Admin’s?

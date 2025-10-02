@@ -1,0 +1,23 @@
+﻿Assignment Play Re-Design
+17. L5-D        PRELUDE        Student Dashboard/“My Courses”/ This is a placeholder for enhanced design of the assignment playing page.  (which should include “Return to Dashboard” button or “Check Scores” button.  {See “Assignment Play Re-design” docs}
+
+
+There are several items needed here.
+
+
+Issue A.        An easy way for the child to navigate back to the dashboard to check scores  would be helpful.
+
+
+Issue B.        The logo/placeholder on top could be smaller and less obtrusive.
+
+
+Issue C.        We would like Game ID displayed.
+
+
+Issue D.        “Similar Courses” should show the next Assignments coming up in the Sequence the student has been assigned.
+
+
+Issue E.        At the present time the bottom bar “Check scores…” operates properly to keep from moving to the next assignment.  However, it would be good if the scores recorded on the list, so that a student could at a glance see their progress.
+
+
+Issue F.        Scores are not recording.  I played Staff Birds, Song Birds and Low, Middle, High 4-4-21 and no score was recorded.  Scores were recording on April 1.  (Test Student One).

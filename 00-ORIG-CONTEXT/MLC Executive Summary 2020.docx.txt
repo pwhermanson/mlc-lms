@@ -1,0 +1,55 @@
+﻿MusicLearningCommunity.com General Description
+Executive Summary
+
+
+Purpose. MusicLearningCommunity.com (MLC) is a website presenting hundreds of online learning games designed to educate users in music literacy; sight-reading, music theory, aural identification, and keyboard skills.
+
+
+Users.  The site has public access to some free games and marketing information.  Free trials of up to 30-days are provided.  Subscribers can be schools with one or multiple teachers, home school students, private music teachers, young students and adult students.  Pricing is based upon the number of student slots, which are the number of students for which score history is maintained.  Retaining history is not a requirement for use of the learning games (such as in a group teaching environment) so the minimum 5 slots is almost always adequate for those uses.
+
+
+Games.  Each game teaches a very specific concept with simple graphics.  An attempt is made to always reinforce aural skills with visual response and vice versa.  Each game has a Learn (tutor), Play (practice), Quiz (mastery), and Review (retention) stage.  Some games have a second and third Review. Some games also have a Challenge stage, which allows users to compete with other users worldwide.  A Review stage is a repeat of the Quiz, used for testing retention. Whenever a game is played through to the end a quantitative score is recorded in the database.  Each game has a target score.  Whenever the target score is met or exceeded on the Quiz the user is considered to have mastered that concept, and a green check mark (this could be some other graphic) appears on the screen for that game.  For Challenge games a gameboard is available which shows scores of the top 20 students in the world (by firstname and city).
+Although teachers may play games, scores and score history are only recorded for a student.
+
+
+Subscription.  The website is subscription-based to the teacher level non-public portal.  A subscriber is identified with a name and e-mail address combination and given a unique member number. The subscriber is considered to be the “Administrator”, with the capabilities of entering student information and teacher information, depending upon the subscription level capabilities. Using log-on credentials of username and password (Administrator/Teacher) the subscriber gains access to the Teacher Resource Center.  From there the “teacher” may enter student information into the system up to the number of student slots for the particular subscription level.  A student upon entering their assigned username and password gains access to the Student Learning Center and can play games.  In the Solo subscription level the Teacher defaults from the subscriber information but can be altered by the Administrator (subscriber).
+
+
+Subscription Levels.  Offered are a free trial subscription for up to 19 student slots (Prelude Subscription), a paid subscription of from 5 to 19 student slots (Solo Subscription), and a paid subscription of from 20 students up (Ensemble Subscription). Permanent access to the Music Learning Community Network is provided at all three levels.
+The Prelude Subscription includes 19 student slots, a 30-day automatic length of subscription, access to the Administrator level, Teacher level, and Student Level, and up to one teacher and 19 students can be entered.  
+The Solo Subscription includes a minimum of 5 student slots ($7.95 per month) plus students can be added beyond 5 (at $0.80 per month) up to 20, one teacher can be added.
+The Ensemble Subscription includes a minimum of 20 student slots ($19.95 per month) plus students can be added in sets of 5 beyond 20 without limit ($0.20 per month), multiple teachers can be added without limit, access to a student information upload utility is provided, and a sponsor code is made available.
+
+
+Credentials. Upon subscribing the member may create their own username and password.  A subscriber is given a unique member number. The member number is connected to the “Administrator” level capabilities, which includes the ability to add Teachers (with usernames and passwords) and students (with usernames and passwords).   For the Prelude Subscription and the Solo Subscription, the Administrator and Teacher are automatically the same username and password (the Administrator should be able to change the defaulted Teacher username and password) .  For the Ensemble Subscription the member (Administrator) must create one or more Teacher accounts with usernames and passwords.  Students can be created by either the Administrator or Teacher.  The “student name” title can also be “group” (e.g. Third Grade).
+
+
+Student Information.  A subscriber enters student information into the system.  This includes firstname, lastname, username, password.  Also, the student is assigned his or her sequence name and sequence start position.
+
+
+E-Learning Presentation.  Upon log-in a student user is presented with the Student Resource Center dashboard page.  On that page a student may get score reports, send a message to their teacher, select their next pending assignment, or select other games to play.  (Design possibility is making this a native app.)  If the student chooses to play games other than the next assignment, the student may choose from four options: (1) Lifetime Musician Curriculum, MLC’s proprietary sequence; (2) Named Sequences, correlated to several popular music theory methods; (3) Individual Games presented by Level, Concept Category (e.g. Pitch-Aural), and game name (alphabetical) and (4)  Fixed Do Games (solfege).
+The e-learning systems presents learning elements in prescribed, named, sequences.  A student user is presented the next learning element upon completion of the previous element in the sequence.  What sequence is presented is determined by the assignment by the Teacher (or Administrator). 
+
+
+Any game that presents an interactive keyboard can be played using a mouse or a MIDI keyboard attached via USB or Bluetooth (mobile devices).
+
+
+Learning  Management System.  Learning elements consist of games, text, graphics, music, video, and awards.  These are combined in Assignments.  Assignments are sequenced in Groups.  Groups are sequenced in Named Sequences (including Lifetime Musician Curriculum).  A template is used by the Education Administrator (internal) to create and modify these sequences for deployment of them to the website.  Every game element has a unique number.  A sequence is created by properly entering these numbers into the template.
+
+
+Account Management.  A subscriber can self-manage their subscription information via the website, using Braintree services.  We accept Discover, American Express, MasterCard and Visa credit cards, and PayPal.  There are three membership payment plans: Prelude, Solo, and Ensemble.  A member signs up for one, but can upgrade at any time.  The Prelude level requires no credit card information.  
+If a member changes the number of student slots in either the Solo or Ensemble plan the change in slots occurs immediately but the billing increase occurs at the next scheduled charge date. A Solo monthly subscriber may increase or decrease in increments as low as one student slot.  An Ensemble subscriber may increase or decrease in increments of 5 student slots ($1.00 per month).  An annual subscriber in either plan may increase and be charged a prorated amount, but cannot decrease the number of student slots until the annual subscription termination date.  
+The amount to be charged is automatically calculated from the base amount ($7.95 for Solo and $19.95 for Ensemble) and then adding an incremental amount for the number of student slots selected (either $0.80 over 5 or $0.20 over 20).
+Any subscriber paying monthly should have the ability to self-manage a suspend and re-start date, during which time no charges will be made and no student access is permitted.  The process for an annual subscriber to re-subscribe and alter the number of student slots should be simple and encourage re-subscription.  There may need to be a 30-day period during which the subscription is active but payment has not been received. (This may take some discussion.)
+Obviously, the various standard features of updating credit card information, address, etc must be provided.  A cogent description of amount committed and terms must be presented for acceptance by the subscriber.
+
+
+Member Management.  For managing memberships a member screen is presented that includes the basic customer information of name and address information, school, e-mail address, start date, end date, maximum number of students, member number, sponsor code, sponsor code used mark, three phone numbers, financial account number reference, and notes.  These fields need to be searchable.
+
+
+Marketing.  Various elements aimed at marketing must be included in the design of what is presented to the subscriber and users.  These details will be addressed during the development process.
+
+
+
+
+Revision date 1/22/20

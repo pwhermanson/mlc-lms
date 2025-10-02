@@ -1,0 +1,25 @@
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,480,Promotion Code Table,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Promo,,,Promo Code Name,,,,# of,,# of,,Amount of,,Code,,Code,,Comments
+,Code,,,,,,,Students,,Days,,Discount,,Start Date,,End Date,,
+,,,,,,,,,,,,,,,,,,
+,TRIAL,,,Prelude Trial,,,,19,,30,,100%,,1-Jan-18,,,,Normal free trial
+,HS318A,,,Home School Buyers,,,,5,,365,,100%,,1-Jan-18,,,,Payment direct from HSBC
+,MTNA18,,,MTNA Conference,,,,,,365,,10%,,15-Mar-18,,18-Apr-19,,Discount of 10% for first year
+,NCKP19,,,NCKP Conference,,,,,,365,,10%,,20-Jul-19,,1-Sep-20,,Discount of 10% for first year
+,LINK18,,,Music Link Foundation,,,,,,,,25%,,1-Jul-19,,,,Recurring discount to Link Members
+,FMEA18,,,Florida MEA,,,,,,365,,,,1-Jan-18,,,,Discount of 10% for first year
+,TMEA18,,,Texas MEA,,,,,,365,,,,1-Jan-18,,,,Discount of 10% for first year
+,KORG18,,,KORG Keyboards,,,,,,,,,,,,,,
+,ML101,,,Bill Auto Sign,,,,,,,,,,1-Jan-18,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,Use of a promotion code overrides the subscription criteria and replaces it with any value in the,,,,,,,,,,,,,,,
+,,,corresponding column of the promotion code table.  Each code is active from the start date until ,,,,,,,,,,,,,,,
+,,,the end date (if given).  ,,,,,,,,,,,,,,,

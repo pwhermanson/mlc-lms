@@ -1,0 +1,1697 @@
+1,MusicLearningCommunity Content Management Specifications,,,,
+2,,X,DELIVERED- DONE,,
+3,,O,Partial delivery or Pending,,
+4,,N,No longer applies-ignore,,
+5,1,,Phase 1-Must have in 2020 redeployment,,
+6,1,,Phase 1-Must have in 2020 redeployment--possible specification change through collaboration,,
+7,2,,Phase 2-Place in 2020 first phase if possible,,
+8,3,,Phase 3-Delay until after Phase 2 items--may require MLC team action before developer can proceed,,
+9,,,,,Last edited 1-29-20 / 6-18-21
+10,TERMS & DEFINITIONS,,,,
+11,,GAME STRUCTURAL ELEMENTS,,,
+12,1,X,Game,A discrete set of programmed procedures that teaches a concept in a game form.,
+13,1,X,,,These are the primary learning elements.
+14,1,X,,,Games may be preceded or followed by other types of learning elements in any Sequence.
+15,1,X,,,
+16,1,X,Learning Element,"Games, videos, text, music, tasks, and other items predefined to be included in lesson assignments.",
+17,1,X,,,"""Learning Elements"" is used as a generalized term for a variety of presentations that can be made to a student, including games, videos, text, music, and tasks."
+18,1,X,,,These are used to prepare students for their assignments or to reinforce what has been learned.  They can also be used as a type of reward for completing the assignments.
+19,1,X,,,"Since games are the principal learning elements around which the others may be related, many references to ""games"" means ""games, inclusive of related learning elements"""
+20,1,X,,,
+21,1,X,Game Name,The alpha-numeric identification given to a specific game,
+22,1,X,,,Names are limited to 40 characters
+23,1,X,,,Game Concept Description (used for assignment label)
+24,1,X,,,Associated with each Game Name is a brief description of less than 100 characters
+25,1,X,,,
+26,1,X,Game Stages,Each game has at least four and sometimes five stages through which the student advances,
+27,1,X,,,"""Learn stage"" is a tutorial introducing the musical concept"
+28,1,X,,,"""Play stage"" is a set of routines for practicing, or ""drill"" of the concept"
+29,1,X,,,"""Quiz stage"" is a set of routines designed to test mastery of the concept by the student"
+31,1,X,,,"""Review stage"" is a repeat of the Quiz presented as a separate game for supporting learning retention.  There is always one Review, sometimes two and three."
+30,1,X,,,"""Challenge stage"" is a set of routines associated with specific games that allows unlimited scoring and permits a student to compete with other students world-wide.  Only certain games are designed in a way to utilize this feature."
+32,1,X,,,"All stages are available to a student, and are separate games, as marked by the stage parameter"
+33,1,X,,,
+34,1,X,Game Number,An unique identifier for each unique game-stage combination,
+35,1,X,,,"A prefix to the number are the letters ""GAM"", representing the game learning element type"
+36,1,X,,,"The base of the number consists of 4 digits.  The numbers were created from the alpha master list of existing games, with a spread of 10 between them (e.g 0010, 0020, 0030)"
+37,1,X,,,"A 1-digit suffix represents the game stage, e.g. Learn (1-Learn, 2-Play, 3-Quiz, 4-Challenge, 5-Review1, 6-Review2, 7-Review3.  Zero (0) is reserved to represent the introductory video associated with the Learn stage of a game.'"
+38,1,X,,,"Use of a number avoids some difficulty of mis-spelled or ambiguous naming, and provides a built-in sequence for game ordering in a list."
+39,1,X,,,The game number is combined with the Named Sequence number and Named Sequence Group number to create a Sequence Assignment code.
+40,1,X,,,
+41,1,X,Game Description,Each game has a distinct (html) description page,
+42,1,X,,,A moderately succinct description of what the game teaches and how it does this
+43,1,X,,,These game descriptions are in the public area of the website and are searcheable
+44,1,X,,,A visitor finding a game description is led to a specific marketing page.
+45,1,X,,,
+46,1,X,Score,A quantitive measure obtained by a student when completing a game--a quantitative measure of achievement,
+47,1,O,BUG #S10,,Scores are obtained only when game is played to completion
+48,1,O,BUG #S3,,Scores are recorded in the data base and observable by the student and teacher
+49,1,X,,,Several scores are retained: date and score when first played; date and score when last played; date and highest score obtained.
+50,1,O,BUG #S7,,"Scores are presented in the student Assignment Box along side each game and color-highlighted; in green when the target score has been reached, in yellow when a 90% score has been reached, and in red when the score obtained is less than 90%."
+51,1,X,,,"Scores are kept by level.  When a game stage is repeated in another level, the scores from the first level are replaced by the scores on the next level."
+52,1,X,,,
+53,1,X,Target Score,A pre-defined value for each game that if obtained by the student represents mastery of the concept being taught,
+54,1,X,,,Achievement of a target score is a recorded event.
+55,1,X,,,When the target score has been reached for all games in an Sequence Assignment Group the next Assignment Group is presented to the student
+56,1,N,,,"A teacher has the ability to override requirements, so that if an individual student has problems with a certain concept that student may continue--but no reward (badge or certificate) is earned until all is mastered."
+57,1,X,,,
+58,1,X,Game Sequence,The order in which games are presented to students to play,
+59,1,X,,,This order is determined by a combination of elements including:
+60,1,X,,,"(1) Sequence Code  (eg. ""LIFE"")"
+61,1,X,,,"(2) Sequence Level (Title, e.g. ""Level 5"")"
+62,1,X,,,"(3) Sequence Unit 9 (Title, e.g. ""Assignment 13"")"
+63,1,X,,,"(4) Sequence Assignment Group code (e.g. ""565A"")"
+64,1,X,,,"Sequencing is primarily an assignment of a succession of concepts, which in turn results in presentation of games that support those concepts.  Said another way, the result is a selection of games to be played, but the mechanism by which this happens is a selection of a series of concepts."
+65,1,X,,,
+66,1,X,Named Game Sequence,A game sequence organization which is directly related to a pre-established or published teaching method,
+67,1,X,,,"Music publishing companies have published series of piano teaching books, i.e. ""Faber"", ""Alfred"", which can have correlated game sequences supporting them,"
+68,1,X,,,"MLC incorporates its own ""Lifetime Musician Curriculum"" sequence"
+69,1,X,,,These may be added only by the Content Administrator
+70,1,X,,,"Once created, a named game sequence is universally available"
+71,1,X,,,A sequence is unique by Name (Sequence Code) and Level.
+72,1,X,,,Expectation is that the order of magnitude of number of named game sequences is under 15.
+73,1,X,,,A template or other mechanism for adding new sequences and editing old must be built into the design.
+74,1,X,,,
+75,1,X,Sequence Level,The first sub-division of a Named Sequence,
+76,1,X,,,"Combined with Name, this creates a unique individual Named Sequence"
+77,1,X,,,
+78,1,X,Sequence Unit,The second sub-division of a Named Sequence--sub-division of a Sequence Level,
+79,1,X,,,"This is additional sub-categorization of a level, to correlate with the external source materials."
+80,1,X,,,"Also available is a descriptive box which can hold other information, such as page number."
+81,1,X,,,"A student's initial sequence assignment must be defined at the ""Sequence"", ""Level"", ""Unit"" detail"
+82,1,X,,,"In the Lifetime Musician Sequence the Unit is an ""Assignment""  "
+83,1,X,,,Other sequences will in general pattern the organization of Lifetime Musician.
+84,1,X,,,
+85,1,X,Lifetime Musician Curriculum,The default named game sequence,
+86,1,X,,,This is used as the default for game category searches
+87,1,X,,,This is the default for game assignments
+88,1,X,,,Is the basis for creation of a custom named game sequence
+89,1,X,,,
+90,1,X,Sequence Selection,The abiity of a teacher to assign a named sequence to a student,
+91,1,X,,,The teacher would select from a list of all sequences.
+92,1,X,,,For the Ensemble level a mass assignment of one sequence to all students should be possible.
+93,1,X,,,
+94,1,X,Sequence Assignments,The ordered set of individual assignments of individual games and groups of games matching a Named Sequence,
+95,1,X,,,"When a sequence selection is made the entire sequence is assigned to a student, but for practical purposes the student needs to be given only pieces--sets of games--to learn and play for a period of time, before moving on to the next groups of games in the sequence.  These groups are the ""homework assignments""."
+96,1,X,,,Assignment group codes are used to identify these sequence assignments.
+97,1,X,,,The individual assignments order is retained.
+98,1,X,,,"A student's initial sequence assignment must be defined at the ""Sequence"", ""Level"", ""Unit"" detail"
+99,1,X,,,
+100,1,X,Sequence Assignment Group Code,A code assignment to a named sequence that splits the sequence into groups for assignment,
+101,1,X,,,"When a student enters their landing page the assignment that appears is the ""current"" assignment group"
+102,1,X,,,The code is a number that is assigned--the same number is assigned to each element that is to be in the same group.
+103,1,X,,,The numbering is such that it permits insertion of a new group in between two previously established Sequence Assignment Groups without having to renumber all subsequent groups.
+104,1,X,,,
+105,1,X,Game Category Search,Search for a game or group of games based upon the concepts being taught,
+106,1,X,,,At minimum this search requires selection criteria to include at least one category
+107,1,X,,,"Can be performed by teacher, parent, or student"
+108,1,X,,,Marking additional selection criteria at the category level will narrow the search
+109,1,X,,,"The selection criteria are ""and'ed"", meaning an sql AND statement, where all selection criteria must be true to retrieve a data base selection."
+110,1,O,TASK #A3a,,"The result of a search can be entered into the Custom Current Assignments box of a student profile, becoming part of the next assignment."
+111,1,X,,,Currently the games have not been correlated with all of the possible concept categories.  Consequently the initial design must anticipate the later addition of these to the game database and ability to search for them.
+112,1,X,,,
+113,1,X,Assignment Group,Ordered set of learning elements focused on music learning games that teach individual concepts,
+114,1,X,,,Correlated with external methods by a Sequence Name/Level/Unit & Description
+115,1,X,,,Defined internally with a group number and a group level number
+116,1,X,,,Every definition has several components:
+117,1,X,,,     Title:  A general name for the assignment group
+118,1,X,,,"     Sequence:  The name of the sequence (e.g., ""Alfred Premier"")"
+119,1,X,,,"     Level:  Generally a specific, such as ""Level 1"", but could be something else"
+120,1,X,,,"     Unit:  Often a specific unit, e.g. ""Unit 1"", but could be a book, e.g. ""Book 3"""
+121,1,X,,,     Synopsis:  Free-form text used to describe a summary of the assignment.
+122,1,X,,,
+123,1,X,Assignment Pane,The box on the screen visible to a student that includes the current game assignment,
+124,1,X,,,The current assignments are in the order specified in the Sequence Group Assignment
+125,1,O,TASK #S7,,The target scores and their level of achievement are listed next to the games
+126,1,O,TASK #S5,,Assignments are automatically presented.
+127,1,O,TASK #A3a,,Custom assignments may be added to those automatically assigned.
+128,1,N,,,The main assignment pane is broken into two sub-panes:
+129,1,N,,,     Sequenced game assignments
+130,1,N,,,     Custom game assignments from the teacher
+131,1,X,,,
+132,1,N,Pre-Assignment Pane,"Before the Assignment Pane a box provides learning activities or supporting media  including video, music, and text",
+133,1,N,,,"This is also called the ""introduction pane"""
+134,1,N,,,
+135,1,N,Post-Assignment Pane,Following the Assignment Pane a box provides learning activities or supporting media to reinforce concepts just learned,
+136,1,N,,,"This is also called the ""summary pane"""
+137,1,X,,,
+138,1,X,,,
+139,1,SUBSCRIBER GROUPS,,,
+140,1,X,Username,Access to the non-public area is granted with a user name and password combination (log on credentials),
+141,1,X,,,Usernames are unique
+142,1,X,,,Usernames are created by the user/subscriber upon subscription
+143,1,X,,,Users may revise usernames
+144,1,X,,,"Automatic creation concatenates the first three characters of the users lastname, the first two characters of the users firstname and the last 4 digits of the member number."
+145,1,X,,,
+146,1,X,Password,Passwords are required to accompany usernames,
+147,1,X,,,Passwords are not unique
+148,1,X,,,Passwords are creatd by the user/subscriber upon subscription
+149,1,X,,,Users may revise passwords
+150,1,X,,,
+151,1,X,Member Number,Every subscriber (username) has a unique number of variable length up to six digits.,
+152,1,X,,,"subsciber/Users become members of ""Music Learning Community"""
+153,1,X,,,
+154,1,X,,,
+155,1,O,Permission Table,The capability associated with each unique member number is controlled by a permissions table,
+156,1,X,,,User Name/Password use to access the non-public areas
+157,1,X,,,User Name/Password create - create and revise one's own logon credentials
+158,3,,,,Community access - profesional community for music educators
+159,1,X,,,Game Access - access to student center and playing all games
+160,2,N,,,Newsletter - periodic newletter sent to e-mail address
+161,2,X,,,Content Library - music education resources for teachers
+162,1,X,,,"Subscription management - start, suspend (for set period), cancel subscriptions and update payment information"
+163,1,X,,,Student Create and Manage - access teacher dashboard and create and manage student users
+164,1,X,,,Teacher Create and Manage - access to supervisor dashboard and creat and manage teacher users
+165,2,O,TASK #A9,,Upload Utility - access and use utility that uploads student users to a teacher from a csv file
+166,1,,,,Sponsor Code - code which may be used to sponsor a non-profit school general music subscription for Tier 2 (Solo) - 5 students
+167,1,,,,
+168,1,,Sponsor Code,Every subscriber has a unique number used to sponsor a General Music subscription for a non-profit organization,
+169,1,,,,"EDIT  (The member number could be used as a sponsor code by ""enabling it"" and then ""entering in the sponsor code box"".  So no new number would have to be generated.)
+Structure is the member number with a letter suffix  (Initially the letter ""A"")"
+170,1,,,,Additional sponsor codes could be created in the future by adding a different suffix
+171,1,,,,The sponsor code of tier 2 (below $19.95 per month) is not active until the subscriber moves to tier 3
+172,1,,,,Sponsor codes are ordered by subscriber date and used in that order
+173,1,,,,If not assigned by the subscriber within 90 days of subscription the code is put in a pool to be used by others
+174,1,X,Prelude Subscriber ,(Pricing Tier 1 - Free),
+175,1,X,,,User Name and password
+176,1,X,,,Free Trial of one teacher for 19 students for 1 month
+177,2,N,,,Community communication
+178,2,N,,,Newsletters
+179,2,X,,,Content Library
+180,2,X,,,
+181,1,X,Solo Subscriber ,(Pricing Tier 2 - $7.95 plus $0.80 per student above 5),
+182,1,X,,,Tier 1 benefits plus:
+183,1,X,,,Single Teacher monthly or annual access
+184,1,X,,,Up to 19 students
+185,1,X,,,
+186,1,X,Ensemble Subscriber,(Pricing Tier 3 - $19.95 plus $0.20 per student above 20),
+187,1,X,,,Tier 2 benefits plus:
+188,1,X,,,20 students plus additional students in groups of 5 unlimited
+189,1,X,,,Multiple Teacher w/ Supervisor
+190,2,O,TASK #A9,,Upload Utility
+191,1,,,,Sponsor code
+192,1,X,,,
+193,1,USER GROUPS & FUNCTIONS,,,
+194,1,X,Developer,Person or organization that has full access to the system.,
+195,1,X,,,Access to entire system
+196,1,X,,,
+197,1,X,Content Admin,MLC staff person that can manage the database content,
+198,1,X,,,Can perform any function of any other role.
+199,1,X,,,Access to the Administrative Dashboard
+200,1,X,,,Create/manage sequences
+201,1,X,,,Create/manage members (customers)
+202,1,X,,,Create/manage teachers
+203,1,X,,,Create/manage students
+204,1,X,,,Assign discount percentage to subscriber
+205,1,,,,Assign sponsor code to subscriber
+206,1,O,,,Assign promotion code to subscriber
+207,1,,,,Other general settings
+208,1,,,,Request reports from customer database
+209,1,x,,,
+210,1,X,Customer Service,MLC staff person that can handle customer service,
+211,1,X,,,Create/manage members (customers)
+212,1,X,,,Create/manage teachers
+213,1,X,,,Create/manage students
+214,1,X,,,Assign discount percentage to subscriber
+215,1,,,,Assign sponsor code to subscriber
+216,1,O,,,Assign promotion code to subscriber
+217,1,,,,Request reports from customer database
+218,1,X,,,
+219,1,X,Member,"Subscriber that can create and manage teachers and students (""Administrator"")",
+220,1,X,,,Access to Member Dashboard
+221,1,X,,,This user can act in the role of a Teacher
+222,1,X,,,Can manage own username and password
+223,1,,TASK #A11,,"Can obtain reports on all students, arranged by teacher assigned"
+224,1,X,,,Has unique Member Number
+225,1,X,,,
+226,1,X,Teacher,Non-subscriber that can access the Teacher Resource Center (created by Member),
+227,1,X,,,Access to Teacher Resource Center
+228,1,X,,,Can create and manage students:
+229,1,X,,,"Manual Student entry by [Lastname, Firstname, Username, Password]  (can be edited)"
+230,1,X,,,Sequence Assignment-Named (defaults to Lifetime Musician Curriculum)
+231,1,X,,,Current Automated Assignments (Automated from the Named Sequence)
+232,1,,TASK #A11,,Can obtain reports on all students assigned to them.
+233,1,X,,,Can manage own username and password
+234,1,X,,,
+235,1,X,Student,Non-subscriber that can access the student resource page (created by Teacher or Member),
+236,1,X,,,Access to Student Resource Center
+237,1,X,,,Must be associated with a teacher
+238,1,X,,,May not manage own username and password
+239,1,X,,,May play all games
+240,1,,TASK #S4,,Can obtain reports of their scores and progress
+241,1,X,,,May be assigned to a named sequence
+242,1,X,,,
+243,1,X,,,
+244,1,USER PROFILES,,,
+245,1,X,Tier 1 Subscriber,Unique set of elements describing the settings and parameters assigned to an individual role  [My Account],
+246,1,X,(Prelude),,"Every susbscriber has the basic (Tier 1)  member profile and a ""My Account"" management portal"
+247,1,X,,,
+248,1,X,,System-generated elements,
+249,1,X,,,1- Member ID Number
+250,1,X,,,"3- Status (Free-Trial, Active, InActive, Closed)--Defined by Signup Authorization"
+251,1,X,,,4- Free-Trial flag--indicates free-trial completion by product (can be edited by custormer service to provide additional free trial)
+252,1,X,,,5- Start Date
+253,1,X,,,6- End Date (Start Date + 30 days)
+254,1,X,,,"7- Permission codes (PWU,PWC,SLK,STU,NEW,CON,SUB,SMG)  [See User Permission Table]"
+255,1,X,,,14- Comment box of 254 characters (viewing by Content Administrator and Customer Service only)
+256,1,O,,,##-Promotion code 
+257,1,X,,,
+258,1,X,,Subscriber managed elements,
+259,1,X,,,8- First Name
+260,1,X,,,9- Last Name 
+261,1,X,,,10- E-mail address 
+262,1,X,,,11- Username
+263,1,X,,,12- Password
+264,1,X,,,13- Telephone (optional)
+265,1,X,,,
+266,1,X,,Customer service managed elements,
+267,1,X,,,Comment box of 254 characters (viewing by Content Administrator only)
+268,1,,,,## - Promotion code
+269,1,X,,,
+270,1,X,Tier 2 Subscriber,Additional set of elements describing the settings and paramenters assigned,
+271,1,X,(Solo),,
+272,1,,,System-generated elements,
+273,1,,,,## - Promotion code
+274,1,X,,,
+275,1,X,,Subscriber managed elements,
+276,1,,TASK #A8,,16- Entity Name (optional)
+277,1,X,,,17- Member Type:
+278,1,X,,,   -Parent
+279,1,X,,,   -Private Music Teacher
+280,1,X,,,   -Adult Student
+281,1,X,,,   -Music School
+282,1,X,,,   -Non-profit School
+283,1,X,,,   -University
+284,1,N,,,   -Other
+285,1,X,,,"18- Subscription term indicator  (A-Annual, M-Monthly)"
+286,1,X,,,19- Number of students slots
+287,1,X,,,20- Related financial account reference
+288,1,,,,22- Promotion (sponsor) code (optional)
+289,1,O,TASK #A8a,,23- Order # (optional)
+290,1,X,,,
+291,1,X,Tier 3 Subscriber,Additional set of elements describing the settings and paramenters assigned,
+292,1,X,(Ensemble),,
+293,1,,,System-generated elements,
+294,1,,,,2- Sponsor Code (Available or In-Use status)
+295,1,,,,15- Related Sponsor Code
+296,1,,,,21- Member ID of subscriber using Sponsor Code
+297,1,X,,,
+298,1,X,,,Comment box of 254 characters (viewing by Content Administrator only)
+299,1,X,,Associate details-only seen when Content Administrator activates,
+300,1,,,,Commission percentage rate  (set by Content Administrator)
+301,1,X,,,Choice of payment method
+302,1,X,,,  Credit card information
+303,1,X,,,  Check payment information
+304,1,,,,Activity Report
+305,1,,,,Sponsor Code
+306,2,O,TASK #A9,,Upload student information utility
+307,2,X,,,
+308,1,X,Administrator,,
+309,1,X,,Manage Teachers and Students,
+310,1,X,,,"Set up Teacher [Lastname, Firstname, Username, Password]"
+311,1,X,,,"Manual Student entry by Teacher [Lastname, Firstname, Username, Password]"
+312,1,X,,,Manual Student transfer from Teacher to Teacher
+313,1,X,,,Master Named Sequence assignment
+314,2,,TASK #A6,,Entity name to appear on Certificate
+315,2,X,,,
+316,2,X,,,
+317,2,X,,,
+318,1,ACCOUNT MANAGEMENT,,,
+319,1,X,,,
+320,1,X,Administrator,Account Management,
+321,1,X,,,Account Management Features:
+322,1,X,,,  1-Select Payment Method Check or Credit Card
+323,1,X,,,     a-Check selection causes automatic invoice
+324,1,X,,,     b-Credit selection causes automatic one-time charge
+325,1,X,,,     c-Free subscription {controlled by Content Administrator}
+326,1,X,,,  2-Update Credit Card number and date (when applicable)
+327,1,X,,,  3-Suspend to future date--which will change the billing cycle. All student information is retained.
+328,1,O,,,  4-Cancel on future date--which will cause subscription to terminate.  All student information is retained for 36 months.
+329,1,,,,"   Upon cancellation a short survey pops up to obtain reason for cancellation:
+      Cost
+      Content
+      Ease of use
+      Other"
+330,1,X,,,  5-Current subscription period dates will be presented (cannot be edited)
+331,1,X,,,  6-Annual subscription renewal date
+332,1,,TASK #A8a,,  7-Renewal purchase order number
+333,1,,,,  8-Enter number of students- (addition causes automatic invoice creation--no proration)
+334,1,X,,,  9-Change Username
+335,1,X,,,  10-Change Password
+336,1,X,,,  11-Current subscription $ amount
+337,2,X,,Data Upload,
+338,2,,TASK #A9,,Mass Student entry by Teacher/Classroom
+339,2,,,,Mass Student Transfer
+340,2,X,,,
+341,1,X,Teacher,,
+342,1,X,,Manage Students,
+343,1,X,,,"Manual Student entry by Teacher [Lastname, Firstname, Username, Password] (can be edited)"
+344,1,X,,,Master Named Sequence attach  (check box to attach to all) {Schools by class}
+345,1,X,,,Specify starting level in Named Sequence for each student {Schools by class}
+346,1,N,ALL GAMES,,Toggle-override game play sequence assignment restriction (allows student to play next assignment before mastering current one--with no assignment completion reward)
+347,1,X,,,
+348,1,X,,,
+349,1,X,,Account Management (not available when there is an administrator),
+350,1,X,,,  1-Update Credit Card number and date
+351,1,,,,     c-Free subscription {controlled by Content Administrator}
+352,1,X,,,  2-Suspend to future date--which will change the billing cycle. All student information is retained.
+353,1,O,,,  3-Cancel on future date--which will cause subscription to terminate.  All student information is retained for one year.
+354,1,,,,   Upon cancellation a short survey pops up to obtain reason for cancellation:
+355,1,,,,      Cost
+356,1,,,,      Content
+357,1,,,,      Ease of use
+358,1,,,,      Other
+359,1,X,,,  8-Change Username
+360,1,X,,,  9-Change Password
+361,1,X,,, 11-Current subscription $ amount
+362,3,,,," 10-Participant of Teacher Finder (yes, no)"
+363,3,,,,   Instruments they teach (for Teacher Finder)
+364,3,,,,  Website address (for Teacher Finder)
+365,3,,,,
+366,1,X,Student,,
+367,1,X,,,"Status (Active, InActive, Closed)--Defined by Teacher.  Active and Inactive are included in Teacher student number limit, but Closed opens a slot."
+368,1,X,,,ID Number
+369,1,N,,,Name & Address
+370,1,N,,,  First Name
+371,1,N,,,  Last Name
+372,1,N,,,  E-mail address (optional for schools)
+373,1,X,,,Username
+374,1,X,,,Password
+375,1,,,,Teacher Name
+376,1,X,,,Sequence Assignment-Named (defaults to Lifetime Musician Curriculum)
+377,1,X,,,"Current Automated Assignments (Automated from the Named Sequence, superceded by Custom Sequence)"
+378,1,N,,,Toggle-override game play level restriction (allows student to play any level game at recess)
+379,1,X,,,Score Report
+380,1,,,,Optional due date for assignment
+381,2,,,,Optional text notification to parent
+382,2,,,,Turn On/ Turn Off weekly e-mail
+383,2,,,,  Content of e-mail options:
+384,2,,,,   Notify assignments due
+385,2,,,,   List Panel 2 game assignments
+386,2,X,,,    
+387,2,X,,,
+388,2,X,,,
+389,1,OTHER DATABASE ELEMENTS,,,Unfinished
+390,1,X,Content Admin Dashboard,A center from which the content administration functions can be accessed,
+391,1,,,User group permissions management,
+392,1,,,,
+393,1,,,Relationship Profile set up,
+394,1,,,,
+395,1,,,Functions,
+396,1,,,,
+397,1,,,,
+398,1,,Promotion Code Table,A table that provides set-up parameters for processes triggered by entering Coupon Codes in the Promotion Code box,
+399,1,,,,Elements include:
+400,1,,,,   Coupon Number
+401,1,,,,"   Coupon Name (short description, e.g. ""MTNA 2013"")"
+402,1,,,,   Active Date
+403,1,,,,   Expire Date
+404,1,,,,"   Type:  Free Trial, Referral Discount"
+405,1,,,,
+406,1,X,,Free Trial,
+407,1,X,,,Default setting for all (21 days)
+408,1,X,,,Number of days to add to default setting (e.g. for MTNA conference a code would add 21 days)
+409,1,X,,,
+410,3,,,Referral,Delayed implmentation until Phase V or later}
+411,3,,,,
+412,3,,,,
+413,3,,,,
+414,1,O,Student History,"All games played and the scores obtained are recorded when a game is fully completed, and kept in the data base",
+415,1,X,,,Students have a means to request and review their full score report at any time
+416,1,X,,,This is in addition to the score records that appear alongside Assignments
+417,1,,,,Forward scores to another teacher
+418,1,X,,,
+419,1,X,Games,"All games, with their accompanying parameters must be held in the data base.",
+420,,,,,
+421,,,,,
+422,,,,,
+423,,,,,
+424,1,,Reports,,
+425,,,,,
+426,,,,,
+427,2,,Teacher Materials,,
+428,,,,,
+429,,,,,
+430,2,,Communications,,
+431,,,,,
+432,,,,,
+433,,,,,
+434,2,,FAQ,,
+435,,,,,
+436,,,,,
+437,,,Other,,
+438,,,,,
+439,,,,,
+440,,,,,
+441,,,,,
+442,,,,,
+443,,BRAND CONCEPTS,,,
+444,,,,,
+445,1,,Brand,Our brand is MusicLearningCommunity.com,
+446,1,,,,This is the established flagship of the group and aimed directly at the music learning market
+447,3,,,,Membership in MLC provides access to all websites
+448,,,,,
+449,,,,,
+450,1,,Logo/mascot,Our logo is Terry Treble,
+451,1,,,,This character is on almost all advertising material
+452,1,,,,An animated Terry Treble introduces elements on the websites
+453,3,,,,Terry Treble logo products are sold on the Terry Treble website
+454,3,,,,Terry Treble is a contributor to the Blog.
+455,1,,,,"Terry Treble has a short theme song, ""Music is fun. Soon you will see.  Come play music with me."""
+456,1,,,,
+457,1,,Slogan,"Our slogan is ""Come Play""",
+458,1,,,,This is used throughout the websites and often in print materials
+459,1,,,,ComePlayMusic website is the primary focus of online marketing
+460,1,,,,
+461,1,,Distinctive Language,A number of phrases are used repeatedly or in strategic places,
+462,1,,,,"""Think like a kid again"" --addressing adult users of the games"
+463,1,,,,"""Lifetime Musician Curriculum"" --the default proprietary curriculum sequence used in all websites"
+464,1,,,,"""Playground for Lifetime Musicians in training"""
+465,1,,,,"""Come Play Today"""
+466,1,,,,"""The premier source of music education technology information"" (MLC)"
+467,1,,,,"""The premier source for music education technology and provider of breakthrough websites carefully designed for professional music teachers and students.  Games and other fun learning activities tie to solid curriculum, fully supported by automated features."""
+468,1,,,,
+469,1,,Colors,Pastel colors predominate with a multi-color rainbow order graded banner,
+470,1,,,,Primary light yellow and blue were previously used and might be considered for emphasis
+471,1,,,,Orange highlight
+472,,,,,
+473,,,,Convention attire,
+474,,,,,Option 1
+475,,,,,   Silver longsleeve shirts with Terry Treble logo
+476,,,,,   Gray slacks
+477,,,,,   Yellow bowties?
+478,,,,,Option 2
+479,,,,,   White dress shirts with Terry Treble logo on pocket
+480,,,,,   Navy slacks
+481,,,,,   Orange w/black stripe regular ties (Paul Frederick TW2453 Regular satin tie-orange)
+482,,,,,
+483,,,,,
+484,,MARKETING ELEMENTS,,,
+485,,,,,
+486,,,Blog,A blog is maintained on the MusicLearningCommunity.com website and visitors are guided there from the other sites.,
+487,,,,,Only members may comment.
+488,,,,,
+489,,,Conventions,,
+490,,,,Target Conventions,
+491,,,,,MTNA-Music Teachers National Association annual conference for private music teachers.  Target for MLC (late March)
+492,,,,,"NCKP-National Conference of Keyboard Pedagogy semi-annual conference for piano pedagogy.  
+Target for MLC (July odd years)"
+493,,,,,State Music Educators annual conferences for school music teachers.  Target for MLC
+494,,,,,   FMEA-Florida  January 10-12
+495,,,,,   OMEA-Ohio February 7-9
+496,,,,,   TMEA-Texas February 13-16
+497,,,,,
+498,,,,,Possible home school conferences
+499,,,,,
+500,,,,Advertising banners,
+501,,,,,"Plan to create a new banner with new colors and place in second, attached booth"
+502,,,,,Promote new features
+503,,,,,
+504,,,,Printed material,
+505,,,,,Handout material with coupon number used for free trial
+506,,,,,
+507,,,,,
+508,,,Print Advertising,Miminal print advertising is required,
+509,,,,,
+510,,,,Business Cards,
+511,,,,,One business card design for MusicLearningCommunity which lists the other websites
+512,,,,,One phone number
+513,,,,,One address
+514,,,,,
+515,,,,Convention Flyers,
+516,,,,,"General flyer emphasizing MusicLearningCommunity.com, but including information about all websites"
+517,,,,,Specific MusicLearningCommunity flyer for school presentations
+518,,,,,ComePlayMusic specific information
+519,,,,,
+520,,,,MTNA Magazine,
+521,,,,,1/8 page ad layout
+522,,,,,1/4 page ad layout
+523,,,,,
+524,,,,Keyboard Pedagogy Magazine,
+525,,,,,1/4 page ad layout
+526,,,,,
+527,,,,Music for Young Children newsletter,
+528,,,,,1/2 page ad layout
+529,,,,,
+530,,,,TMEA (Texas Music Educators),
+531,,,,,1/8 page ad layout-white on black
+532,,,,,
+533,,,Mobile Devices,Responsive design is a requirement to meet the demands of the mobile market,
+534,,,,,
+535,,COMPETITION,,,Unfinished
+536,,,,,
+537,,,TIME,The primary competion consists of any other activity that occupies a student's time on and off the internet,
+538,,,,,
+539,,,WEBSITES,There are only two websites targeting the same markets with music learning games,
+540,,,,,
+541,,,,TonicTutor.com,
+542,,,,,This is from an Canadian company.
+543,,,,,"The games are well done, they have a large number of them.  The pedagogy is okay. "
+544,,,,,The teacher management is very complicated.
+545,,,,,The site is subscription based.
+546,,,,,
+547,,,,ThetaMusic.com,
+548,,,,,This is from a Japanese company which appears to have studied MLC and included similar features.
+549,,,,,Unknown if there is a curriculum management system within.
+550,,,,,The site is subscription based.
+551,,,,,
+552,,,,,
+553,,,,Musictechteacher.com,
+554,,,,,"This is from an American company, from a public school music teacher who has created these for her own students and shares them with everyone (from her website)"
+555,,,,,These inculde flash games and printable worksheets.
+556,,,,,The site is free.
+557,,,,,
+558,,,,,
+559,,,MOBILE APPS,(Unknown name),
+560,,,,,This company is offering mobile apps that are music games.  These are well done and engaging.
+561,,,,,Scoring available to teachers is missing.
+562,,,,,Only a relatively few games have been produced.
+563,,,,,"The business model is economically questionable, but the developer owns his own software company,"
+564,,,,,which constrains development costs
+565,,,,,One has to pay for each game one-time at download.
+566,,,,,
+567,,,,Many music-type apps are available on the iPad,
+568,,,,,"These generally deal with only a few concepts, but some are very good. (e.g. Rolf's Rhythm)"
+569,,,,,"Obviously these lack a coordinated, systematic curriculum for learning."
+570,,,,,
+571,,,,,
+572,,,,,
+573,CONCEPT CATEGORIES,,,Tier 1,+Tier 2   MUSIC FAMILY LEARNING ELEMENTS
+574,,1,Basic Elements,BASE,
+575,,,,Active,
+576,,,,Inactive,
+577,,,,Level Range,"[0,1,2,3,4,5,6,7] e.g 1-3"
+578,,,,Aural,
+579,,,,Visual,
+580,,,,Free,
+581,,,,+TYPE,
+582,,,,GB,Game-Beginner
+583,,,,GO,Game-Older
+584,,,,V,Video
+585,,,,A,Music or Other Audio
+586,,,,P,Graphic
+587,,,,T,Text
+588,X,,Added 8-27-12,D,Award
+589,,,,K,Task
+590,,,,+Method,
+591,,,,,Identify
+592,,,,,Name
+593,,,,,Play
+594,, ,,,Same or different
+595,,,,,Arrange
+596,,,,,Match
+597,,,,,Dictation
+598,,,,MIDI,
+599,,,,Timed,
+600,,,,+Instrument,
+601,,,,,Piano
+602,X,,Added 8-27-12,,Voice
+603,,,,,Clarinet
+604,,,,,Saxophone
+605,,,,,Trumpet
+606,,,,,
+607,,2,Stage,STAGE,
+608,,,,Null,
+609,,,,Learn Stage,
+610,,,,Play Stage,
+611,,,,Quiz Stage,
+612,,,,Challenge Stage,
+613,,,,Review 1,
+614,,,,Review 2,
+615,,,,Review 3,
+616,,,,,
+617,,3,Rhythm,RHYTM,
+618,,,,Null,
+619,,,,+Pre-Reading,
+620,,,,,Steady Beat vs. Unsteady Beat
+621,,,,,Long & Short
+622,,,,+Note & Rest Values,
+623,,,,,Whole note
+624,,,,,Whole rest
+625,,,,,Half note
+626,,,,,Half note-dotted
+627,,,,,Half rest
+628,,,,,Quarter note
+629,,,,,Quarter note-dotted
+630,,,,,Quarter rest
+631,,,,,Quarter rest-dotted
+632,,,,,Eighth note
+633,,,,,Eighth note-dotted
+634,,,,,Eighth rest
+635,,,,,Sixteenth note
+636,,,,,Sixteenth rest
+637,,,,,Ties
+638,,,,,
+639,,,,Syncopation,
+640,,,,,
+641,,,,Rythmic Dictation,
+642,,,,,
+643,,,,+Pattern Identification,
+644,,,,,Triplets
+645,,,,,Eighth note pair
+646,,,,,"Dotted Quarter, 8th note"
+647,,,,,Quarter note tied to 8th
+648,,,,,4 16th notes
+649,,,,,Eighth and 2 16ths
+650,,,,,2 16ths and 8th
+651,,,,,Dotted 8th and 16th
+652,,,,,
+653,,4,Meter,METER,
+654,,,,Null,
+655,,,,2/4 Meter,
+656,,,,3/4 Meter,
+657,,,,4/4 Meter,
+658,,,,5/4 Meter,
+659,,,,6/4 Meter,
+660,,,,3/8 Meter,
+661,,,,6/8 Meter,
+662,,,,9/8 Meter,
+663,,,,,
+664,,5,Staff & Pitch,STAFF,
+665,,,,Null,
+666,,,,+Treble,
+667,,,,,Treble Staff
+668,,,,,Ledger Lines Above Treble Staff 
+669,,,,,Middle C Pentascale
+670,,,,,Treble G Pentascale
+671,,,,,Treble Spaces
+672,,,,,Treble Lines
+673,,,,,Treble Sharps
+674,,,,,Treble Flats
+675,,,,,
+676,,,,+Bass,
+677,,,,,Bass Staff
+678,,,,,Middle C Pentascale
+679,,,,,Treble G Pentascale
+680,,,,,Ledger Lines Below Bass Staff
+681,,,,,Bass Lines
+682,,,,,Bass Spaces
+683,,,,,Bass Sharps
+684,,,,,Bass Flats
+685,,,,,
+686,,,,+Grand,
+687,,,,,Ledger Lines Between Staves
+688,,,,,Lines and spaces
+689,,,,,Ledger lines above and below staff
+690,,,,,Sharps and flats
+691,,,,,With key signatures
+692,,,,,
+693,,,,,
+694,,6,Melody,MELOD,
+695,,,,Null,
+696,,,,+Pre-Reading,
+697,,,,,High vs. Low
+698,,,,,"Do, Re, Mi"
+699,,,,,Tunes
+700,,,,,Two Note Patterns
+701,,,,,Up vs. Down
+702,,,,,Up vs. Down vs. Same
+703,,,,,
+704,,,,+Pattern Playing,
+705,,,,,"Grand Staff, Treble G, Middle C, Bass F"
+706,,,,,"Grand Staff, Treble C, Middle C, Bass C"
+707,,,,,"Grand Staff, Treble G, Middle G, Bass G"
+708,,,,,"Grand Staff, the 5 C's"
+709,,,,,"Grand Staff, All Guide Notes"
+710,,,,,"Grand Staff, White Keys"
+711,,,,,"Grand Staff, Black Keys"
+712,,,,,"Grand Staff, White Keys, Black Keys"
+713,,,,,"Grand Staff, White Keys, Black Keys, Key Signatures"
+714,,,,,"Steps, Repeats, Treble Staff"
+715,,,,,"Steps, Repeats, Bass Staff"
+716,,,,,Major Pentascales
+717,,,,,Minor Pentascales
+718,,,,,
+719,,,,Error Detection,
+720,,,,,
+721,,,,+Melodic Dictation,
+722,,,,,Arrange Melody
+723,,,,,"Melodic Dictation, Pentascale"
+724,,,,,
+725,,,,+Pattern Identification,
+726,,,,,Pentascale Major
+727,,,,,Pentascale Minor
+728,,,,,Major
+729,,,,,Natural Minor
+730,,,,,Harmonic Minor
+731,,,,,Melodic Minor
+732,,,,,
+733,,7,Scale,SCALE,
+734,,,,Null,
+735,,,,+Pentascale Major,
+736,,,,,C Major
+737,,,,,G Major
+738,,,,,D Major
+739,,,,,A Major
+740,,,,,E Major
+741,,,,,B Major
+742,,,,,F# Major
+743,,,,,C# Major
+744,,,,,F Major
+745,,,,,Bb Major
+746,,,,,Eb Major
+747,,,,,Ab Major
+748,,,,,Db Major
+749,,,,,Gb Major
+750,,,,,Cb Major
+751,,,,,
+752,,,,+Pentascale Minor,
+753,,,,,a Minor
+754,,,,,e Minor
+755,,,,,b Minor
+756,,,,,f# Minor
+757,,,,,c# Minor
+758,,,,,g# Minor
+759,,,,,d# Minor
+760,,,,,a# Minor
+761,,,,,d Minor
+762,,,,,g Minor
+763,,,,,c Minor
+764,,,,,f Minor
+765,,,,,bb Minor
+766,,,,,eb Minor
+767,,,,,ab Minor
+768,,,,,
+769,,,,+Major Scales,
+770,,,,,C Major
+771,,,,,G Major
+772,,,,,D Major
+773,,,,,A Major
+774,,,,,E Major
+775,,,,,B Major
+776,,,,,F# Major
+777,,,,,C# Major
+778,,,,,F Major
+779,,,,,Bb Major
+780,,,,,Eb Major
+781,,,,,Ab Major
+782,,,,,Db Major
+783,,,,,Gb Major
+784,,,,,Cb Major
+785,,,,,
+786,,,,+Natural Minor Scale,
+787,,,,,a Minor
+788,,,,,e Minor
+789,,,,,b Minor
+790,,,,,f# Minor
+791,,,,,c# Minor
+792,,,,,g# Minor
+793,,,,,d# Minor
+794,,,,,a# Minor
+795,,,,,d Minor
+796,,,,,g Minor
+797,,,,,c Minor
+798,,,,,f Minor
+799,,,,,bb Minor
+800,,,,,eb Minor
+801,,,,,ab Minor
+802,,,,,
+803,,,,+Harmonic Minor Scales,
+804,,,,,a Minor
+805,,,,,e Minor
+806,,,,,b Minor
+807,,,,,f# Minor
+808,,,,,c# Minor
+809,,,,,g# Minor
+810,,,,,d# Minor
+811,,,,,a# Minor
+812,,,,,d Minor
+813,,,,,g Minor
+814,,,,,c Minor
+815,,,,,f Minor
+816,,,,,bb Minor
+817,,,,,eb Minor
+818,,,,,ab Minor
+819,,,,,
+820,,,,+Melodic Minor Scales,
+821,,,,,a Minor
+822,,,,,e Minor
+823,,,,,b Minor
+824,,,,,f# Minor
+825,,,,,c# Minor
+826,,,,,g# Minor
+827,,,,,d# Minor
+828,,,,,a# Minor
+829,,,,,d Minor
+830,,,,,g Minor
+831,,,,,c Minor
+832,,,,,f Minor
+833,,,,,bb Minor
+834,,,,,eb Minor
+835,,,,,ab Minor
+836,,,,,
+837,,,,Chromatic Scale,
+838,,,,Whole Tone Scale,
+839,,,,,
+840,,8,Key Signatures,KYSIG,
+841,,,,Null,
+842,,,,+Major,
+843,,,,,"Major, C, F, G"
+844,,,,,"Major, D, A, E"
+845,,,,,"Major, Bb, Eb, Ab"
+846,,,,,"Major, Db, Gb, F#"
+847,,,,,"Major, C, G, D, A, E, F, Bb"
+848,,,,,"Major, All Sharp Keys"
+849,,,,,"Major, All Flat Keys"
+850,,,,+Minor,
+851,,,,,"Minor, All Sharp Keys"
+852,,,,,"Minor, All Flat Keys"
+853,,,,,"Relative Minor, A, E, D, B"
+854,,9,Intervals,INTVL,
+855,,,,Null,
+856,,,,+Pre-reading,
+857,,,,,Steps
+858,,,,,Skips
+859,,,,P1,
+860,,,,M2,
+861,,,,M3,
+862,,,,P4,
+863,,,,P5,
+864,,,,M6,
+865,,,,M7,
+866,,,,P8,
+867,,,,m2,
+868,,,,m3,
+869,,,,m6,
+870,,,,m7,
+871,,,,,
+872,,,,Tritone,
+873,,,,,
+874,,10,Keyboard Elements,KEYBD,
+875,,,,Null,
+876,,,,+Pre-Reading,
+877,,,,,"Low, Middle, High"
+878,,,,,"Two Black Keys, Vs, 3 Black Keys"
+879,,,,+Piano key names,
+880,,,,,"C, D, E"
+881,,,,,"F, G, A, B"
+882,,,,,"A, B, C, D, E, F, G"
+883,,,,,"F#, G#, A#, C#, D#"
+884,,,,,"Gb, Ab, Bb, Db, Eb"
+885,,,,,"F#, Gb, G#, Ab, A#, Bb, C#, Db, D#, Eb"
+886,,,,,"E#, Fb, B#, Cb"
+887,,11,Chords,CHORD,
+888,,,,Null,
+889,,,,+Major Chord,
+890,,,,,C
+891,,,,,G
+892,,,,,D
+893,,,,,A
+894,,,,,E
+895,,,,,B
+896,,,,,F#
+897,,,,,C#
+898,,,,,F
+899,,,,,Bb
+900,,,,,Eb
+901,,,,,Ab
+902,,,,,Db
+903,,,,,Gb
+904,,,,,Cb
+905,,,,+Minor Chord,
+906,,,,,a
+907,,,,,e
+908,,,,,b
+909,,,,,f#
+910,,,,,c#
+911,,,,,g#
+912,,,,,d#
+913,,,,,a#
+914,,,,,d
+915,,,,,g
+916,,,,,c
+917,,,,,f
+918,,,,,bb
+919,,,,,eb
+920,,,,,ab
+921,,,,,
+922,,,,+Diminished Chord,
+923,,,,,a
+924,,,,,e
+925,,,,,b
+926,,,,,f#
+927,,,,,c#
+928,,,,,g#
+929,,,,,d#
+930,,,,,a#
+931,,,,,d
+932,,,,,g
+933,,,,,c
+934,,,,,f
+935,,,,,bb
+936,,,,,eb
+937,,,,,ab
+938,,,,,
+939,,,,+Augmented Chord,
+940,,,,,C
+941,,,,,G
+942,,,,,D
+943,,,,,A
+944,,,,,E
+945,,,,,B
+946,,,,,F#
+947,,,,,C#
+948,,,,,F
+949,,,,,Bb
+950,,,,,Eb
+951,,,,,Ab
+952,,,,,Db
+953,,,,,Gb
+954,,,,,Cb
+955,,,,,
+956,,,,Dominant 7th,
+957,,,,Diminished 7th,
+958,,,,Major 7th,
+959,,,,Half diminished 7th,
+960,,,,Other 7th,
+961,,,,,
+962,,12,Harmonic Progression,HARM,
+963,,,,Null,
+964,,,,I,
+965,,,,ii,
+966,,,,ii dim,
+967,,,,iii,
+968,,,,IV,
+969,,,,iv,
+970,,,,V,
+971,,,,V7,
+972,,,,vi,
+973,,,,vii,
+974,,,,,
+975,,13,Music Terms,TERM,
+976,,,,Null,
+977,,,,+Dynamics,
+978,,,,,Loud vs Soft
+979,,,,,Forte vs Piano
+980,,,,+Symbols,
+981,,,,,Left vs Right
+982,,,,,Finger Numbers
+983,,,,,Treble (G) Clef
+984,,,,,Bass (F) Clef
+985,,,,,4/4 Time
+986,,,,,3/4 Time
+987,,,,,Staff
+988,,,,,Piano
+989,,,,,Forte
+990,,,,,Mezzo forte
+991,,,,,Mezzo piano
+992,,,,,Repeat sign
+993,,,,,Quarter rest
+994,,,,,Half rest
+995,,,,,Whole rest
+996,,,,,End bar line
+997,,,,,Quarter note
+998,,,,,Half note
+999,,,,,Dotted Quarter Note
+1000,,,,,Whole note
+1001,,,,,Bar line
+1002,,,,,Crescendo
+1003,,,,,Diminuendo (decrescendo)
+1004,,,,,Ritard
+1005,,,,,Pianissimo
+1006,,,,,Fortissimo
+1007,,,,,Sharp
+1008,,,,,Flat
+1009,,,,,Tonic chord
+1010,,,,,Dominant chord
+1011,,,,,Repeat signs
+1012,,,,,Natural sign
+1013,,,,,Key signature
+1014,,,,,Melodic interval
+1015,,,,,Harmonic interval
+1016,,,,,Block chord
+1017,,,,,Broken chord
+1018,,,,,Fermata
+1019,,,,,Accent
+1020,,,,,Staccato
+1021,,,,,Octave
+1022,,,,,Coda
+1023,,,,,To Coda sign
+1024,,,,,6/8 time
+1025,,,,,Common time (4/4)
+1026,,,,,Cut time (2/2)
+1027,,,,,Metronome marking
+1028,,,,,Tenuto
+1029,,,,,First ending
+1030,,,,,Double sharp
+1031,,,,,Double flat
+1032,,,,,Sforzando
+1033,,,,,9/8 time
+1034,,,,,Tie
+1035,,,,,Slur
+1036,,,,,Phrase mark
+1037,,,,,Grace note
+1038,,,,,
+1039,,,,+Italian Terms,
+1040,,,,,Ritardando (ritard)
+1041,,,,,Adagio
+1042,,,,,Moderato
+1043,,,,,Allegro
+1044,,,,,Andante
+1045,,,,,Poco a poco
+1046,,,,,A tempo
+1047,,,,,Molto
+1048,,,,,accelerando
+1049,,,,,
+1050,,,,,
+1051,,14,Tonal Memory & Playback,MEMO,
+1052,,,,Null,
+1053,,,,+Pre-Reading,
+1054,,,,,2-note
+1055,,,,,3-note
+1056,,,,,4-note
+1057,,,,,5-note
+1058,,,,,
+1059,,,,+Staff,
+1060,,,,,2-note
+1061,,,,,3-note
+1062,,,,,4-note
+1063,,,,,5-note
+1064,,,,,Octave
+1065,,,,,
+1066,,,,+Keyboard,
+1067,,,,,2-note
+1068,,,,,3-note
+1069,,,,,4-note
+1070,,,,,5-note
+1071,,,,,Octave
+1072,,,,,
+1073,,,,,
+1074,PROCESSES,,,,
+1075,,,,,
+1076,1,GAME CREATION & PUBLISHING,,,
+1077,1,X,Access,Content Administrator,
+1078,1,X,,,
+1079,1,X,Process Description,Adding a new game.,
+1080,1,X,,,Most of this game creation process takes place external to the website and then the finished game is added to the system.  This specification deals with the addtion to the system of a game not currently present.
+1081,1,X,,,"The game is established, then added to the LMC Sequence, then added to all other sequences."
+1082,1,X,,,"Supporting media elements such as videos, music, and text are included in the general defintion of game."
+1083,1,,,,
+1084,1,X,Steps to Establish Game,,
+1085,1,X,1,Naming the game in the data base,
+1086,1,X,2,Adding the game to the website from the development environment,
+1087,1,X,3,"Connecting the game to the name, and establishing the game number",
+1088,1,X,4,Defining the target score,
+1089,1,X,5,Catagorizing the game (BASE-STATUS = Inactive),
+1090,1,X,6,Saving the game,
+1091,1,X,,,
+1092,1,X,Steps to Sequence to LMC,,
+1093,1,X,1,"Using the standard functionality, the Lifetime Musician Curriculum Sequence is brought up for edit",
+1094,1,X,2,"Using the search function, the Inactive new game is selected",
+1095,1,X,3,The new game is then ENTERED dragged and dropped to the determined Sequence Assignment group of LMC,
+1096,1,X,4,"The group number is noted, and then:",
+1097,1,X,5,The game is edited to add the LMC Group Number to the game.,
+1098,1,X,,,
+1099,2,X,Steps to add to all Named Sequences,,"{This is being delayed until Phase V or later}  
+Instead of an automatic process, a report will be used to identify where the LMC Group number of the new game appears in each existing sequence.  Using this report as a guide the new game wil be manually added to each sequence."
+1100,2,X,1,Access the special function for adding to Named Sequences,
+1101,2,X,2,Select the game to be added to all of the Named Sequences,
+1102,2,,3,Execute the process,
+1103,2,,,a,The process will recognize the LMC Sequence Group number of the new game
+1104,2,,,b,Successively every existing Named Sequence (other than LMC) will be reviewed
+1105,2,,,c,For each Named Sequence a search will proceed to find the first Assignment Group that has a game assigned with the LMC Sequence Group number being queried.
+1106,2,,,d,"Upon finding the group containing the game with the matching LMC Assignment Group number, the new game will automatically be entered into the same Assignment Group code"
+1107,2,,,e,"If the LMC Sequence Group number is not found in any Named Sequence, the new game will not be added to that sequence."
+1108,2,,,f,Custom Named Sequences are not included in the automated process
+1109,2,X,,,
+1110,1,X,Edit,Any Named Sequence can be edited and games moved to different Sequence Assignment Groups,
+1111,1,X,Copy,Any Game Categorization may be copied,
+1112,1,X,Delete,"If a game is deleted, it is deleted from all Named Game Sequences.",
+1113,1,X,Activation,"Call up the game for edit and change its BASE-STATUS to ""Active""",
+1114,1,X,,,
+1115,3,GAME CATEGORIZATION,,,
+1116,3,X,Access,Content Administrator,
+1117,3,X,,,
+1118,3,X,Process Description,Identifying the unique characteristic of a game by parameterizing the various aspects.,
+1119,3,X,,,Every concept category has an entry
+1120,3,X,,,Tier one parameters are pre-defined
+1121,3,X,,,Tier two parameters are tags (but will be externally pre-defined)
+1122,3,X,,,
+1123,3,X,Steps,,
+1124,3,X,1,Mark a selection for every Concept Category:,
+1125,3,X,,a,Null if the concept is not specifically addressed by the game content
+1126,3,X,,b,One or more Tier 1 concept parameters
+1127,3,X,,c,"One or more Tier 2 concept parameters, when available, for each Tier 1 chosen"
+1128,3,X,2,Mark status as active or inactive.,
+1129,3,X,,,"The inactive status permits defining groups of games prior to actually making them available to users (by marking ""Active"")"
+1130,3,X,3,Save the game categorization,
+1131,3,X,,,
+1132,3,X,Edit,An existing game categorization may be edited.,
+1133,3,X,Copy,A copy function that permits copying another game categorization and then editing it under a new name.,
+1134,3,X,Delete,A game categorization may be deleted,
+1135,3,X,Activation,"Activation of a game is controlled by the Concept Category ""Basic Elements""",
+1136,3,X,,,
+1137,3,X,,,
+1138,1,GAME SEQUENCING,,,
+1139,1,X,Access,Content Administrator,
+1140,1,X,,,
+1141,1,X,Process Description,Creation of a Named Sequence that presents games in an order matching an external source,
+1142,1,X,,,This process provides the basis for automatically presenting to a student game assignments in a prescribed order associated with an external or custom teaching method (Named Sequence).  The order will be Level-Unit-Group Code
+1143,1,X,,,
+1144,1,X,Steps,,
+1145,1,X,1,Access the Game Sequencing function,
+1146,1,X,,,This brings up a screen with empty fields and parameter lists for selection
+1147,1,X,,,
+1148,1,X,2,Name the sequence,
+1149,1,X,,,"This will normally be the name of the external source, e.g. ""Alfred Premier"", ""FSMTA Curriculum"""
+1150,1,X,,,
+1151,1,X,3,Name the Level,
+1152,1,X,,,"This will normally correspond to a grouping name of the external source, e.g. ""Primary"""
+1153,1,X,,,Name and Level together identify a unique named sequence.
+1154,1,X,,,
+1155,1,X,4,Name the Unit,
+1156,1,X,,,"This will normally correspond to some sub-grouping within the grouping of the exernal source, e.g. ""Note Naming"", ""Pages 6-15"""
+1157,1,X,,,There are two parts; the Unit name and a descriptive box.
+1158,1,X,,,
+1159,1,X,5,Assign a group code,
+1160,1,X,,,"This code, a decimal number, identifies the group of concepts aligned with the Level-Unit combination.  A group code can either split or group elements of a named sequence."
+1161,1,X,,,
+1162,3,X,6,Assign concept category parameters to the Sequence-Level-Unit-Group Code combination,
+1163,3,X,,,"As each concept category is chosen, the user is presented with the hierarchy of parameters for that category, and one or more parameters may be selected."
+1164,3,X,,,As parameters are selected the results appear in a Sequence Group Box (in another area of the screen)
+1165,3,X,,,"A search of the games that match these parameters will bring back the ""sequence assignment"" to be presented to the student."
+1166,3,X,,,"The sequence assignment search takes place dynamically as the sequencing process takes place. That is, on ""Enter"" the list of games associated with the concept category parameters chosen is presented.  This enables the Content Administrator to verify immediately the results of the parameters chosen."
+1167,3,X,,,"The parameter selection area may be closed in order to see more clearly the group boxes, sequentially presented in a vertical listing, with associated game assignments to the right."
+1168,3,X,,,
+1169,3,X,7,"From the results of the game search, select those games to be named in the open Sequence Assignment Group",
+1170,3,O,,,This selection should be a drag and drop process or a CSV upload process
+1171,3,,,,"All games presented in the search box should have an indicator as to whether they already have been defined in the open Named Sequence.  However, the same game may be used in more than one group in the same sequence."
+1172,3,N,,,"The selected Game may be placed in the Pre-Assignment area, the Assignment area, or the Post-Assigment area"
+1173,3,X,,,The order of the games in the Sequence Assignment Group may be edited and is retained.
+1174,3,X,,,
+1175,1,X,8,Repeat steps (3 )- (7) until all sections of the external source has been sequenced.,
+1176,1,X,,,
+1177,1,X,9,Save the game sequence,
+1178,1,X,,,
+1179,1,X,Edit,An existing game sequence may be edited,
+1180,1,O,Copy,A copy function is available that permits copying another game sequence and then editing it under a new name.,
+1181,1,X,Delete,A game sequence may be deleted,
+1182,1,,,,"If a custom sequence is deleted and there are students to whom that sequence is assigned, a warning message appears indicating that fact, and the delete does not proceed without acknowledgement by the user."
+1183,1,,,,"If a custom sequence is deleted and there are students to whom that sequence is assigned, the assignment will default to the Lifetime Musician Curriculum."
+1184,1,X,,,
+1185,1,,Activation,A game sequence has a setting for active or inactive,
+1186,1,X,,,
+1187,,X,,,
+1188,3,CUSTOM GAME SEQUENCING,,,{This will be delayed until Phase III or later}
+1189,3,,Access,"Teachers, School Administrators, and Content Administrator",
+1190,3,,,,"A Teacher is the intended user, but this is also available to School Administrators.  The Content Administrator may edit--as a Help Desk function."
+1191,3,,,,"If a School Administrator creates the custom sequence, it is automatically available for use by any Teacher under that School Administrator's control."
+1192,3,,,,"If a Teacher, under a School Administrator creates the custom sequence it is only available to that Teacher.  But the copy feature could be used to copy that sequence to a new name under the School Administrator, making the sequence available to all Teachers under that School Administator's control."
+1193,3,,,,
+1194,3,,Process Description,Creation of a Named Sequence that presents games in an order matching an external source of the Teacher's choosing,
+1195,3,,,,This sequence will be available for use only by the specific Teacher--assigned only to the students of that Teacher.
+1196,3,,,,
+1197,3,,Steps,,
+1198,3,,1,Access the custom sequencing routine,
+1199,3,,,,"The user will be presented with the Lifetime Musician Curriculum, with its detailed Concept Categories and Concept Parameters"
+1200,3,,2,Create a custom sequence name,
+1201,3,,3,De-select any elements of the presented sequence that are not desired.,
+1202,3,,4,Alter any group codes to change the order of the elements of the presented sequence,
+1203,3,,5,Save,
+1204,3,,,,
+1205,3,,Edit,An existing Custom Game Sequence may be edited,
+1206,3,,Copy,A copy function that permits copying another Named Game Sequence and then editing it under a new name.,
+1207,3,,Delete,A game sequence may be deleted,
+1208,3,,,,"If a custom sequence is deleted and there are students to whom that sequence is assigned, a warning message appears indicating that fact, and the delete does not proceed without acknowledgement by the user."
+1209,3,,,,"If a custom sequence is deleted and there are students to whom that sequence is assigned, upon deletion of the custom sequence the assignment for the student will default to the Named Sequence for that student, and, in the absence of a Named Sequence, will further default to the Lifetime Musician Curriculum."
+1210,3,,,,
+1211,3,,Activation,A game sequence has a setting for active or inactive,
+1212,3,,,,
+1213,1,ASSIGNMENT PROGRESSION,,,
+1214,1,X,Access,"Operated by the Student, with some editing intervention available to Teachers",
+1215,1,X,,,
+1216,1,X,Process Description,"Assignments for students are presented in order of a Named Sequence, in discrete Assignment Groups",
+1217,1,X,,,
+1218,1,X,Steps,,
+1219,1,X,1,When a Named Sequence is created the Sequence Assignment Groups are defined,
+1220,1,X,,,Each Sequence Assignment Group has a Sequence Assignment Group Number
+1221,1,X,2,"Target Scores are established for each Game, and defined in the system when a Game is added",
+1222,1,X,3,"When a student profile is defined, a Named Sequence is assigned.",
+1223,1,X,,,This determines what series of Assignments are going to be presented to the Student
+1224,1,X,,,The first Sequence Assignment Group (of game names) appears in the Assignment Pane when the Student accesses the games to play
+1225,1,X,,,"Before any games have been played the target scores appear alongside each game, with no special markings"
+1226,1,X,,,There are several score columns:
+1227,1,X,,a,Target Score
+1228,1,X,,b,Number of times the game has been played (initially blank)
+1229,1,X,,c,Best score (initially blank) and date
+1230,1,X,,d,Last score (initially blank) and date
+1231,1,N,4,The Assignmentis comprised of three panes and three sub-panes,
+1232,1,N,,,The Pre-Assignment pane appears first--if it has content--otherwise the pane is hidden
+1233,1,N,,,"Next the Assignment pane appears, with the primary game content"
+1234,1,N,,,"     If a Custom Assignment has been given, it appears in the second sub-pane"
+1235,1,N,,,The Post-Assignment pane is last--if it has content--othewise the pane is hidden
+1236,1,X,,,
+1237,1,X,5,The Student plays the assigned games to completion,
+1238,1,O,TASK #S5,,"For each game played to completion the score is recorded and compared to the Target Score, and the scores are color coded in the Assignment Pane (as otherwhere described)"
+1239,1,X,6,When all of the games are played and all of the Target Scores reached the next Assignment Group is presented,
+1240,1,O,TASK #S8,,At this point all of the game scores in the first Assignment Group were marked green
+1241,1,X,,,When the last game in the Assignment Group has been successfully completed the Student is notified
+1242,1,N,7,"At any time in the game-playing process the Student may press a ""SKIP"" button which will present the next Assignments",
+1243,1,N,,,The SKIP process permits the student to play ahead even though all current assignments are not completed
+1244,1,N,,,"When the Student next logs in to the games, the first incomplete Assignment Group will again be presented, with the current score status."
+1245,1,N,,,"Until all games in an assigment have been completed, the SKIP process will have to be used to advance"
+1246,3,,8,Custom assignments made by Teachers will remain in the Assignment Pane when completed by the Student,
+1247,3,,,,Upon successful completion by a Student the custom game assignment will turn green and the Student will be notified
+1248,3,,,,The Custom Assignment will remain until deleted by the Teacher.
+1249,3,,,,The Custom game scores will be recorded in the data base and available for other reporting.
+1250,3,X,,,
+1251,3,,Edit,The Teacher may edit the Custom Game Assignment and may assign any Named Sequence,
+1252,3,,,,The named sequence assignment may be replaced with another
+1253,3,,,,All individual lesson group assignments are visible to the teacher and the teacher may mark an individual game as complete.
+1254,3,,Copy,There is no copy feature applicable to Assignment Progression,
+1255,3,,Delete,The Teacher may delete the Custom Assignments,
+1256,3,,Activation,Activation of the Assignment Progression is automatic upon definition of a Named Sequence in a Student Profile,
+1257,3,X,,,
+1258,1,Category Search,,,
+1259,1,X,Access,"Available to any role, but primarily used by Teachers and Content Administrator",
+1260,1,X,,,
+1261,1,X,Process Description,A user search function to search for games by searching for those that match a selection of categories and parameters,
+1262,1,X,,,The process is designed to minimize the possibilities that a user will search for a non-existent combination
+1263,1,X,,,"The ""Game Search by Category"" functionality is accessed and a screen layout is presented to the user"
+1264,1,X,,,"The selection of Categories, Tier 1 parameters and Tier 2 parameters in combination will result in retrieval of a set of games (and supporting media) matching that combination."
+1265,1,X,,,From the retrieved set the user may select the one desired and play it.
+1266,1,X,,,
+1267,1,X,And vs Or,"The logic of the search needs to be made simple so that the user can combine ""and"" and ""or"" selection criteria",
+1268,1,X,,,"The default situation is ""And"", where the game retrieved must match all of the selected conditions, i.e. if both Major and Minor Chords are selected the retrieved games must include both Major and Minor."
+1269,1,N,,,"If a user wanted to find games that included Major ""Or"" Minor, then some change in the search parameters must be made."
+1270,1,X,,,"In many cases simple selection of only the Tier 1 parameters will be sufficient to find a set of games that meet the need for the ""Or"" condition, but Chords is a good counter-example, since Major and Minor are Tier 1 parameters and the resultant set will be comparatively very large"
+1271,1,X,,,
+1272,1,X,,,
+1273,1,Screen Navigation Features,,,Unfinished
+1274,1,X,ACCESS,,Available to any role unless specifically constrained in a permissions table or within a function
+1275,1,X,,,
+1276,1,X,NEXT ASSIGNMENT,Button for student to advance to the next Assignment after completion of current one,
+1277,1,X,,,
+1278,1,N,SKIP,Button for student to skip to next Assignment even though current Assignment is not completed,
+1279,1,N,,,Can skip successively to end
+1280,1,N,,,Upon next log-on the first uncompleted Assignment pane will again appear
+1281,1,N,,,
+1282,1,X,GO BACK,Button for student to go back to previous Assignment successively,
+1283,1,X,,,
+1284,1,X,GAME TABS,A set of tabs enables quick selection of an embellished list of all games in the category on the tab label,
+1285,1,X,,,
+1286,1,X,GAME LIST,A listing of all games and supporting media,
+1287,1,X,,,
+1288,1,X,FREE GAMES,Games that are available to the general public to be played without requiring membership,
+1289,1,X,,,
+1290,1,X,HELP,Strategically placed contextual help.,
+1291,1,X,,,
+1292,2,,HIGH SCOREBOARD,When a challenge game is being played a button appears that makes the High Scoreboard for that game appear,
+1293,2,,,,The the students obtaining the top 30 scores on that game are displayed on the scoreboard
+1294,2,,,,Only first names and cities are displayed
+1295,2,,,,On the student's landing page there is access to see a list of all Challenge games.  Selecting a game will display the High Scoreboard for that game
+1296,2,,,,
+1297,1,X,GAME SEARCH,Ability for a student to search for a game by name,
+1298,1,X,,,"This is part of the overall access to games by ""All"" list, by major category, by individual game."
+1299,1,X,,,
+1300,1,X,,,
+1301,1,X,,,
+1302,2,Awards,,,
+1303,2,X,Purpose,,"It is desirable to reward students as they progress.   Such rewards can be of many forms, but for this system they are referred to as ""Awards"" and constitute whatever can be given electronically to a student to recognize their achievement.  When possible the awards should be visible by peers."
+1304,2,,,,"Additional ""physical"" awards will be available via purchase from TerryTreble.com"
+1305,2,X,,,
+1306,2,N,,Award Sequencing,
+1307,2,N,,,Awards are game elements that can be sequenced just as games and other supporting media
+1308,2,X,,,
+1309,2,X,,,
+1310,2,,{Proposed} Recognition Board,Each Teacher or Family is provided with a screen upon which individual student awards may be viewed by their peers.,
+1311,2,,,,Student name with ribbon graphics and number of ribbons earned for gold and blue
+1312,2,,,,(Instead of ribbons these might be bowties like Terry Treble wears)
+1313,2,,,,
+1314,2,,,,
+1315,2,X,Student Award Board,Each student has a screen upon which their awards are displayed.,
+1316,2,N,,,(Possible) Ribbon can be dragged and dropped by the student to the Student Award Board--position is highlighted.
+1317,2,X,,,
+1318,2,O,Awards,,
+1319,2,,TASK #S2,Gold Ribbon--for student achieving perfect scores on all quiz games in the Assignment,
+1320,2,,TASK #S2,,Automatically awarded
+1321,2,,TASK #S2,,Displays on the Assignment Screen
+1322,2,,TASK #S2,,Displays in master Score Report
+1323,2,,TASK #S2,,Displays on Student Award Board
+1324,2,,TASK #S2,,{Proposed} Displays on the Recognition Board
+1325,2,,TASK #S2,,
+1326,2,,TASK #S2,Blue Ribbon--for student achieving all target scores or higher on all quiz games in the Assignment,
+1327,2,,TASK #S2,,Automatically awarded
+1328,2,,TASK #S2,,Displays on the Assignment Screen
+1329,2,,TASK #S2,,Displays in master Score Report
+1330,2,,TASK #S2,,Displays on Student Award Board
+1331,2,,TASK #S2,,{Proposed} Displays on the Recognition Board
+1332,2,,TASK #S2,Badge--for completion of Assignement Group,
+1333,2,,TASK #S2,Certificate--for completion of Named Sequence,
+1334,2,,TASK #S2,,"Certificate with student's name automatically entered becomes available for printout upon completion of a Named Sequence.  Contains Name of sequence, Student's name, Teacher's name, Date"
+1335,2,,TASK #S2,,Displays on Student Award Board
+1336,2,,TASK #S2,,Student selects Print option to obtain
+1337,2,,,,
+1338,2,,,Terry Treble All Star List--upon completion of a Named Sequence,
+1339,2,,,,Appears for one-month automatically
+1340,2,,,,Displays permanently on Student Award Board (a Terry Treble graphic)
+1341,2,,,,{Proposed} Displays on the Recognition Board
+1342,2,,,,Automatically receives a coupon (code) that can be used for an additional 10% discount on TerryTreble items
+1343,2,,,, 
+1344,2,,,,
+1345,2,,Challenge Scores,Whenever a Challenge level game is played the top scores world-wide are displayed on a screen available to all students.,
+1346,2,,,,"If a student is listed on this scoreboard, a globe graphic appears on their Student Award Board (e.g. a globe with a crown on it)"
+1347,2,,,,Also appears on the Teacher Recognition Board
+1348,2,,,,"If a student reaches a score that is one of the top 100 in the world, a globe graphic appears on their Student Award Board (e.g. a globe with a 100 under it)"
+1349,2,X,,,
+1350,,X,,,
+1351,,,Award Ideas:,,
+1352,,X,,,
+1353,,X,,,
+1354,1,Activation and Closing,,, 
+1355,1,X,Trial Membership,Four-week free trial (one month free),
+1356,1,X,,,Member signs up but without credit card information
+1357,1,X,,,A member number is assigned
+1358,1,X,,,At end of trial period the subscription terminates unless credit card info is provided.
+1359,1,X,,,The free trial ends at 11:59 pm on the last day of the trial period.
+1360,1,N,,,A free trial period can be increased with a proper coupon entry upon sign-up
+1361,1,X,,,
+1362,1,X,Active Membership,Member has access to the system between the beginning and end dates of a subscription.,
+1363,1,X,,,
+1364,1,X,,,
+1365,1,X,Temporary Suspension,Member has decided to temporarily stop monthly access.,
+1366,1,X,,,This would often be used by a Teacher that does not teach during the summer.
+1367,1,X,,,The member will continue to have access to the member profile
+1368,1,X,,,Billing automatically begins on the re-start date selected by the Teacher
+1369,1,X,,,
+1370,1,X,Closing,Member has decided to terminate membership.,
+1371,1,X,,,If an active annual member does not renew prior to the end of the subscription period a reminder notice will be sent by the system.
+1372,1,X,,,"A request to close an account stops monthly billing and generates a ""please come back"" e-mail."
+1373,1,X,,,The member will continue to have access to the member profile for one year to enable them to resubscribe.
+1374,1,X,,,
+1375,1,X,,,
+1376,2,Schools Special Features,,,
+1377,2,X,,,
+1378,2,,Mass Activation Upload,Utility to permit upload for school use of teacher and student information from flat files (csv).,
+1379,2,,TASK #A9,,The expectation is that a school IT department will generate student lists and place them in the required format for upload.  The expectation is that this will be a csv (flatfile) placed on the network where the School Administrator may find and access it. There will be a separate list for each Teacher/Classroom.***
+1380,2,,TASK #A9,,   Student Last Name
+1381,2,,TASK #A9,,   Student First Name
+1382,2,,TASK #A9,,   E-mail address (optional)
+1383,2,,TASK #A9,,The school will need to have been set up as a member and the School Administrator will need to have already entered the Teachers/Classrooms names.
+1384,2,,TASK #A9,,"When the School Administrator wishes to upload students, the upload utility is accessed and a selection is made to which Teacher/Classroom the students are to be loaded.  ***"
+1385,2,,TASK #A9,,"A browse feature, or file naming feature, allows the School Administrator to pick which file has the required student name content."
+1386,2,,TASK #A9,,The upload process will: ***
+1387,2,,TASK #A9,1,   Upload the Student Last Name to the Student Profile
+1388,2,,TASK #A9,2,   Upload the Student First Name to the Student Profile
+1389,2,,TASK #A9,3,   Upload the E-mail address (if found) to the Student Profile
+1390,2,N,,4,   A user name will be created and uploaded to the Student Profile 
+1391,2,N,,5,   A password will be chosen from a standard list and uploaded to the Student Profile
+1392,2,,TASK #A9,,"If the username creation process results in duplicates (e.g., there are two John Smiths) then the duplicates are resolved by the system automatically adding a letter suffix to the first name before concatenating  (e.g., SmithJohn17502, SmithJohnA17502, SmithJohnB17502). [A BETTER SOLUTION could be considered]"
+1393,2,,TASK #A9,,Following upload individual student profiles may be edited.
+1394,2,N,,,There needs to be a toggle option to allow upload of pre-established usernames and passwords instead of automatic creation.
+1395,2,,TASK #A9,,"***  Recommendation is that the upload file have an optional Teacher column.  If filled, then the student is assigned to that Teacher--if empty then the student is not assigned a Teacher. Username duplication needs to be addressed in some manner, since they must be unique.  One possibility is the load goes to an interval stage where a ""proposed load file"" is created with ""duplicate usernames"" marked.  The original file could then be edited and the upload tried again.  When the ""proposed load file"" is error-free, it is finally loaded."
+1396,2,X,,,
+1397,2,N,,USERNAMES automation,
+1398,2,N,,,"User names are automatically created by concatenating: the student's lastname, the student's firstname, and the school member number.  For example, for school 17502 and student John Smith the resultant user name would be SmithJohn17502."
+1399,2,N,,,"If the username creation process results in duplicates (e.g., there are two John Smiths) then the duplicates are resolved by the system automatically adding a letter suffix to the first name before concatenating  (e.g., SmithJohn17502, SmithJohnA17502, SmithJohnB17502)."
+1400,2,N,,,
+1401,2,N,,PASSWORDS automation,
+1402,2,N,,,"A list of short musical terms is used as the source for automated assignment of passwords.  As student names are entered by the process assignments of passwords are made by successively using the standard passwords until the last is reached, then continuing from the beginning until the student roster is exhausted."
+1403,2,N,,,
+1404,2,N,,Standard Password List for mass assignment:,
+1405,2,,,,air
+1406,2,,,,band
+1407,2,,,,bar
+1408,2,,,,bass
+1409,2,,,,baton
+1410,2,,,,bell
+1411,2,,,,bench
+1412,2,,,,black
+1413,2,,,,book
+1414,2,,,,bow
+1415,2,,,,clap
+1416,2,,,,class
+1417,2,,,,clef
+1418,2,,,,coda
+1419,2,,,,dot
+1420,2,,,,down
+1421,2,,,,drum
+1422,2,,,,duet
+1423,2,,,,fine
+1424,2,,,,flat
+1425,2,,,,flute
+1426,2,,,,forte
+1427,2,,,,fret
+1428,2,,,,grand
+1429,2,,,,half
+1430,2,,,,hand
+1431,2,,,,hear
+1432,2,,,,high
+1433,2,,,,jazz
+1434,2,,,,key
+1435,2,,,,learn
+1436,2,,,,left
+1437,2,,,,line
+1438,2,,,,loud
+1439,2,,,,low
+1440,2,,,,major
+1441,2,,,,meter
+1442,2,,,,midi
+1443,2,,,,mie
+1444,2,,,,minor
+1445,2,,,,music
+1446,2,,,,note
+1447,2,,,,oboe
+1448,2,,,,page
+1449,2,,,,part
+1450,2,,,,pedal
+1451,2,,,,piano
+1452,2,,,,pitch
+1453,2,,,,play
+1454,2,,,,quiz
+1455,2,,,,range
+1456,2,,,,rest
+1457,2,,,,rock
+1458,2,,,,same
+1459,2,,,,sax
+1460,2,,,,scale
+1461,2,,,,score
+1462,2,,,,sharp
+1463,2,,,,sing
+1464,2,,,,skip
+1465,2,,,,snare
+1466,2,,,,soft
+1467,2,,,,solo
+1468,2,,,,song
+1469,2,,,,sound
+1470,2,,,,space
+1471,2,,,,staff
+1472,2,,,,step
+1473,2,,,,time
+1474,2,,,,tone
+1475,2,,,,triad
+1476,2,,,,trio
+1477,2,,,,tuba
+1478,2,,,,tune
+1479,2,,,,viola
+1480,2,,,,white
+1481,2,N,,,
+1482,2,,Mass Student Transfer w/Scores,Utility to permit mass transfer of students to new teachers and retain score records,
+1483,2,,,,"If score records are not to be retained, a delete and mass upload combination may be more efficient."
+1484,2,,,,The Student Transfer File report is run to produce a master list of students to be transferred.
+1485,2,,,,For each student the Teacher/Classroom is added (in the last column) to which the student is to be transferred.
+1486,2,,,,"When the School Administrator wishes to upload the transfers, the upload utility is accessed."
+1487,2,,,,"A browse feature, or file naming feature, allows the School Administrator to pick which file has the required student name content."
+1488,2,,,,"The resultant upload process will replace in the student profile the existing Teacher/Classroom with the new Teacher/Classroom, and all individual score records will correspondingly be related to the new Teacher-Student combinations."
+1489,2,,,,
+1490,2,O,Delete Students,Utility to delete all student profiles at end of year,
+1491,2,,TASK #A10,,"This could be run at any time to mass delete student records.  The most common use would be for schools to eliminate a class that has graduated.
+In order to re-use the mass upload, all current records will first need to be deleted using the mass delete feature.  If student records are reloaded, the same usernames will be re-created, but the passwords may be different."
+1492,2,,TASK #A10,,"When the School Administrator wishes to delete students, the mass delete utility is accessed."
+1493,2,,TASK #A10,,Selection criteria is provided to enable delete of subsets of students
+1494,2,,TASK #A10,,    Student ID
+1495,2,,TASK #A10,,    Teacher/Classroom
+1496,2,N,,,    Named Sequence
+1497,2,,TASK #A10,,    All Students
+1498,2,,TASK #A10,,The resultant delete process will delete all student score records and all student profiles based upon the selection criteria.
+1499,2,,TASK #A10,,"** The delete should be ""soft"" so that a restore process by admin can be achieved."
+1500,2,X,,,
+1501,1,,Reports,,
+1502,1,,,Profile Output File,
+1503,1,,,,"A School Administrator or Teacher will be able to print out a list of all students, grouped by class, or all students (in alphabetical order by last name) in a printed or csv format."
+1504,1,,,,The report/file content will include the entire student profile.
+1505,1,,,,Adequate selection criteria is provided so that subsets of students may be obtained:
+1506,1,,,,   Teacher/Classroom
+1507,1,,,,   Student ID
+1508,1,,,,   Named Sequence
+1509,1,,,,
+1510,1,,TASK #A11,Class Roster,
+1511,1,,TASK #A11,,"A School Administrator or Teacher will be able to print out a list of all students, grouped by class, or all students (in alphabetical order by last name) in a printed or csv format."
+1512,1,,TASK #A11,,The report content is useful for letting students know their logon information:
+1513,1,,TASK #A11,,   Student ID
+1514,1,,TASK #A11,,   Student Lastname
+1515,1,,TASK #A11,,   Student Firstname
+1516,1,,TASK #A11,,   Teacher/Classroom
+1517,1,,TASK #A11,,   Username
+1518,1,,TASK #A11,,   Password
+1519,1,,,,
+1520,2,,,Student Transfer File,
+1521,2,,,,"A School Administrator or Teacher will be able to print out a list of all students, grouped by class, or all students in printed or csv format"
+1522,2,,,,The report/file content will include the information needed as a basis for making mass student transfers:
+1523,2,,,,   Student ID
+1524,2,,,,   Student Lastname
+1525,2,,,,   Student Firstname
+1526,2,,,,   Teacher/Classroom
+1527,2,,,,Adequate selection criteria is provided so that subsets of students may be obtained:
+1528,2,,,,   All
+1529,2,,,,   Teacher/Classroom
+1530,2,,,,   Student ID
+1531,2,,,,   Named Sequence
+1532,2,X,,,
+1533,1,Schools Narrative,,,All of these functions can be done within framework of Ensemble subscription
+1534,1,X,,,
+1535,1,X,Administrative Structure,,
+1536,1,X,,User Roles,
+1537,1,X,,,"User Roles.  There are three user levels: Administrator, Teacher/Classroom, and Student.  These correspond to distinct roles within the system, having different access to the learning system and website functions.  "
+1538,1,X,,School Membership,
+1539,1,X,,,"THIS HAS BEEN MODIFIED: A Subscriber-Administrator can do all functions, but can delegate all but Subscription to a Teacher-Admin.
+School Membership.  Membership by the school in MusicLearningCommunity.com is a requirement.  This subscription is free.  Upon creating the membership the type of membership (School) is selected, and the Administrator is named.  If the Administrator personally is a member, that membership is not used for the school.  Billing is related to member number and grouping.  All payments are made to MusicLearningCommunity.com, LLC."
+1540,1,,,Member Grouping,
+1541,1,,,,"Grouping.  It is also possible to group schools together within a district for volume pricing, since school subscriptions are based upon the number of students who will be accessing the system.  This grouping may be done at any time.  For example, one school might become a member and then, based upon seeing the successful results from that program other schools in the district might want subscriptions.  At that point multiple schools may be grouped together to get the best pricing for all.  There is no pricing benefit by grouping unless the minimum total of 1350 student slots are reserved."
+1542,1,,,District Membership,
+1543,1,,,, 
+1544,1,X,,School Administrator,
+1545,1,X,,,"School Administrator.  This is the person who will administer the system for the school.  If multiple schools are involved, there must be an administrator named for each school, although the same person could be assigned to each of these roles. Often the School Administrator is the music teacher. The School Administrator adds Teacher/Classrooms to the system and connects students with Teacher/Classrooms.  This role also supervises the automated upload of students.  The School Administrator can set up a Teacher username and password so that he or she can act in the Teacher role as well.  "
+1546,1,X,,Teacher/Classroom,
+1547,1,X,,,"Teacher/Classroom.  There is no limit to the number of Teacher/Classrooms that can be set up.  The subscription limits are on the number of student usernames.  The role can be named with an individual teacher name, a class name, or combination.  For example, SmithJMWF might mean John Smith’s class Monday, Wednesday, Friday; or 4JSmith might represent John Smith Fourth Grade.  Generally the system documentation will refer to “Teacher” for this role.  "
+1548,1,X,,,"The Teacher may define student usernames and passwords, monitor student score reports, and make both automated and custom assignments.  A Teacher only sees the students that he or she has defined, or those that have been automatically uploaded to his or her Teacher/Classroom role."
+1549,1,X,,,"There are two primary options on how the learning system can be used; (1) Lab with generic usernames, (2) Individual students.  In the first scenario the annual subscription limited to 50 students is most frequently used.  This provides 50 user “slots” for use.  The Teacher defines generic usernames and passwords for these slots, such as CPMX01, CPMX02, UserJJK1, UserJJK2, UserJJK50, for example, and then simple passwords such as “tune”, “music”, etc.  (Note that the username must be unique among the worldwide users of ComePlayMusic).  The learning system is then used in a lab situation, each student signing in with one of the 50 users.  Although scores are obtained upon completing a game, the individual student score-keeping function is really not being used for student progress tracking, as multiple students are using the same logon credentials."
+1550,1,X,,,"In the second scenario the individual student is set up with his or her own unique username and password.  Their game scores are retained, automatic awards are given for completion of assignments, and they can compete in the world-wide competition with Challenge-level games.  And the students can play their game assignments at home or wherever they have internet access."
+1551,1,X,,Student,
+1552,1,X,,,"Student.  The student role can log in to the system using the unique username and password assigned to them.  They can then automatically be presented with their assignment, following a pre-established curriculum, play the games, and see their scores.  They have access to an Recognition Board where they can see the awards earned.  Depending upon the school’s choices, the student can access the system only from the school lab or from most devices having internet access from school or home."
+1553,1,X,,,
+1554,1,X,Pricing & Billing,,
+1555,1,X,,Pricing,
+1556,1,X,,,"Pricing.  A school subscription is based upon the number of student slots being reserved for student access and is an annual subscription for the school year with no charge for the summer months.  Pricing is per school unless there is a district member, the schools are grouped using that member number, and the minimum total students of 1350 is reached.  In that case all schools have the same lowest price for the total number of student slots reserved."
+1557,1,X,,Adding & Deleting Student Slots,
+1558,1,X,,,"Adding & Deleting Student Slots.  This function may be performed by the School Administrator.  More student slots may be reserved at any time, but there is no proration based upon the date added.  If the number of student slots is reduced, there is no rebate during the billing cycle.  The automatic renewal will use the number of reserved student slots in effect at the end of the billing cycle as the basis for the renewal bill.  Administrators should be cautioned that adding reserved student slots has an immediate financial impact."
+1559,1,X,,Billing,
+1560,1,X,,,"Billing.  At the time the beginning subscription is initiated online, the number of student slots to reserve is requested.  That number is used in the pricing schedule and an invoice is automatically generated and e-mailed to the school contact.  "
+1561,1,X,,,"Once the invoice has been generated the account is in a “pending” status until receipt of payment.  However, during this period the website is fully accessible by the member administrator, teachers, and students.  Payment in full is expected within 30 days of the invoice."
+1562,1,X,,Renewal Billing,
+1563,1,X,,,"Renewal Billing. The School Administrator needs to enter the billing cycle renewal date in the account management profile for the system to use to coordinate billing dates with the school year processes.  It is assumed that the school will wish to continue with its subscription.  The renewal date entered by the Administrator is only month and day—no year is required.  This date is picked up each year and an invoice automatically created and sent 30 days prior to that date, based upon the profile that exists as of the renewal date, that is the number of students, addresses, contacts, purchase order number, etc."
+1564,1,X,,,Upon receiving a renewal invoice if the school does not wish to continue the subscription the Administrator need only go to the account management profile and select the suspend or cancel option.
+1565,1,X,,Purchase Orders,
+1566,1,O,TASK #A8a,,"Purchase Orders.  MusicLearningCommunity.com LLC does not require purchase orders, as all functions can be performed fully on-line.  There is a field in the member account management profile for the School Administrator to enter a purchase order number if needed by the school.  This number will be picked up in the automated billing process and will display on the invoice."
+1567,1,x,,,"If a purchase order is sent to MusicLearningCommunity.com, an e-mail response will be sent to the contact with instructions for accessing the website to set up the member profile and start the subscription process.  Invoices will then be generated in the normal manner."
+1568,1,x,,,
+1569,1,x,,,
+1570,3,Communication,,Unfinished,"FROM, TO, WHAT, HOW, WHEN, FREQUENCY"
+1571,3,,Content Administrator to Teachers,,
+1572,3,,,,
+1573,3,,,,
+1574,3,,Content Administrator to School Administrators,,
+1575,3,,,,
+1576,3,,,,
+1577,3,,School Administrators to Teachers,,
+1578,3,,,,
+1579,3,,,,
+1580,2,,Teachers to Students,,
+1581,2,,,E-mail,
+1582,2,,,Optional text with assignments,
+1583,2,,,,
+1584,2,,"Students to
+Teachers",,
+1585,2,,,Internal messaging,
+1586,2,,,,
+1587,2,,,,
+1588,2,,Content Administrator to Teachers,,
+1589,2,,,,
+1590,2,,,,
+1591,3,,Content Administrator to Parents & Families,,
+1592,3,,,,
+1593,3,,,,
+1594,2,,Content Administrator to Students,,
+1595,2,,,,
+1596,2,,,,
+1597,1,Reports/ PrintOuts,,,Unfinished
+1598,1,,,,
+1599,1,,,Named Sequence Games,
+1600,3,,,Custom Sequence Games,
+1601,1,,,Named Sequence Assignments Report,
+1602,3,,,New Games to Named Sequence Confirmation,
+1603,3,,,,Reports for any selected Lifetime Musician game where that game appears in every other Named Sequence.
+1604,1,O,TASK #S4,Student Score Report,
+1605,1,,,Concept Search Printout,
+1606,2,,,School Reports (See Schools Special Features),
+1607,3,,,Report of Referrals,
+1608,2,N,,Starts/Stops--by member-type,
+1609,1,,,Total membership--by member type,
+1610,2,,,Game usage statistics,
+1611,,,,,
+1612,,,,,
+1613,3,Teacher Finder,,,
+1614,3,,,Search routine for a website visitor to find a partipating MusicLearningCommunity teacher,
+1615,3,,,,Any teacher will by default be included in the search results unless opting out on their member (Teacher) profile.
+1616,3,,,,Search would be by geographical area and would return the teacher's e-mail address and city
+1617,3,,,,
+1618,1,SUBSCRIPTION BILLING,,,
+1619,1,X,Monthly,Automated monthly recurring charges,
+1620,1,N,,,No billing statement is sent
+1621,1,X,,,
+1622,1,X,Initial Annual,Automated initial set up of annual subscription,
+1623,1,N,,,No billing statement is sent upon initial annual subscription
+1624,1,X,,,
+1625,1,X,Annual Renewal,Automated renewal of annual subscription--(credit card),
+1626,1,X,,,A reminder notice is sent automatically 30 days before a subscribers end of billing cycle date (Year/Month)
+1627,1,N,,,A confirmation notice is sent automatically 15 days before a subscribers end of billing cycle date
+1628,1,X,,,Subscription automatically renews
+1629,1,X,,,"Trigger could be reaching month-end, or month-begin on system calendar."
+1630,1,X,,,
+1631,1,X,,,
+1632,1,X,Annual Renewal,Automated renewal of annual subscription--Schools and non-credit card,
+1633,1,X,,,A billing statement needs to be created--essentially a report from the member/subscriber profile
+1634,1,X,,,This bill is generated automatically 30 days before subscribers end of billing cycle date (Year/Month)
+1635,1,X,,,"Trigger could be reaching month-end, or month-begin on system calendar."
+1636,1,X,,,
+1637,1,X,,,
+1638,1,Student Lessons Narrative,,,
+1639,1,X,Lessons,Student Lessons,
+1640,1,X,,,"“Student Lessons” are presented as sequential organized groups of learning elements, where each group is an “Assignment”.  The sequence in which these Assignments are presented is directly correlated to an external piano method, state curriculum, or other specifically “Named Sequence” of teaching musical concepts."
+1641,1,X,,Automatic Presentation,
+1642,1,X,,,"Automatic Presentation.  Once the specific sequence has been given to an individual student (in the student management area), when the student logs in to his or her “Student Lessons” the next Assignment in the sequence is automatically presented.  A student is expected to complete all of the elements of an Assignment before moving to the next one, which will be automatically presented."
+1643,1,X,,Sequence Naming,
+1644,1,X,,,Sequence Naming.  To tie the external sequence to the internal assignment group an organizational naming convention is used.  The external sequence is identified with a Sequence Name.  Then it is broken down into Sequence Levels (often corresponding to a single method book).  Finally these levels are broken down in sections called Sequence Units.  The concepts taught in a single Sequence/Level/Unit are then presented to the student as one or more Assignment Groups (“Assignment”).
+1645,1,X,,Assignment Groups,
+1646,1,X,,,"Assignment Groups.  An Assignment group consists of an ordered set of learning elements (including video, text, music, “awards”, and games), focused on music learning games that teach the individual concepts.  Each Assignment group, when originally defined by the Content Administrator, includes some additional internal information used to help manage the learning system. Such internal information includes group number and group level."
+1647,1,X,,Panes,
+1648,1,X,,,"Panes.  This Assignment set or “group” is presented in three sequential parts; an introduction or preview “pane”, a main assignment “pane” (the games), and a summary “pane”.  The main assignment pane is actually split into three sub-panes, where the first holds the automatic non-MIDI game assignments, the second holds automatic MIDI game assignments, and the third holds any additional games specifically assigned by the teacher."
+1649,1,N,,Pane Appearing,
+1650,1,N,,,"Pane Appearing.  The introduction pane appears first and the other panes are not available until this first pane is completed.  Then the main pane appears.  When the first two panes are completed the last pane appears.  The summary pane may include awards, challenge games, or other learning elements, including audio files.  A quiz review, which is the presentation of a previously mastered game’s quiz stage to verify that a student has retained his or her mastery of the concept, may appear in the main assignment pane."
+1651,1,X,,Game Stages,
+1652,1,X,,,"Game Stages.  When learning games are presented the “learn”, “play”, and “quiz” stages of each game are all included.  A student is permitted to skip to the quiz stage, and if a target score is reached at that stage, the “learn” and “play” stages are considered to have been completed.  The “challenge” stage of the game will appear in the third pane."
+1653,1,,,Remediation,
+1654,1,,,,"Remediation.  If a student has played only the quiz stage and has not reached the target score after 5 tries, then the student is automatically presented with the learn stage game.  If the student plays the learn, play, and quiz stages and has not reached the target score after 5 tries, a notice is automatically sent to the teacher or family administrator of that fact."
+1655,1,X,,,
+1656,1,,,Edit Game Completion,
+1657,1,,,,"At any time a teacher has the ability to look at an individual student assignment and mark that individual games are completed, regardless of student score.  When a teacher performs this override the student becomes entitled to execute whatever is in the summary pane, and receives any awards there."
+1658,1,,,,"The teacher needs the ability to manage a student with some degree of detail, without requiring the teacher to do so."
+1659,1,,,,
+1660,1,,Student Recess,,
+1661,1,,,Game Playing Post-Assignment,
+1662,1,,,,"Game Playing.  Outside of his or her lessons, (“student recess”) a student is permitted access to all games, with the exception of the quiz stage games, in his or her current level.  They are also provided an easy way to return to any games previously played in their completed lessons.  "
+1663,1,,,Internal Group Level,
+1664,1,,,,Internal Group Level.  Every student lesson assignment includes in its definition an internal “group level” (a number 0-7).  This internal group level is set by the Content Administrator when the assignment group is defined.  (It is based upon general pedagogy and expertise.)
+1665,1,,,Game Level Range,
+1666,1,,,,"Game Level Range.  Every game is defined to include an internal “level range” parameter. For example, a game might have an internal level range of 1-3.  This means that the game might be used in more than one group level, specifically 1, 2, or 3.  This “level range” relates to the Sequence Level, but, since external methodologies have a variety of nomenclature, the definition of this “level range” aids in standardization within the learning system."
+1667,1,,,Level Comparison,
+1668,1,,,,"Level Comparison.  So the system can make a comparison between the internal “group level” of the student’s current assignment, or just completed, and the internal “level range” of any game."
+1669,1,,,Current Level Limit,
+1670,1,,,,"Limited to Current Level.  A student is not permitted to play games where the game’s defined internal level range does not include the internal group level currently assigned to him or her.  For example, if a student’s current Assignment is in primary level (internal group level = 0), he or she will not be permitted to select and play on their own any games defined to have a level range with the minimum higher than primary level, such as 1-2."
+1671,1,,,,This level limitation may be overridden by the teacher in the student's profile
+1672,1,N,Lesson Skipping,,
+1673,1,N,,Lesson Skipping,
+1674,1,N,,,"Lesson Skipping.  A student is allowed to return to previous lesson Assignments by skipping backwards sequentially and repeating any part, or all parts, of an Assignment group.  A student is also allowed to skip forward to the next Assignments, sequentially, even though the current lesson assignment is incomplete.  This skipping is allowed, even if the next lesson assignment has a higher internal level."
+1675,1,X,,Level Persistence,
+1676,1,X,,,"Level Persistence.  However, when a student logs in to the system again, he or she is presented with the first lesson in their assigned sequence that has not been completed.  Additionally, even if the student has skipped to a lesson that has a higher internal level than the assigned lesson that is incomplete, the student is considered to still be “at” the level of the incomplete assignment, and therefore at recess cannot play any games above that level."
+1677,1,X,,Controlled Flexibiltiy,
+1678,1,X,,,"Controlled Flexibility.  So students have some flexibility to move forward with Assignments, and they can play a variety of games, but there is still significant incentive to complete assignments so that they get the awards, can play challenge games, and can play higher level games during recess."
+1679,1,X,,,
+1680,1,X,Student Assessment,Assessment Sequences,
+1681,1,X,EVAL,,Assessment Sequences.  Specific named sequences are provided to teachers to assign to new students for the purpose of assessing their degree of mastery of music concepts.  These sequences are related to internal level ranges and constitute only the quiz games for those “levels”.  These are organized in such a way that the scoring results from the student’s completion indicates at what level they should begin Assignments.  
+1682,1,X,,Beginning Level Assignment,
+1683,1,X,,,"Beginning Level Assignment.  The individual teacher or family administrator may assign a starting position above or below, but the assessment (or pre-test) is a good indicator."
+1684,1,X,,,
+1685,1,N,,,"[Probably the way this will be implemented is to present to the teacher or family administrator a report of the scores from the completion of the assessment sequence in the same manner as any other assigned sequence.  Certain totals (yet to be defined) will be presented (to eliminate the need for the teacher to manually perform the calculations).  A separate evaluation algorithm will be presented to the teacher or family administrator, which they can use to arrive at a predicted starting level.  Since we have no actual results from such an algorithm to date we do not want to build in that automation at this time.  In the future we may be able to provide a fully-automated level-assigning pre-test.]"
+1686,1,X,,,
+1687,1,X,,,

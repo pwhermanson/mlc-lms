@@ -1,0 +1,30 @@
+﻿Game Stages (Types)
+Each music learning game is designed to teach a specific musical concept, aimed at mastery and retention by the student.  They are designed to be simple, non-threatening, and fun.  Each game has several stages; Learn (tutor), Play (practice), Quiz (quantitatively assess mastery), Challenge (some games scores have no limit, allowing competition among all students worldwide), Review (retention of the concept by repeating the Quiz).   
+
+
+Game Concepts
+Games assignments are organized by Level and Group.  They cover aural and visual Pitch, Rhythm, Melody, Chords, Scales, Memory Playing, Intervals, Melody, Staff, Symbols, Keyboard Elements, Pattern Playing, Musical Terms.  Individual games may be found through a hierarchical search (See All Games).
+
+
+Scores
+When a game is played all the way to the end a score is achieved and placed in individual student scores history.  Each game has a target score.  Achieving the target score on a Quiz generally indicates mastery of the concept.  Teachers and students may review the student scores history.  
+If “generic students” are used, where multiple students use the same usernames and passwords, the score is recorded for the session but is meaningless, except to the extent it becomes a high-score for the username.
+
+
+Learning Elements
+A game is actually the principle “learning element”.  But the music learning system includes other learning elements as well, such as text, video, audio, and rewards.  These additional learning elements give added value to the automated learning sequences.  Each individual learning element is numbered in the database, so that it may be selected and entered into a Learning Sequence.
+
+
+Learning Sequence
+Of great benefit to students and teachers is the inclusion of named learning sequences.  These are explained in more detail (see Learning Sequences) below.  The primary sequences are Lifetime Musician (default), Solfege, and Evaluation.  Once a sequence is assigned to a student, upon entering the Student Dashboard the student can select his or her Assignment.  He or she will be presented with the next game set in the sequence that has not yet been completed.  Mixed into the sequence are additional learning elements, which can include text, video, audio, and awards. The Evaluation sequence is generally used to evaluate the proficiency of new students and determine areas of weakness game-playing could improve.
+
+
+Learning Element Numbering
+
+
+Numbers
+In the data base each game set (of stages) is assigned a set number (e.g. GAM-0950), followed by the stage number (Learn=1, Play=2, Quiz=3, Challenge=4, Review=5).  So the Play stage of GAM-0950 would be numbered GAM-0950-2. Other learning elements (text, video, audio, reward) are numbered similarly, e.g., TXT-1234, VID-1234, AUD-1234, RWD-1234
+
+
+All Games
+Although most students will be assigned a learning sequence, which will present the games automatically upon entering the “My Assignments” box, every student may play any game, or may be assigned specific games by the Teacher.  This is done by selecting the “All Games” box.  The individual music learning games are selectable by Level, Category, Visual/Aural, Skill, or individual game.  These can be selected in a list or gallery format.  If a student plays an individual game the score is recorded and retained.  If that game is subsequently encountered in an automated sequence, the game will already have a score, but it can be re-played and a new score obtained.

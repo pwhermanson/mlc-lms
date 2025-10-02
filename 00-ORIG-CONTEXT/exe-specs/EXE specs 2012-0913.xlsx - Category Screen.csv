@@ -1,0 +1,90 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,BASE,Basic Elements,,,,,,,,,,,,,,,,,,Basic Elements,,,1,,,,
+,STAGE,,Stage,,,,,,,,,,,,,,,,,Stage,,,2,,,,
+,RHYTM,,,Rhythm,,,,,,,,,,,,,,,,Rhythm,,,3,,,,
+,METER,,,,Meter,,,,,,,,,,,,,,,Meter,,,4,,,,
+,STAFF,,,,,Staff & Pitch,,,,,,,,,,,,,,Staff & Pitch,,,5,,,,
+,MELOD,,,,,,Melody,,,,,,,,,,,,,Melody,,,6,,,,
+,SCALE,,,,,,,Scale,,,,,,,,,,,,Scale,,,7,,,,
+,KYSIG,,,,,,,,Key Signatures,,,,,,,,,,,Key Signatures,,,8,,,,
+,INTVL,,,,,,,,,Intervals,,,,,,,,,,Intervals,,,9,,,,
+,KEYBD,,,,,,,,,,Keyboard Elements,,,,,,,,,Keyboard Elements,,,10,,,,
+,CHORD,,,,,,,,,,,Chords,,,,,,,,Chords,,,11,,,,
+,HARM,,,,,,,,,,,,Harmonic Progression,,,,,,,Harmonic Progression,,,12,,,,
+,TERM,,,,,,,,,,,,,Music Terms,,,,,,Music Terms,,,13,,,,
+,MEMO,,,,,,,,,,,,,,Tonal Memory,,,,,Playback-Tonal Memory,,,14,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,GAME SEARCH AND ASSIGNMENT COMPONENT SCREENS,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,This search screen is used to find selections of games which can be dragged and,,,,,,,,,,,,,,,,,,,This portion collects the various elements and games that will,,,,,,,
+,dropped into game assignment screens for creation of named sequences.,,,,,,,,,,,,,,,,,,,"constitute the ultimate assignment, where everything that has",,,,,,,
+,,,,,,,,,,,,,,,,,,,,been dropped into the same Group will be presented as one,,,,,,,
+,,,,,,,,,,,,,,,,,,,,assignment.,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,GAME ASSIGNMENT:,,,,,,FIND ALL GAMES,
+,,,,,,,,,,,,,,,,,,,,ALFRED PREMIER,,,,,,WITH THE FOLLOWING,
+,SEQUENCE:,,,ALFRED PREMIER,,,,,,,,,,,,,,,,GRADE 1,,UNIT 1,1.0,Pages 1-5,,CONCEPT PARAMETERS,
+,LEVEL:,GRADE 1,,,,UNIT:,,UNIT 1,,,,GROUP:,,1.0,Pages 1-5,,,,,Pre-Assignment,,,,,,,
+,BASE,"Active
+Aural
+Identification
+MIDI",,,,,,,,,,,,,,,,,,,,,,,,"BASE-ACT
+BASE-AUR
+BASE-METH-ID
+BASE-MIDI",Basic Elements
+,STAGE,,"Learn
+Play
+Quiz",,,,,,,,,,,,,,,,,,,,,,,"STAGE-LERN
+STAGE-PLAY
+STAGE-QUIZ",Stage
+,RHYTM,,,0,,,,,,,,,,,,,,,,Assignment,,,,,,,Rhythm
+,METER,,,,0,,,,,,,,,,,,,,,Main:,,,,,,,Meter
+,STAFF,,,,,0,,,,,,,,,,,,,,,,,,,,,Staff & Pitch
+,MELOD,,,,,,"Up, down",,,,,,,,,,,,,,,,,,,MELOD-PRER-UPDN,Melody
+,SCALE,,,,,,,0,,,,,,,,,,,,,,,,,,,Scale
+,KYSIG,,,,,,,,0,,,,,,,,,,,,,,,,,,Key Signatures
+,INTVL,,,,,,,,,0,,,,,,,,,,,,,,,,,Intervals
+,KEYBD,,,,,,,,,,"Low vs High
+2 Black keys vs 3 Black keys",,,,,,,,,,,,,,,"KEYB-PRER-LOW
+KEYB-PRER-2BLK",Keyboard Elements
+,CHORD,,,,,,,,,,,0,,,,,,,,,,,,,,,Chords
+,HARM,,,,,,,,,,,,0,,,,,,,MIDI:,,,,,,,Harmonic Progression
+,TERM,,,,,,,,,,,,,0,,,,,,,,,,,,,Music Terms
+,MEMO,,,,,,,,,,,,,,"KeyBoard
+3 Note",,,,,,,,,,,MEMO-KEYBD-3NOT,Playback-Tonal Memory
+,,,,,,,,,,,,,,,,,,,,Post Assignment,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,GAME SEARCH RESULTS:,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Tonal Memory & Playback
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"Tommy Tigers Two's and Three's
+Lower, Higher, Same
+Storm Chasers 1
+Smiley & Friends 1
+Finger Finder
+Handprints",,,,,,,

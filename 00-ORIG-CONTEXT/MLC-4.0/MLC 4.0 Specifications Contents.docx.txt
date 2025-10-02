@@ -1,0 +1,44 @@
+﻿MusicLearningCommunity.com  LLC
+4.0 DEVELOPMENT 2020
+CONTENTS OF SPECIFICATION FOLDER
+
+
+1. Executive Summary 2020.  A general description of MusicLearningCommunity.com (MLC) operation and structure.
+
+
+2. MLC 4.0 Detailed Elements 2020.  A collapsible spreadsheet containing detailed specifications of all fundamental elements of the MLC site, data base, and learning management system.
+
+
+3. MLC 4.0 Screens List 2020.  A list of all of the principal screens needed by category.
+
+
+4. MLC 4.0 Dashboard Screens 2020.  Mock-ups of the screens presented to members for management
+
+
+5. MLC 4.0 Member Mgmt Screens 2020.  Mock-ups of screens to manage member data
+
+
+6. MLC 4.0 Subscription Plans 2020.  Mock-up details of the several subscription plans to be used by subscribers at sign-up
+
+
+7. MLC 4.0 Promo Code Table 2020.  Mock-up of the required fields for managing and referencing promotion codes.
+
+
+8. MLC 4.0 Sponsor Code Table 2020.  Mock-up of the required fields for managing and referencing use of sponsor codes for the Christine Hermanson Grant Program.
+
+
+9. MLC 4.0 User Permissions Table 2020.  Mock-up of the various permissions needed for the various classes of users.
+
+
+10. MLC 4.0 Games Alpha Report 2020.  A format for presenting pertinent elements of an alpha listing of games which could be returned to a subscriber, with selection criteria applied.
+
+
+11. MLC 4.0 Learning Elements Coding 2020.  Coding conventions for the various data base learning elements. 
+
+
+
+
+Special game-related specifications:
+
+
+A. MLC 4.0 Concept Categories 2020.  A two tab spreadsheet containing detailed specification of all of the game concept categories and a screen presentation.

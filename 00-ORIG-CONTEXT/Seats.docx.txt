@@ -1,0 +1,120 @@
+﻿Seats
+	Per Each
+	$15.95
+	
+
+	
+
+	From 20 to
+	120
+	0.20
+	$24.00
+	$39.95
+	
+
+	Next
+	120
+	0.18
+	$21.60
+	$45.60
+	
+
+	
+
+	260
+	0.16
+	$41.60
+	$63.20
+	
+
+	
+
+	500
+	0.12
+	$60.00
+	$101.60
+	
+
+	
+
+	1500
+	0.10
+	$150.00
+	$210.00
+	
+
+	
+
+	1700
+	0.08
+	$136.00
+	$286.00
+	
+
+	
+
+	1800
+	0.06
+	$108.00
+	$244.00
+	
+
+	
+
+	1
+	0.05
+	
+
+	$108.00
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Our ENSEMBLE plan pricing is based upon a sliding scale, providing an increasing discount for the purchase of increasing number of student seats.  The base price is $15.95 per month plus $0.20 for each student seat.  The plan begins at 20 seats.  So the price is $0.20 x 20 = $4.00 plus $15.95 = $19.95.  For the first 120 seats the cost is $0.20 per seat.  For the next 120 seats the cost is $0.18 per seat.  Here is the complete chart of per seat costs:
+120 - $0.20
+120 - $0.18
+260 - $0.16
+500 - $0.12
+1500 - $0.10
+1700 - $0.08
+1800 - $0.06
+Thereafter - $0.05
+To make it easy to determine the cost for any number of students we have provided both a price table and a “calculator”.

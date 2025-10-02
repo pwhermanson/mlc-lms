@@ -1,0 +1,78 @@
+﻿USER ROLES
+There still seems to be confusion about the roles we need.  And we are not sure of your capabilities in how to configure the functionality. So, we are re-stating our needs here to help clarify.  Let me define the user roles: (1) Subscriber, (2) Teacher-Admin, (3) Teacher, (4) Student.
+
+
+For the ENSEMBLE plan:
+Subscriber (Administrator) has full capabilities for the website, with the exception that it does not have Student capabilities.
+Teacher-Admin, when present, has full capabilities for the website, with the exceptions that it does not have Student capabilities, and cannot “manage the subscription” (payment info, add and subtract students, etc.)
+Teacher is created by the Subscriber or Teacher-Admin, and has teacher capabilities, and does not have Student capabilities.
+Student is created by a Teacher (usually), but could be created by Subscriber or Teacher-Admin as well.  Student has its own unique capabilities, including game playing, score recording, & score lookup.
+
+
+For the SOLO plan:
+Subscriber (Administrator) has full capabilities for the website, with the exception that it is not a Student.
+Student is created by a Teacher as well.  Student has its own unique capabilities, including game playing, score recording, & score lookup.
+
+
+Here is a more complete description of basically what we are putting on our website and in the knowledge base.
+
+
+“USER ROLES – [Linked to Musici Teachers, Schools, & Parents landing pages] 
+(Members may find more detailed information in RESOURCES, under USER HIERARCHY).  For SOLO subscriptions the last two roles are combined in one person, and is the same as the Teacher.  For ENSEMBLE subscriptions the Teacher-Admin may be combined with the Subscriber-Administrator, or may be two separate individuals.
+        Students 
+                Games
+        Teachers                
+                Games
+                Manage Students
+                Access Resources
+        Teacher-Admin          
+                Games
+                Manage Teachers and Students
+                Access Resources
+        Subscriber-Administrator
+                Manage Subscription”
+
+
+“USER HIERARCHY  [Dashboard Page—Resources], expandable headings
+        The different kinds of users and their capabilities are listed below.  Note that there is flexibility in defining the Teacher/Administrator roles.  For a SOLO subscription the Subscriber-Administrator has all the capabilities of a teacher (and is the same person).  For the ENSEMBLE subscription the Subscriber-Administrator can be separated into two roles by assigning a unique username and password to the Teacher-Admin, which otherwise defaults to the same username and password.  Multiple Teachers can then be created by the Teacher-Admin.  This is helpful in school situations where one individual handles the financial aspects (e. g., business office) and another handles the educational activity.
+
+
+Generic Student (often used for General Music classes)        
+° Created by a Teacher or Teacher-Admin.
+° Uses any of several usernames and passwords created by a Teacher or Teacher-Admin.
+° Play games, either sequenced or individual, via access to the student dashboard.
+° Scores are recorded for each username—but are irrelevant since multiple students use the same usernames.
+° No automated sequence assignment is used.
+Regular Student
+° Created by a Teacher or Teacher-Admin by providing a unique username and password.
+° Play games, either sequenced or individual, via access to the student dashboard.
+° Game scores history can be viewed individually.
+° Challenge games participation, competing with other students world-wide.
+Teacher
+° Created by a Teacher-Admin by providing a unique username and password [Ensemble], or defaults from Subscriber Admin [Solo].
+° Teacher/Admin dashboard access
+° Create students by providing usernames and passwords.
+° Specific game sequence assignment to students.
+° Game scores history viewing of his or her students.
+° Play on-line games individually selected (no scores are recorded for Teachers)
+Teacher-Admin
+° Created by the Subscriber-Administrator as an option by providing a unique username and password [Ensemble], or is not present (or grayed-out) [Solo].
+° Teacher/Admin dashboard access
+° Create Teachers [ENSEMBLE] by providing usernames and passwords.
+° Create students by providing usernames and passwords.
+° Specific game sequence assignment to students.
+° Assign and/or move students to specific Teachers
+° Game scores history viewing of all students.
+° Play on-line games individually selected (no scores are recorded for Teacher-Admin)
+° Delete individual student and scores history records
+° Receives copies of communications sent by MusicLearningCommunity.com via e-mail.
+Subscription-Administrator
+° Created as part of the original subscription process, including a unique username and password.  User editing is enabled.
+° When an optional Teacher-Admin is absent, includes Teacher-Admin capabilities.
+° Payment information addition and edit.
+° Schedule pause and restart of monthly subscriptions.
+° Number of student seats addition (annual subscription) or additions and reductions (monthly subscription)
+° Subscription identification and payment data addition and edit.
+° Subscription termination (student scores data retained in system for 13 months).
+° Receives copies of communications sent by MusicLearningCommunity.com via e-mail.
+° Christine Hermanson Grant Program administration.”

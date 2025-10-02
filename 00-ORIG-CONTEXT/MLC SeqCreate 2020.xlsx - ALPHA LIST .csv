@@ -1,0 +1,414 @@
+,,,,
+,,,GAME,ALPHA LIST '!$B$6:$E$408
+,,,,
+,,,,GAME
+,,,,
+,,GAME #,Name,Concept
+,0010,GAM-0010,60 Second Club 1,Rapidly read & play grand staff white notes on the on-screen keyboard - timed.
+,0020,GAM-0020,0,0
+,0030,GAM-0030,60 Second Club 2,Rapidly read & play grand staff # and b notes on the on-screen keyboard-timed
+,0040,GAM-0040,0,0
+,0050,GAM-0050,60 Second Club 3,Rapidly read & play all grand staff notes--white and black--on the onscreen keyboard-timed
+,0060,GAM-0060,60 Second Club 4,Rapidly read & play all grand staff notes-with key signatures--on the onscreen keyboard-timed
+,0070,GAM-0070,Alpha Order Down,Name missing letters in the descending music alphabet
+,0080,GAM-0080,Alpha Order Up,Name missing letters in the ascending music alphabet
+,0090,GAM-0090,Alpha Steps & Skips 1,Name the letters of the musical alphabet that make steps up & down
+,0100,GAM-0100,Alpha Steps & Skips 2,Name the letters of the musical alphabet that make skips up & down
+,0110,GAM-0110,Alpha Steps & Skips 3,Name the letters of the musical alphabet that make steps and skips up & down
+,0120,GAM-0120,Beat the Clock - Intervals 1,"Given the first note, play half steps up & down on the onscreen keyboard"
+,0130,GAM-0130,MIDI Beat the Clock - Intervals 1,"Given the first note, play half steps up & down on the MIDI keyboard"
+,0140,GAM-0140,Beat the Clock - Intervals 2,"Given the first note, play half steps and whole steps on the onscreen keyboard"
+,0150,GAM-0150,MIDI Beat the Clock - Intervals 2,"Given the first note, play half steps & whole steps on the MIDI keyboard"
+,0160,GAM-0160,MIDI Beat the Clock - Pentascales 1,"Play C, G, D and A Major pentascales on the MIDI keyboard"
+,0170,GAM-0170,MIDI Beat the Clock - Pentascales 2,"Play C, G, D, A, F and E  Major pentascales on the MIDI keyboard"
+,0180,GAM-0180,Beat the Clock - Triads 1,"Play triads on the onscreen keyboard: C, G and F Major"
+,0190,GAM-0190,MIDI Beat The Clock - Triads 1,"Play C, G and F Major triads on the MIDI keyboard"
+,0200,GAM-0200,Beat the Clock - Triads 2,"Play triads on the onscreen keyboard: D, E and A Major"
+,0210,GAM-0210,MIDI Beat The Clock - Triads 2,"Play D, E and A Major triads on the MIDI keyboard"
+,0220,GAM-0220,Beat the Clock - Triads 3,"Play triads on the onscreen keyboard: c, g and f minor"
+,0230,GAM-0230,MIDI Beat The Clock - Triads 3,"Play c, g and f minor triads on the MIDI keyboard"
+,0240,GAM-0240,Beat the Clock - Triads 4,"Play triads on the onscreen keyboard: d, e and a minor"
+,0250,GAM-0250,MIDI Beat The Clock - Triads 4,"Play d, e and a minor triads on the MIDI keyboard"
+,0260,GAM-0260,Beat the Clock - Triads 5,Play C-G-F-D-A-E-B Major triads on the on-screen keyboard
+,0270,GAM-0270,Bumble Keys 1,Read and play the notes of the treble staff on the onscreen keyboard
+,0280,GAM-0280,Bumble Keys 1,0
+,0290,GAM-0290,MIDI Bumble Keys 1,Read and play the notes of the treble staff on a MIDI keyboard
+,0300,GAM-0300,Bumble Keys 2,Read and play the notes of the bass staff on the onscreen keyboard
+,0310,GAM-0310,Bumble Keys 2,0
+,0320,GAM-0320,MIDI Bumble Keys 2,Read and play the notes of the bass staff on a MIDI keyboard
+,0330,GAM-0330,Bumble Keys 3,Read and play treble clef sharps & flats on the onscreen keyboard
+,0340,GAM-0340,Bumble Keys 4,Read and play bass clef sharps & flats on the onscreen keyboard
+,0350,GAM-0350,Bumble Keys 5,Read and play ledger lines between the staves on onscreen keyboard
+,0360,GAM-0360,Cannon Intervals 1,Identify half steps and whole steps on the keyboard and the staff
+,0370,GAM-0370,Cannon Intervals 2,"Identify 5ths, 6ths, 7ths & octaves on the keyboard and the staff"
+,0380,GAM-0380,Cannon Intervals 3,Identify minor 2nds & Major 2nds on the keyboard and the staff
+,0390,GAM-0390,Cannon Intervals 4,Identify minor 3rds & Major 3rds on the keyboard and the staff
+,0400,GAM-0400,Catch the Coconut 1,Hear and identify intervals 2nds & 5ths 
+,0410,GAM-0410,Catch the Coconut 2,Hear and identify 2nds & 3rds 
+,0420,GAM-0420,Catch the Coconut 3,"Hear and identify 2nds, 3rds & 5ths "
+,0430,GAM-0430,Catch the Coconut 4,Hear and identify 4ths & 5ths 
+,0440,GAM-0440,Circle of Fifths 1,Learn the sharp circle and the flat circle separately
+,0450,GAM-0450,Circle of Fifths 2,Learn the entire circle of 5ths
+,0460,GAM-0460,Climbing 7ths 1,"Play M7, Dom7, dim7 chords on the onscreen keybd"
+,0470,GAM-0470,MIDI Climbing 7ths 1,"Play M7, Dom7, dim7 chords on the MIDI keybd"
+,0480,GAM-0480,Climbing 7ths 2,"Play m7, half-dim7, Dom7 chords on the onscreen keybd"
+,0490,GAM-0490,MIDI Climbing 7ths 2,"Play m7, half-dim7, Dom7 chords on the MIDI keybd"
+,0500,GAM-0500,Climbing High,"Hear and play back 2nds, 3rds, 4ths, 5ths - same root - Major pentascale"
+,0510,GAM-0510,Climbing High,0
+,0520,GAM-0520,Climbing High 2,"Minor pentascales--hear and play back 2nds, 3rds, 4ths, 5ths - same root"
+,0530,GAM-0530,Climbing Higher,0
+,0540,GAM-0540,Climbing Higher 1,Hear and play back 2nds thru octaves-same root-Major scale
+,0550,GAM-0550,Climbing Higher 2,Hear and play back 2nds thru octaves-same root-natural minor scale
+,0560,GAM-0560,Climbing Higher 3,Hear and play back 2nds thru octaves-same root-harmonic minor scale
+,0570,GAM-0570,Cosmic Key Signatures 1,"Identify C, G and F Major key signatures"
+,0580,GAM-0580,Cosmic Key Signatures 2,"Identify D, A and E Major key signatures"
+,0590,GAM-0590,Downhill Rhythms 1,See two rhythms.  Which one is played?  Triplets
+,0600,GAM-0600,Downhill Rhythms 2,Which rhythm do you hear?  16th-note patterns
+,0610,GAM-0610,Downhill Rhythms 3,"Which rhythm do you hear?  Dotted quarter-eighth, single eighth notes & rests"
+,0620,GAM-0620,Downhill Rhythms 4,Which rhythm do you hear?  Patterns in 3-8 meter
+,0630,GAM-0630,Downhill Rhythms 5,Which rhythm do you hear?  Patterns in 6-8 meter
+,0640,GAM-0640,Evergreen Scales 3,"Aurally identify scales as Major, natural minor & harmonic minor"
+,0650,GAM-0650,Falling Chords 1,Visually identify tonic and dominant chords in C and G Major
+,0660,GAM-0660,Falling Chords 2,"Visually identify I, IV and V chords in C and G Major"
+,0670,GAM-0670,Falling Chords 3,"Visually identify tonic, subdominant & dominant chords in C, G, D & F Major"
+,0680,GAM-0680,Falling Chords 4,"Visually identify tonic, subdominant & dominant chords in G, D, A & E Major"
+,0690,GAM-0690,Falling Chords 5,"Visually identify tonic, subdominant & dominant chords in F, Bb, Eb & Ab Major"
+,0700,GAM-0700,Falling Symbols 1,"Match music symbols (see the ""Learn"" level of the game)"
+,0710,GAM-0710,Falling Symbols 2,"Identify music symbols (see the ""Learn"" level of the game)"
+,0720,GAM-0720,Falling Symbols 3,"Identify Level 1 & 2 music symbols (see the ""Learn"" level of the game)"
+,0730,GAM-0730,Falling Symbols 4,Identify music terms & symbols.  See the Learn level of the game
+,0740,GAM-0740,Falling Symbols 5,Identify music terms & symbols.  All terms are displayed at the beginning of the Learn level of the game
+,0750,GAM-0750,Faster-Slower-Same 1,Does the music become faster or slower? 
+,0760,GAM-0760,Faster-Slower-Same 2,"Does the music become faster, slower or the same? "
+,0770,GAM-0770,Faster-Slower-Same 3,Identify and demonstrate understanding of terms “ritardando” and “accelerando” in musical examples
+,0780,GAM-0780,Finger Finder,Finger Numbers for the Right and Left hands 
+,0790,GAM-0790,Float a Note 1,Name Treble Staff lines and spaces 
+,0800,GAM-0800,Float a Note 1,0
+,0810,GAM-0810,Float a Note 2,Name Bass Staff lines and spaces 
+,0820,GAM-0820,Float a Note 2,0
+,0830,GAM-0830,FloatANote Pentascales 1,Identify the notes of the C Major pentascale - Middle CDEFG
+,0840,GAM-0840,FloatANote Pentascales 2,Identify the notes of the C Major pentascale - Bass CDEFG
+,0850,GAM-0850,FloatANote Pentascales 3,Identify the notes of the G Major pentascale - Treble GABCD
+,0860,GAM-0860,FloatANote Pentascales 4,Identify the notes of the bass G Major pentascale - bass GABCD
+,0870,GAM-0870,FloatANote Pentascales 5,Identify the notes of the G Major pentascale - Middle GABCD
+,0880,GAM-0880,Floating Inversions 1,Name the Major triad in root position and 1st inversion
+,0890,GAM-0890,Floating Inversions 2,Name the Major triad in root position and 2nd inversion
+,0900,GAM-0900,Floating Inversions 3,Name the root of a triad in root position and 1st and 2nd inversions
+,0910,GAM-0910,Floating Triads 1,See and name Major triads starting on white keys
+,0920,GAM-0920,Floating Triads 2,See and name Major and minor triads starting on white keys
+,0930,GAM-0930,Grand Staff Alphabet 1,Name Grand Staff Lines and Spaces
+,0940,GAM-0940,Grand Staff Alphabet 1,0
+,0950,GAM-0950,Grand Staff Alphabet 2,Read and name C-D-E and C-B-A on ledger lines between the staves
+,0960,GAM-0960,Grand Staff Guide Notes 1,"Identify Treble G, Middle C, Bass F on the staff"
+,0970,GAM-0970,MIDI Grand Staff Guide Notes 1,"Read and play Treble G, Middle C, Bass F on the MIDI keyboard"
+,0980,GAM-0980,Grand Staff Guide Notes 2,"Read and Play Treble C, Middle C, Bass C "
+,0990,GAM-0990,MIDI Grand Staff Guide Notes 2,"Read and Play Treble C, Middle C, Bass C "
+,1000,GAM-1000,Grand Staff Guide Notes 3,"Read & play Treble G, Middle G, Bass G on the onscreen keyboard"
+,1010,GAM-1010,Grand Staff Guide Notes 4,Read & play the five C's on the onscreen keyboard
+,1020,GAM-1020,Grand Staff Guide Notes 5,Identify and play all 7 grand staff guide notes on the onscreen keyboard
+,1030,GAM-1030,Grand Staff Guide Notes 5A,Includes low F and high G for MusicTree
+,1040,GAM-1040,MIDI Grand Staff Hoops 1,Read & play grand staff white keys on a MIDI keyboard
+,1050,GAM-1050,MIDI Grand Staff Hoops 4,Read & play grand staff notes with key signatures
+,1060,GAM-1060,Grand Staff Pattern Reading 1,"Read from 3 Guide Notes: Bass F, Middle C, Treble G "
+,1070,GAM-1070,Grand Staff Pattern Reading 2,"Read from 3 Guide Notes: Bass C, Middle C, Treble C "
+,1080,GAM-1080,Grand Staff Pattern Reading 4,Sightread from all 7 guide notes
+,1090,GAM-1090,Grand Staff Pattern Reading 4,0
+,1100,GAM-1100,Hand Prints,Identify Left and Right hand
+,1110,GAM-1110,Harmonic Minor Memory 1,"Hear, then play back random patterns in the A harmonic minor scale-on the staff"
+,1120,GAM-1120,Harmony Pix 1,Hear a 4-chord progression of I and V7 chords. Same or different from what is seen?
+,1130,GAM-1130,Harmony Pix 2,"Hear a 4-chord progression of I, IV & V7 chords. Same or different from what is seen?"
+,1140,GAM-1140,Harmony Puzzle 1,Hear 4 chord progressions. Match each progression to the correct chord symbols. I & V7
+,1150,GAM-1150,Harmony Puzzle 2,"Hear 4 chord progressions. Match to correct chord symbols. I-V7-I,  i-V7-i,  I-IV-I,  i-iv-i"
+,1160,GAM-1160,Hearing Harmonic Intervals1,"Hear a pattern of 3 harmonic intervals and identify the intervals: 2nds, 3rds, 4ths, 5ths"
+,1170,GAM-1170,Hearing Triads 1 ,Hear a 4-chord pattern of Major and minor triads and define the quality of each chord.
+,1180,GAM-1180,Hearing Triads 2,Aurally identifying Major and Augmented triads
+,1190,GAM-1190,Hearing Triads 3,Aurally identifying minor and diminished triads
+,1200,GAM-1200,Hot Air Rhythms 1,"See two rhythms--which one was played--Quarter, eighth pairs, quarter tied to eighth"
+,1210,GAM-1210,Hot Air Rhythms 2,"See 2 rhythms, choose which one you hear.  Quarter notes, dotted quarter-eighth notes "
+,1220,GAM-1220,Interval Aces 1,Identify aural intervals:  half step and whole step
+,1230,GAM-1230,Interval Aces 2 ,Identify aural intervals:  minor 3rd & Major 3rd
+,1240,GAM-1240,Interval Aces 3,Identify aural intervals:  minor 2nd & Major 2nd
+,1250,GAM-1250,Interval Aces 4,"Identify aural intervals:  minor 3rd, Major 3rd, Perfect 5th"
+,1260,GAM-1260,Interval Aliens 1,"Identify aural intervals: half step, 2nd, 3rd, 4th, 5th, octave"
+,1270,GAM-1270,Interval Aliens 2,"Identify aural intervals: 2nd, mi 3rd, M3rd, 4th, 5th, octave"
+,1280,GAM-1280,Interval Aliens 3,"Identify aural intervals: m2, M2, m3, M3, P4, P5"
+,1290,GAM-1290,Interval Aliens 4,"Identify aural intervals: P5, m6, M6, m7, M7, P8"
+,1300,GAM-1300,Interval Arcade 1,"Aurally identify 2nds, 3rds, 4ths & 5ths  - different roots"
+,1310,GAM-1310,Interval Arcade 2,"Hear & identify 5ths, 6ths, 7ths and octaves  - different roots"
+,1320,GAM-1320,Interval Pop Aural 1,"Aurally identify Perfect Unison, M2, m3, M3, P4, P5"
+,1330,GAM-1330,Interval Pop Aural 2,"Aurally identify m2, M2, m3, M3, P4, Tritone, P5"
+,1340,GAM-1340,Interval Pop Aural 3,"Aurally identify P5, m6, M6, m7, M7, P8"
+,1350,GAM-1350,Interval Pop Visual 1,"Visually identify Perfect Unison, M2, m3, M3, P4, P5"
+,1360,GAM-1360,Interval Pop Visual 2,"Visually identify m2, M2, m3, M3, P4, Tritone, P5"
+,1370,GAM-1370,Interval Pop Visual 3,"Visually identify P5, m6, M6, m7, M7, P8"
+,1380,GAM-1380,Interval Rockets 1,"Identify 2nds, 3rds, 4ths, 5ths, 6ths, 7ths & 8ve on the staff"
+,1390,GAM-1390,MIDI Interval Rockets 2 ,Read and play harmonic 2nds through 5ths starting on bass C
+,1400,GAM-1400,Interval Slide 1,Aurally identify an interval then choose the written version of the interval. CFG 2nds-5ths
+,1410,GAM-1410,Interval Surprise 1,"Name Intervals - 2nds, 3rds, 4ths, and 5ths"
+,1420,GAM-1420,Interval Surprise 2,"Visually identify Intervals - half steps, 2nds (whole steps), 3rds, 4ths, and 5ths"
+,1430,GAM-1430,Inversion Diversion 1,"Identify triads in root position, 1st inversion, 2nd inversion"
+,1440,GAM-1440,Inversion Diversion 2,Visually identify inversions using figured bass notation
+,1450,GAM-1450,Inversion Diversion 3,Visually identify 7th chord inversions
+,1460,GAM-1460,It's All Relative 1,"Identify relative minor key signatures: a, e, d and b minor"
+,1470,GAM-1470,Jingle Notes 1,Identify all lines and spaces on the treble staff
+,1480,GAM-1480,Jingle Notes 1,0
+,1490,GAM-1490,Jingle Notes 2,Identify all lines and spaces on the bass staff.
+,1500,GAM-1500,Jingle Notes 2,0
+,1510,GAM-1510,Jingle Notes 3,Identify and name three ledger lines above the treble staff
+,1520,GAM-1520,Jingle Notes 3,0
+,1530,GAM-1530,Jingle Notes 4,Identify and name three ledger lines below the bass staff
+,1540,GAM-1540,Jingle Notes 4,0
+,1550,GAM-1550,Key Signature Canoes 1,See a scale pattern and select the key signature that makes it a Major scale - sharps
+,1560,GAM-1560,Key Signature Canoes 2,See a scale pattern and select the key signature that makes it a Major scale - flats
+,1570,GAM-1570,Key Signature Canoes 3,See a scale pattern and select the key signature that makes it a minor scale - sharps
+,1580,GAM-1580,Key Signature Canoes 4,See a scale pattern and select the key signature that makes it a minor scale - flats
+,1590,GAM-1590,Key Signature Keynotes 1,See a keynote and identify its key signature - all sharps
+,1600,GAM-1600,Key Signature Keynotes 2,See a keynote and identify its key signature - all flats
+,1610,GAM-1610,Key Signature Warehouse 1,Identify key signatures through 4 sharps and 2 flats
+,1620,GAM-1620,Key Signature Warehouse 2,Identify sharp key signatures 
+,1630,GAM-1630,Key Signature Warehouse 3,Identify flat key signatures 
+,1640,GAM-1640,LetterFly 1,CDE--Identify and play on the onscreen keyboard
+,1650,GAM-1650,LetterFly 1 do-re-mi,0
+,1660,GAM-1660,LetterFly 2,FGAB--Identify and play on the onscreen keyboard
+,1670,GAM-1670,LetterFly 2 fai-sol-la-ti,0
+,1680,GAM-1680,LetterFly 3,White Keys--Identify and play on the onscreen keyboard
+,1690,GAM-1690,MIDI LetterFly 3,White Keys--Identify and play on the MIDI keyboard
+,1700,GAM-1700,Letterfly 3 all white keys,0
+,1710,GAM-1710,LetterFly 4,Black Key Flats--Identify and play on the onscreen keyboard
+,1720,GAM-1720,Letterfly 4 Flat Keys,0
+,1730,GAM-1730,LetterFly 5,Play Black Key Sharps on the onscreen keyboard
+,1740,GAM-1740,LetterFly 5 Sharp keys,0
+,1750,GAM-1750,LetterFly 6,Play Black Key Sharps & Flats on the onscreen keyboard
+,1760,GAM-1760,MIDI LetterFly 6,Play Black Key Sharps & Flats on the MIDI keyboard
+,1770,GAM-1770,Low Middle High ,"Identify keys that are low, middle and high on the keyboard"
+,1780,GAM-1780,Major Triad Matching Game,Matching major triads in a popular game format
+,1790,GAM-1790,Major/minor Triad Match 1,Matching major and minor triads in a popular game format - untimed
+,1800,GAM-1800,Major/minor Triad Match 2,Matching major and minor triads in a popular game format - timed
+,1810,GAM-1810,Manny's Short & Long 1,Identify which pattern of short and long notes is the one you hear.
+,1820,GAM-1820,Manny's Short & Long 2,Identify which pattern of short and long notes is the one you hear.
+,1830,GAM-1830,Melody Match 1,Hear a melody and tell which melody matches the one you heard
+,1840,GAM-1840,Melody Match 2,Hear a melody and tell which melody matches the one you heard
+,1850,GAM-1850,Melody Match 3,"Hear a melody, then tell which of 3 melodies is the match"
+,1860,GAM-1860,Melody Match 4,"Hear a melody, then tell which of 3 melodies is the match"
+,1870,GAM-1870,Melody Mayhem 1,"See two melodies in 3/4 range of a 5th, 2nds and 3rds & tell which one you hear"
+,1880,GAM-1880,Melody Mayhem 2,"Which melody do you hear? In 3-4 & 4-4, C-F-G pentascales"
+,1890,GAM-1890,Melody Mayhem 3,"Which melody do you hear? In 3-4 & 4-4, eighth-note pairs, C-F-G pentascales"
+,1900,GAM-1900,Melody Mayhem 4,Which melody do you hear? Major or parallel minor? Triplets and 16ths
+,1910,GAM-1910,Melody Mayhem 5,"Which melody do you hear? Three melodies, D, A, E & Bb, 6-8 meter"
+,1920,GAM-1920,MIDI Melody Mimic 1,"Hear then playback 4-note patterns in C,G,or F Major 1st 3 notes steps-repeats"
+,1930,GAM-1930,MIDI Melody Mimic 2,"Hear, then play back 4-note patterns in C, F and G Major, 2nds and 3rds"
+,1940,GAM-1940,MIDI Melody Mimic 3,"Hear then play back a pattern of 4 notes in C, G or F Major starting on Do, Re or Mi"
+,1950,GAM-1950,MIDI Melody Mimic 4,"Hear then play back a pattern of 4 notes in C, G or F Major starting on Do, Re or Mi"
+,1960,GAM-1960,Melody Pix 1,"Hear and identify melody block patterns of Do-Re-Mi - same tonic
+"
+,1970,GAM-1970,Melody Pix 2,Hear and identify patterns of Do-Re-Mi -different tonics; staff & noteheads.
+,1980,GAM-1980,Melody Pix 3,Listen to a melodic pattern and tell whether it is the same as or different than the written pattern.
+,1990,GAM-1990,Melody Puzzles 1,"Hear a melody, see the measures out of order, and put measures in order"
+,2000,GAM-2000,MIDI Memory Playback 1,Hear and play back random patterns of CDE on the MIDI keyboard
+,2010,GAM-2010,MIDI Memory Playback 2,"Hear, then play back random patterns of CDEFG on a MIDI keyboard"
+,2020,GAM-2020,Meteor Match 1,"Name notes and rests - Quarter note, half note"
+,2030,GAM-2030,Meteor Match 1 A,"Name notes and rests - Quarter note, quarter rest"
+,2040,GAM-2040,Meteor Match 2,"Name notes and rests - Quarter and half note, quarter rest "
+,2050,GAM-2050,Meteor Match 3,"Name notes and rests  Quarter, half, dotted half and whole notes "
+,2060,GAM-2060,Meteor Match 4,Name rhythm symbols - Quarter and half notes; quarter and half rests 
+,2070,GAM-2070,Meter Match 1,Aurally identify whether music is in 2/4 (duple) or 3/4 (triple) meter.
+,2080,GAM-2080,Minor Keyboard Playback 1,Hear & then play back random patterns in the A natural minor scale-on the onscreen keyboard
+,2090,GAM-2090,MIDI Minor Keyboard Playback 1,Hear & play back random patterns in the A natural minor scale
+,2100,GAM-2100,Minor Keyboard Playback 2,Hear & then play back random patterns in the D harmonic minor scale-on the onscreen keyboard
+,2110,GAM-2110,MIDI Minor Keyboard Playback 2,Hear & play back random patterns in D harmonic minor scale - on the MIDI keyboard
+,2120,GAM-2120,Monkey Hear Monkey Do 1,"Hear, then play back a randomly presented series of pitches in the C Major Pentascale"
+,2130,GAM-2130,Monkey Hear Monkey Do 2,"Hear, then play back a randomly presented series of pitches in the D Major Pentascale"
+,2140,GAM-2140,Music Darts 1,"Identify music symbols (see the ""Learn"" level of the game)"
+,2150,GAM-2150,Music Darts 2,"Identify music symbols (see the ""Learn"" level of the game)"
+,2160,GAM-2160,Music Darts 3,"Identify music symbols (see the ""Learn"" level of the game)"
+,2170,GAM-2170,"Music Darts 4-Rhythm
+(sofege level 1 symbols??)",Name note and rest values through eighth notes and rests and eighth-note pairs 
+,2180,GAM-2180,Music Symbol Match 1,Popular memory/concentration game format
+,2190,GAM-2190,Musical Memory 1 CDE,Play back random patterns of C D E on the staff with visual clues
+,2200,GAM-2200,Musical Memory 1 CDEFG,Play back random patterns of C D E F G on the staff with visual clues
+,2210,GAM-2210,Musical Memory 1 CDEG,Play back random patterns of C D E G on the staff with visual clues
+,2220,GAM-2220,Musical Memory 2 CDE,Hear and play back random patterns of C  D  E  notes on staff
+,2230,GAM-2230,Musical Memory 2 CDEG,Play back random patterns of C D E G on the staff
+,2240,GAM-2240,Musical Memory 2-CDEFG,Hear and play back random patterns of C  D  E  F  G-- notes on staff
+,2250,GAM-2250,Musical Memory 3-CDE,"Hear, then play back random patterns of C  D  E on the onscreen keybd"
+,2260,GAM-2260,Musical Memory 3-CDEFG,Play back random patterns of C D E F G on the onscreen keyboard
+,2270,GAM-2270,Musical Memory 3-CDEG,Play back random patterns of C D E G on the onscreen keyboard
+,2280,GAM-2280,Musical Memory Challenge 1,"Hear, then playback random patterns in the C Major Scale"
+,2290,GAM-2290,Musical Memory Keybd Challenge 1,"Hear, then play back random patterns of notes from the C Major scale-onscreen keyboard"
+,2300,GAM-2300,Musical Memory Keybd Challenge 2,"Hear, then play back random patterns of notes from the bass G Major 1-octave scale-onscreen keybd"
+,2310,GAM-2310,Mystery Note 1 - Quiz Level NEEDED,Hear  CDE followed by one of the notes.  Play note on the onscreen keyboard
+,2320,GAM-2320,Mystery Note 1,0
+,2330,GAM-2330,MIDI Mystery Triads 1,"See the root and play the Major triad on a MIDI keyboard. C,G,F,D,A,E"
+,2340,GAM-2340,Natural Minor Memory 1,"Hear, then play back random patterns in the A natural minor scale-on the staff"
+,2350,GAM-2350,Note Balloons 1,Identify Treble CDEFG
+,2360,GAM-2360,Note Balloons 1,0
+,2370,GAM-2370,Note Balloons 2,Identify Treble & Bass CDEFG 
+,2380,GAM-2380,Note Balloons 2,0
+,2390,GAM-2390,Note Flakes 1,Read and name all treble notes
+,2400,GAM-2400,Note Flakes 1,0
+,2410,GAM-2410,Note Flakes 2,See several notes on bass staff.  Which note is the letter shown?
+,2420,GAM-2420,Note Flakes 2,0
+,2430,GAM-2430,Note Flakes-Diatonic Intervals 1,"Identify 2nds through octaves, Major and Perfect, on the staff"
+,2440,GAM-2440,Note Flakes-Diatonic Intervals 2,"Identify M & mi 2nds and 3rds, Perfect 4ths and 5ths"
+,2450,GAM-2450,MIDI Note Rockets 1,Read and play notes from the Middle C pentascale
+,2460,GAM-2460,MIDI Note Rockets 2,Read and play notes from the bass C pentascale
+,2470,GAM-2470,MIDI Note Rockets 3,Read and play notes from the bass G pentascale
+,2480,GAM-2480,MIDI Octave Playback 1,Hear & play back random patterns in the C Major scale on a MIDI keyboard
+,2490,GAM-2490,Order Me Up 1,Name the order of the flats as they appear in key signatures
+,2500,GAM-2500,Order Me Up 2,Name the order of the sharps as they appear in key signatures
+,2510,GAM-2510,Page Turner Keyboard 1,Read and play the notes of the C Major pentascale-Middle CDEFG
+,2520,GAM-2520,Page Turner Keyboard 1,0
+,2530,GAM-2530,Page Turner 1,0
+,2540,GAM-2540,MIDI Page Turner 1,Read and play notes from the Middle C pentascale
+,2550,GAM-2550,Page Turner Keyboard 2,Read and play the notes of the C Major pentascale-Bass CDEFG 
+,2560,GAM-2560,Page Turner Keyboard 2,0
+,2570,GAM-2570,Page Turner 2,0
+,2580,GAM-2580,MIDI Page Turner 2,Read and play notes from the Bass C pentascale
+,2590,GAM-2590,Page Turner Keyboard 3,Read and play the notes Middle CBAGF 
+,2600,GAM-2600,Page Turner 3,0
+,2610,GAM-2610,MIDI Page Turner 3,Read and play the notes Middle C down to F 
+,2620,GAM-2620,Page Turner Keyboard 4,Read and play the notes of the Treble G Major pentascale-GABCD
+,2630,GAM-2630,Page Turner 4,0
+,2640,GAM-2640,Page Turner Keyboard 5,Read and play the notes of the Bass G Major pentascale-GABCD
+,2650,GAM-2650,Page Turner 5,0
+,2660,GAM-2660,Page Turner Keyboard 6,Read and play the notes of the middle G Major pentascale-GABCD
+,2670,GAM-2670,Page Turner 6,0
+,2680,GAM-2680,Page Turner Letters 1,Name the notes of the Middle C Pentascale 
+,2690,GAM-2690,Page Turner Letters 2,Name the notes of the Bass C Pentascale 
+,2700,GAM-2700,Page Turner Letters 3,Name the treble staff spaces
+,2710,GAM-2710,Page Turner Letters 4,Name the treble staff lines
+,2720,GAM-2720,Page Turner Letters 5,Name the bass staff spaces
+,2730,GAM-2730,Page Turner Letters 6,Name the bass staff lines
+,2740,GAM-2740,Page Turner Letters 7,Name the notes of the treble C pentascale
+,2750,GAM-2750,MIDI Pattern Flashes 1,Sightreading patterns in the Middle C pentascale with 2nds and 3rds
+,2760,GAM-2760,MIDI Pattern Flashes 2,Sightreading patterns in the bass C pentascale with 2nds and 3rds
+,2770,GAM-2770,Pattern Reading 1,Read & play Steps and Repeats (treble pitches) 
+,2780,GAM-2780,MIDI Pattern Reading 1,Read & play Steps and Repeats (treble pitches) 
+,2790,GAM-2790,Pattern Reading 2,Read & play Steps and Repeats (bass pitches) 
+,2800,GAM-2800,MIDI Pattern Reading 2,Read & play Steps and Repeats (bass pitches) 
+,2810,GAM-2810,Pentascale Toolbox 1,Visually identify Major pentascales starting on white keys
+,2820,GAM-2820,Pentascale Toolbox 2,Visually identify C G F D Major and minor pentascales 
+,2830,GAM-2830,Pentascale Toolbox 3,Visually identify D A E F Major and minor pentascales 
+,2840,GAM-2840,Pick the Pattern 1,See two 4-note pitch patterns with 2nds & 3rds and tell which one was played
+,2850,GAM-2850,Pick the Pattern 2,See three 4-note pitch patterns with steps & skips and tell which one was played
+,2860,GAM-2860,Pick the Pattern Forte Piano,"Hear, then identify each chord in a 4-chord pattern as forte or piano."
+,2870,GAM-2870,Pick the Pattern Loud Soft,"Hear, then identify each chord in a 4-chord pattern as loud or soft."
+,2880,GAM-2880,Pitch Detective 1,Melodic Dictation: C-F-G Major pentascales 2nds and 3rds
+,2890,GAM-2890,Pitch Detective 2,"Melodic Dictation: C-F-G Major pentascales-treble & bass-2nds, 3rds single notes"
+,2900,GAM-2900,Pitch Detective 3, - 
+,2910,GAM-2910,Pitch Detective 4, -
+,2920,GAM-2920,Practice Buddy 1,Error detection -- hear a phrase from a folk tune and find the error on the notated page
+,2930,GAM-2930,Random Rhythms 1,"Aurally identify notated eighth, dotted eighth-16th, triplets and various 16th note patterns"
+,2940,GAM-2940,Relatively Speaking 1,"Identify the key signature and play the keynote:  a, e, d and b minor"
+,2950,GAM-2950,Rhythm Factory 1,Hear and see a 2-measure rhythm--are they the same or different? Quarter & eighth-note pairs 3/4
+,2960,GAM-2960,Rhythm Factory 2,Hear and see a 2-measure rhythm--are they the same or different? Quarter notes & eighth-note pairs 4/4
+,2970,GAM-2970,Rhythm Factory 3,"Hear & see a 2-measure rhythm.  Are they the same or different? Quarter notes & rests, eighth note pairs"
+,2980,GAM-2980,Rhythm Factory 4,Hear two rhythms that include groups of four 16th notes and tell which one was played
+,2990,GAM-2990,Rhythm Finder 1,Rhythmic dictation in patterns including 8th-note pairs
+,3000,GAM-3000,Rhythm Math 1,Supply the missing note or rest in a measure.  Note & rest values through eighth-note pairs
+,3010,GAM-3010,Rhythm Math 5, - 
+,3020,GAM-3020,Rhythm Pix 1,Is this rhythm the same or different from the one you hear? Quarter notes and rests
+,3030,GAM-3030,Rhythm Pix 2,Is this rhythm the same or different from the one you hear? Quarter notes and eighth-note pairs
+,3040,GAM-3040,Rhythm Pix 3,"Same or different from the one you hear? Quarter notes, rests, eighth note pairs and ties "
+,3050,GAM-3050,Rhythm Pix 4,"Is this rhythm the same or different from the one you hear? Quarter notes, rests, dotted quarter-eighth note  "
+,3060,GAM-3060,Rhythm Pop 1,"How many beats?  Quarter, half, and whole notes"
+,3070,GAM-3070,Rhythm Pop 1A,"How many beats?  Quarter, half, dotted half and whole notes"
+,3080,GAM-3080,Rhythm Pop 2,"How many beats?  Quarter, half, dotted half and whole notes, and quarter rests "
+,3090,GAM-3090,Rhythm Pop 3,How many beats? - Adds half and whole rests and ties 
+,3100,GAM-3100,Rhythm Pop 4,"How many beats? - Adds dotted quarter, eighth note & rest, plus eighth-note pairs"
+,3110,GAM-3110,Rhythm Pop 5,How many beats? - note values in 3-8 and 6-8
+,3120,GAM-3120,Rhythm Rally 1,Which one-measure rhythm is played?  Quarter notes and quarter rests
+,3130,GAM-3130,Rhythm Rally 1A,Which one-measure rhythm is played?  Quarter notes and half notes
+,3140,GAM-3140,Rhythm Rally 2,"Which one-measure rhythm is played?  Quarter, half, dotted half and whole notes. "
+,3150,GAM-3150,Rhythm Regatta 1,"See 2 rhythms, choose which one you hear.  Quarter, half, dotted half, whole notes."
+,3160,GAM-3160,Rhythm Regatta 2,"See 2 rhythms, choose which one you hear.  Quarter notes and rests, half notes and rests. "
+,3170,GAM-3170,Rhythm Regatta 3,Hear a rhythm and choose which notated pattern was played.Quarter notes and eighth-note pairs
+,3180,GAM-3180,Rhythm Regatta 4,Which one-measure rhythm is played?  Quarter tied to eighth-note pairs
+,3190,GAM-3190,Rhythm Regatta 5,"Hear a rhythm and choose which notated pattern was played.Quarter notes, dotted quarter- eighth-notes"
+,3200,GAM-3200,Rhythm Riff 1,"See a rhythm.  Hear 5 rhythms. Which one is played? Include triplets, 16th patterns"
+,3210,GAM-3210,Rhythm Rockets 1,"See a rhythm, then choose from 4 rhythms you hear: Quarter notes & rests"
+,3220,GAM-3220,Rhythm Rockets 2,"Hear, then identify patterns of quarter notes and eighth-note pairs"
+,3230,GAM-3230,Rhythm Rockets 3,"Hear then identify patterns of quarter notes, dotted quarter notes, eighths & eighth-note pairs"
+,3240,GAM-3240,Rhythm Rockets 4,Hear 4 rhythms and choose which one matches the written rhythm - triplets
+,3250,GAM-3250,Rhythm Rockets 5,Hear 4 rhythms and choose which one matches the written rhythm - 16th-note patterns
+,3260,GAM-3260,Rhythm Writer 1,Place Barlines in the right places in 4-4 time
+,3270,GAM-3270,Rhythm Writer 2,"Add the beats in a measure, then drag the one note that completes the measure"
+,3280,GAM-3280,Rhythm Writer 3,Place Barlines and do the math in 4-4 time
+,3290,GAM-3290,Rhythm Writer 4,Place the barlines in 3-4 and 4-4 rhythms with eighth-note syncopation
+,3300,GAM-3300,Rhythm Writer 5,Place the barlines in 3-8 rhythms
+,3310,GAM-3310,Rhythm Writer 6,Place the barlines in 6-8 rhythms
+,3320,GAM-3320,Scale Family Picnic 1,Write Major scales through 4 sharps by placing the sharps
+,3330,GAM-3330,Scale Family Picnic 2,Write Major scales through 4 flats by placing the flats
+,3340,GAM-3340,Scale Family Picnic 3,"Write C, G, D & F Major scales and a, e, d & b natural minor scales"
+,3350,GAM-3350,Scale Family Picnic 4,"Write a, e, d and b minor natural & harmonic minor scales"
+,3360,GAM-3360,Smiley & Friends-Rhythm 1,Aural matching of quarter note and quarter rest patterns.
+,3370,GAM-3370,Smiley and Friends 1,Hear Tunes -- Same or different
+,3380,GAM-3380,Smiley and Friends 2,Hear Two note patterns -- Same or different?
+,3390,GAM-3390,Snowball Stems 1,Identify whether the stem direction of a note is correct or incorrect. 
+,3400,GAM-3400,Song Birds 1,Hear and play back random patterns of DO - RE -- pre-staff
+,3410,GAM-3410,Song Birds 1,0
+,3420,GAM-3420,Song Birds 2,Hear and play back random patterns of DO - RE - MI -- pre-staff
+,3430,GAM-3430,Song Birds 2,0
+,3440,GAM-3440,Song Birds 3,Hear and play back random patterns of DO - RE - MI - SOL -- pre-staff
+,3450,GAM-3450,Song Birds 3,0
+,3460,GAM-3460,Song Birds 4,Hear and play back random patterns of DO - RE - MI - FA - SOL -- pre-staff
+,3470,GAM-3470,Song Birds 4,0
+,3480,GAM-3480,Songbirds High and Low,Identify high sounds and low sounds
+,3490,GAM-3490,Songbirds Major & minor,Aurally identify pentascales as Major or minor
+,3500,GAM-3500,Staff Birds 1,Hear and play back random patterns of C and D -- birds on staff
+,3510,GAM-3510,Staff Birds 1,0
+,3520,GAM-3520,Staff Birds 2,Hear and play back random patterns of C  D  E -- birds on staff
+,3530,GAM-3530,Staff Birds 2,0
+,3540,GAM-3540,Staff Birds 3,Hear and play back random patterns of F  G  A -- birds on staff
+,3550,GAM-3550,Staff Birds 3,0
+,3560,GAM-3560,Staff Birds 4,Hear and play back random patterns of 4 notes C D E G-- birds on staff
+,3570,GAM-3570,Staff Birds 4,0
+,3580,GAM-3580,Staff Birds 5,Hear and play back random patterns of 4 notes F G A C-- birds on staff
+,3590,GAM-3590,Staff Birds 5,0
+,3600,GAM-3600,Staff Birds 6,Hear and play back random patterns of 4 notes G A B D-- birds on staff
+,3610,GAM-3610,Staff Birds 6,0
+,3620,GAM-3620,Staff Birds 7,Hear and play back random patterns of 5 notes C D E F G-- birds on staff
+,3630,GAM-3630,Staff Birds 7,0
+,3640,GAM-3640,Staff Birds 8,Hear and play back random patterns of 5 notes G A B C D-- birds on staff
+,3650,GAM-3650,Staff Birds 8,0
+,3660,GAM-3660,Steady As She Goes,Hear a portion of a song. Is the beat steady or unsteady?
+,3670,GAM-3670,Step Right Up 1,Visually identify notes as on lines or spaces 
+,3680,GAM-3680,Step Right Up 2,"Visually identify two notes as a step up, step down and the same "
+,3690,GAM-3690,Step Right Up 3,"Visually identify two notes as a step up, step down or skip up and skip down "
+,3700,GAM-3700,Sticky Stockings 1,"Hear & identify 2nds, 3rds, 4ths & 5ths  - same roots"
+,3710,GAM-3710,Sticky Stockings 2,"Hear & identify 5ths, 6ths, 7ths and octaves  - same roots"
+,3720,GAM-3720,Storm Chasers 1,Aurally identify Up and Down
+,3730,GAM-3730,Storm Chasers 2,"Up, Down, Same"
+,3740,GAM-3740,Storm Chasers 3,Aurally identify whether a pitch pattern goes up or down by step or up or down by skip
+,3750,GAM-3750,Super Monkey Intervals 1,"Hear, then play 2nds through 5ths on the onscreen keyboard - C Major pentascale"
+,3760,GAM-3760,MIDI Super Monkey Intervals 1,"Hear, then play 2nds through 5ths on a MIDI keyboard - C Major pentascale"
+,3770,GAM-3770,Super Monkey Intervals 2,"Hear, then play 2nds through 5ths on the onscreen keyboard - bass G Major pentascale"
+,3780,GAM-3780,MIDI Super Monkey Intervals 2,"Hear, then play 2nds through 5ths on a MIDI keyboard - bass G Major pentascale"
+,3790,GAM-3790,Surfin' Rhythms 1,See 3 rhythms.  Which one is played? Quarter notes & eighth-note pairs 4/4 & 3/4
+,3800,GAM-3800,Surfin' Rhythms 2,"Hear a rhythm and choose from 3 written rhythms: quarter note,rest, 8th note pairs"
+,3810,GAM-3810,Surfin' Scales 1,"See Major, Natural and Harmonic minor scales-Identify which is played"
+,3820,GAM-3820,Surfin' Scales 2,"See Natural, Harmonic and Melodic minor scales-Identify which is played"
+,3830,GAM-3830,Time Signature Blimp 1,See a melody and identify the time signature--3-4 and 4-4
+,3840,GAM-3840,Time Signature Blimp 2,"See a melody and identify the time signature--3-4, 4-4, 5-4 and 6-4"
+,3850,GAM-3850,Tommy Tiger's 2's & 3's,Identify the groups of 2 and 3 black keys on the keyboard
+,3860,GAM-3860,Triad Launch 1,Write major triads starting on white keys
+,3870,GAM-3870,Triad Launch 2,Write minor triads starting on white keys
+,3880,GAM-3880,Triad Launch 3, - 
+,3890,GAM-3890,Triad Launch 4, - 
+,3900,GAM-3900,Tropical Triads 1,Identify 4-chord patterns of Major and minor triads aurally and visually
+,3910,GAM-3910,Tropical Triads 2, - 
+,3920,GAM-3920,Tumble Triads 1,Aurally identify chord quality:  Major and minor
+,3930,GAM-3930,Tumble Triads 2,Aurally identify chord quality and answer by clicking the written triad:  Major and minor
+,3940,GAM-3940,Tumble Triads 3,Aurally identify Major and Augmented triads
+,3950,GAM-3950,Tumble Triads 4,Aurally identify minor and diminished triads
+,3960,GAM-3960,Tumbleweeds 1,"Hear I-V7-I, i-V7-i, I-IV-I and i-iv-i and identify whether the progression is Maj or min"
+,3970,GAM-3970,Undersea Intervals 1,Name Intervals - steps & skips
+,3980,GAM-3980,Undersea Intervals 2,Name Intervals - 2nds & 3rds
+,3990,GAM-3990,Underwater Clef Hanger,See a note on a line or space. Which clef makes it the displayed letter name?
+,4000,GAM-4000,Underwater Clef Hanger 1,0
+,4010,GAM-4010,Will Work for Peanuts 1,"Visually identify 2nds, 3rds, 4ths, & 5ths on the keyboard"
+,4020,GAM-4020,Will Work for Peanuts 2,"Visually identify 5ths, 6ths, 7ths and octaves on the keyboard"
+,,0,0,0
+,,0,0,0
+,,0,0,0
+,,0,0,0

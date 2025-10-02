@@ -1,0 +1,48 @@
+,,,,,,,,,,,,,,,,,,,,,,,
+,BASE,Basic Elements,,,,,,,,,,,,,,,,,,,1,Basic Elements,
+,STAGE,,Stage,,,,,,,,,,,,,,,,,,2,Stage,
+,RHYTM,,,Rhythm,,,,,,,,,,,,,,,,,3,Rhythm,
+,METER,,,,Meter,,,,,,,,,,,,,,,,4,Meter,
+,STAFF,,,,,Staff & Pitch,,,,,,,,,,,,,,,5,Staff & Pitch,
+,MELOD,,,,,,Melody,,,,,,,,,,,,,,6,Melody,
+,SCALE,,,,,,,Scale,,,,,,,,,,,,,7,Scale,
+,KYSIG,,,,,,,,Key Signatures,,,,,,,,,,,,8,Key Signatures,
+,INTVL,,,,,,,,,Intervals,,,,,,,,,,,9,Intervals,
+,KEYBD,,,,,,,,,,Keyboard Elements,,,,,,,,,,10,Keyboard Elements,
+,CHROD,,,,,,,,,,,Chords,,,,,,,,,11,Chords,
+,HARM,,,,,,,,,,,,Harmonic Progression,,,,,,,,12,Harmonic Progression,
+,TERM,,,,,,,,,,,,,Music Terms,,,,,,,13,Music Terms,
+,MEMO,,,,,,,,,,,,,,Tonal Memory,,,,,,14,Playback-Tonal Memory,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,GAME AND SUPPORTING MEDIA CATEGORIZATION SCREENS,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,This screen is used to select the applicable Concept Category Parameters for each game,,,,,,,,,,,,,,,,,,,,,,
+,or supporting media and to assign the game number and LMC group number.,,,,,,,,,,,,,,,,,,,,,,LMC-21341-13.0
+,This is also a search screen.,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,GAME:,,Lifetime Musician Codes
+,GAME NAME,,,Mad Cap Melodies,,,,,,,,,,,,,,,,,Mad Cap Melodies,,21341
+,GAME NUMBER:,,,21341,,,,,Lifetime Musician Group Number,,,,,,,,13.0,,,,CONCEPT PARAMETERS CODES,,13.0
+,BASE,"Active
+Aural
+Identification
+MIDI",,,,,,,,,,,,,,,,,,,"BASE-ACT
+BASE-AUR
+BASE-METH-ID
+BASE-MIDI",,Basic Elements
+,STAGE,,Learn,,,,,,,,,,,,,,,,,,STAGE-LERN,,Stage
+,RHYTM,,,0,,,,,,,,,,,,,,,,,,,Rhythm
+,METER,,,,0,,,,,,,,,,,,,,,,,,Meter
+,STAFF,,,,,0,,,,,,,,,,,,,,,,,Staff & Pitch
+,MELOD,,,,,,"Up, down",,,,,,,,,,,,,,MELOD-PRER-UPDN,,Melody
+,SCALE,,,,,,,0,,,,,,,,,,,,,,,Scale
+,KYSIG,,,,,,,,0,,,,,,,,,,,,,,Key Signatures
+,INTVL,,,,,,,,,0,,,,,,,,,,,,,Intervals
+,KEYBD,,,,,,,,,,"Low vs High
+2 Black keys vs 3 Black keys",,,,,,,,,,"KEYB-PRER-LOW
+KEYB-PRER-2BLK",,Keyboard Elements
+,CHROD,,,,,,,,,,,0,,,,,,,,,,,Chords
+,HARM,,,,,,,,,,,,0,,,,,,,,,,Harmonic Progression
+,TERM,,,,,,,,,,,,,0,,,,,,,,,Music Terms
+,MEMO,,,,,,,,,,,,,,"KeyBoard
+3 Note",,,,,,MEMO-KEYB-3NOT,,Playback-Tonal Memory
+,DESCRIPTION,,,,,,,,,,,,,,,,,,,,Concept Description:,,

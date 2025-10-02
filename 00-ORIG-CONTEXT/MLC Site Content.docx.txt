@@ -1,0 +1,728 @@
+﻿General Notes:
+        Access to music games, except to play the FREE GAMES must be behind the member login—a subscription is required to see all games.
+
+
+
+
+New Subscribe Page
+Revisions:
+Subscribe Today!
+Start your students playing their way toward a higher level of music literacy, sightreading skill, and success!
+Sign up (replace text with:)
+                Sign up using our secure online payment system. Your credit card will be charged today and every month thereafter on the same date. Or you may make a one-time annual payment via credit card or check and receive a renewal notice.  Annual subscriptions paid by check can start immediately, with 30-days for payment to be received.
+
+
+No Contract (replace text with:)
+                You may cancel your subscription at any time in Subscription Management. You may suspend your monthly membership by providing a suspend date and a date to automatically restart. Student log-ins and records will remain intact, and your membership will remain active through your current billing cycle. No refunds on annual subscriptions.  You add or decrease the number of student seats on monthly subscriptions or add to the number of student seats on annual subscriptions.  Changes in charges for the number of seats will be automatically pro-rated to the end of the next billing period.
+
+
+
+
+Revisions
+Home Page
+        Meet Terry Treble
+                “… to a recording – new music…”
+        Welcome First-Time Visitors
+                “…all carefully planned to gain…”
+                “…learning tool.”
+
+
+        FAQ – Indispensable Tool, How does it work?
+“MusicLearningCommunity.com is internet-based, so there’s no software for you or your students to buy.  You and your students have unlimited 24-hour a day access to all the learning games at school, your studio, at home, or any internet-enabled computer or tablet.”
+        FAQ – Benefits of Membership
+“For independent music teachers, multiple learning game sequences are provided to match most popular piano methods.”
+
+
+Slogans:
+Log-in and Learn
+Don't delay! Come play today!
+Start your students playing their way toward a higher level of music literacy, sightreading skill, and success."  
+
+
+                HOW DOES IT WORK?
+
+
+GAMES
+BENEFITS OF MEMBERSHIP
+LIFETIME MUSICIAN – OUR FUNDAMENTAL GOAL
+USER ROLES
+DASHBOARD ELEMENTS  
+PARENTS
+TEACHERS
+SCHOOLS
+INTERNET ACCESS with BROWSER and MIDI Keyboard
+LEARNING SEQUENCES
+CHRISTINE HERMANSON GRANT PROGRAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                HOW DOES IT WORK?
+
+
+[Home Page—Information] 
+GAMES – 
+        Types - Each on-line game is designed to teach a specific musical concept, aimed at mastery and retention by the student.  They are designed to be simple, non-threatening, and fun.  Each game has several stages; Learn (tutor), Play (practice), Quiz (quantitatively assess mastery), Challenge (some games scores have no limit, allowing competition among all students worldwide), Review (retention of the concept).  
+        Concepts - Games assignments are organized by Level and Group.  They cover aural and visual Pitch, Rhythm, Melody, Chords, Scales, Memory Playing, Intervals, Melody, Staff, Symbols, Keyboard Elements, Pattern Playing, Musical Terms.  Individual games may be found through a hierarchical search.
+        Scores - When a game is played all the way to the end a score is achieved and placed in individual student scores history.  Achieving the target score on a Quiz generally indicates mastery of the concept.  Teachers and students may review the student scores history.  
+        Sequence - Of great benefit to students and teachers is the inclusion of named game sequences.  These are explained in more detail (see Learning Sequences) below.  The primary sequences are Lifetime Learning (default), Solfege, and Evaluation.  Once a sequence is assigned to a student, upon entering the Student Dashboard the student can select his or her Assignment.  He or she will be presented with the next game set in the sequence that has not yet been completed.  Mixed into the sequence are additional learning elements, which can include text, video, audio, and awards. The Evaluation sequence is generally used to evaluate the proficiency of new students and determine areas of weakness game-playing could improve.
+
+
+
+
+[Home Page—Information] 
+BENEFITS OF MEMBERSHIP
+* Students think they are playing, but you know they're learning
+* Hundreds of colorful, animated games for music theory and aural skills (ear training) give students essential skills for effective sightreading
+* Students can play from the studio, at school and at home
+* Three levels of each game—Learn, Play and Quiz—allow students to learn or review a musical concept, practice the skill and demonstrate mastery.  The Review level ensures retention.
+* Challenge levels of some games allow students to compete with others around the world
+* Real-time assessment tools help objectify individual performance
+* Instant access to online Score Report—for teacher, parent and student—simplifies monitoring student progress
+* Target scores, high score boards and achievement certificates reward students' successes
+* Automatic sequencing permits the student to access and play the games independently, while the teacher can monitor progress via student scores history
+* Aligns with all state and national standards for music education for all instruments and voice
+* For independent music teachers, curriculum maps are provided that sequence the learning games to match most popular piano methods, RCM, and many MTNA state achievement evaluations
+
+
+________________
+
+
+[Home Page—Information] 
+LIFETIME MUSICIAN – OUR FUNDAMENTAL GOAL
+
+
+The Lifetime Musician is an active participant in music-making, not a spectator. Lifetime Musicians have a music "skill-set" broad enough to be able to learn new music without having to listen to a recording. These musicians can read, write, think and create in the universal language of music, and can continue learning new music on their own for a lifetime of music enjoyment.
+The cornerstone of a Lifetime Musician is the guidance of a dedicated, professional music teacher who understands the multi-dimensional nature of music training. This teacher follows a comprehensive music curriculum that trains the eye, the ear and the fingers, and develops higher order thought processes.
+Music listening and reading skills are quickly learned and mastered when presented and practiced through multimedia instructional games. Students work independently, at their own pace, and as each skill is mastered, the teacher guides the student to apply the skills in higher levels of music performance.
+  
+
+
+
+The skills mastered through MusicLearningCommunity.com are the foundation of a Lifetime Musician. The learning games feature animation, musical sound, sound effects, scores, and timers to keep students interested and progressing. When taught correctly, and with patient practice, anyone, regardless of age, can make beautiful music!
+
+
+________________
+
+
+[Home Page—Information] 
+USER ROLES – (Members may find more detailed information in RESOURCES, under USER HIERARCHY).  For SOLO subscriptions the last two roles are combined in one person, and is the same as the Teacher.  For ENSEMBLE subscriptions the Teacher-Admin may be combined with the Subscriber-Administrator, or may be two separate individuals.
+        Students 
+                Games
+        Teachers                
+                Games
+                Manage Students
+                Access Resources
+        Teacher-Admin          
+                Games
+                Manage Teachers and Students
+                Access Resources
+        Subscriber-Administrator
+                Manage Subscription
+
+
+
+
+
+
+[Home Page—Information], expandable headings
+DASHBOARD ELEMENTS  
+        When a user signs in, he or she moves to the Dashboard.  The various Dashboard elements are active or de-active depending on the user credentials, linking to the related information. The elements, and which users may use each link, are shown below:
+
+
+Student Assignment – the next games to be played in the sequence assigned to the student.
+° Student Access only.
+Individual Games – selectable by queries, any individual game may be played.
+° Student Access.
+° Teacher Access
+Scores History – each student’s scores history is available
+° Student Access -- can see only his or her own scores.
+° Teacher Access – can see only his or her student’s scores
+° Teacher-Admin Access – can see all student scores
+Users – the name, username, passwords, and assignment of individuals
+° Teacher Access – can see only his or her students.
+° Teacher-Admin Access – can see all students and teachers
+Resources – a variety of resources available to Teachers
+° Teacher Access.
+° Teacher-Admin Access.
+Subscription – all of the information to manage the subscription.
+° Subscription-Administrator Access only.
+
+
+
+
+
+
+
+
+[Home Page—Information], expandable headings 
+PARENTS
+With Music Teachers
+        MusicLearningCommunity.com was originally designed to be used by private music teachers to assist them in teaching music literacy, utilizing the best elements of technology.  If your child’s music teacher is assigning these learning games to be done at home, your role is to encourage your child in playing them.  It is proven that their music education will be enhanced, and the music teacher’s time can be devoted more to the technical aspects.  You get more value for what you spend.  These learning games are sequenced into a solid pedagogy designed to improve the student’s musical skills step-by-step until mastery of the concepts is gained.  And quantitative scores measure their progress.
+
+
+Homeschool
+        Although employment of a private music teacher is much encouraged, MusicLearningCommunity.com has been found to be very helpful in the homeschool environment, with or without a private music teacher.  The Lifetime Musician sequence (default) is self-paced, and the learning games are automatically presented to the student.  Achieving target scores on the Quiz stage of the games demonstrates the student’s mastery of the concept being taught.  Periodically reviewing the student scores allows you to monitor your child’s progress.
+
+
+Special Needs
+        We have incontrovertible evidence that playing the music learning games is of benefit to children with special needs.  In many cases the result of playing the games is improvement in areas other than music.  The games are intentionally designed to be simple, enjoyable, and non-threatening.  Each game teaches a very simple concept, and the sequencing takes the student from basics to more advanced concepts in a step-by-step process.  The special needs student may benefit from achieving success with concept mastery, or only from playing a game to completion.
+
+
+________________
+
+
+[Home Page—Information], expandable headings 
+TEACHERS
+        Overview - MusicLearningCommunity.com was originally designed to be used by private music teachers to assist them in teaching music literacy, utilizing the best elements of technology. The games are intentionally designed to be simple, enjoyable, and non-threatening.  Each game teaches a very simple concept, and the sequencing takes the student from basics to more advanced concepts in a step-by-step process. 
+        Indispensable Tool - Whether you teach in a private studio or a school classroom – instrumental or voice – this innovative website will become an indispensable learning tool. MusicLearningCommunity.com is a remarkable learning resource of hundreds of colorful, animated music games that teach essential theory and aural skills – a breakthrough Internet website carefully designed for professional music teachers and their students.
+        Solid Pedagogy -MusicLearningCommunity.com enhances your current teaching curriculum and correlates with all popular piano teaching methods and state/national standards. As students learn through games, they're reinforcing the music skills you've taught them.
+
+
+"…once people play these games, they're HOOKED! And knowing that teachers can cross-reference the games with their method of choice makes them tremendously appealing."
+- Michelle Gordon, NCTM, independent piano teacher
+The pedagogy behind MusicLearningCommunity.com is solid and focuses on developing the complex thought processes required to read music efficiently and become a Lifetime Musician.
+"We are so enjoying the site! It's working great with the Smart Board and classroom participation. The kids love it. We had a family night and featured this site. The Rhythm Factory game was a hit with the dads!!"
+- Judi Reynolds, Southern Elementary, Fayette, KY
+        It Pays for Itself - Many of our teacher-members charge their students $1.00 (or more) per month which is usually more than enough to cover MusicLearningCommunity.com's monthly subscription. Even after six months, the cost to the student is still less than the price of one theory book. If you're not using a computer in your studio, your students can still play the games at home or from any computer that connects to the Internet.  Our teacher-members who use a computer in their studios get double benefit because students can do the Learn and Play levels of the games at home and then do the Quiz levels of the games in the studio computer lab.
+"A tremendous hit! You have captured such a refreshing and wholesome tone to these games and learning activities. They are a delight to the eye, the sounds are splendid, the pedagogy is excellent, three cheers – and then some!!"
+- Mary Gae George, NCTM, author of Artistry at the Piano
+        Parents can see measurable progress! - When students play the extraordinary games on this website, they fall naturally into the learning process. And they're often so absorbed in "playing" that they don't even realize they're learning – discovering solid music concepts that are transforming them into Lifetime Musicians.  Parents are thrilled to have their children spending time online working on their music skills instead of mindlessly surfing the Web. They can see their child's joy in playing the games, and they'll observe solid progress as their child moves through the carefully planned curriculum.
+        Keyboard Skills – Every game that involves an interactive keyboard on screen can also be played using a MIDI keyboard attached via USB or Bluetooth, thus supporting the kinesthetic skills of a Master Musician.  (See Internet Access for details)
+[Home Page—Information], expandable headings 
+SCHOOLS
+General Music
+        MusicLearningCommunity.com was originally designed to be used by private music teachers to assist them in teaching music literacy, utilizing the best elements of technology.  But within a short time of its deployment, MusicLearningCommunity.com subscriptions were being requested by schools.  Initially, the use was by General Music classes for early learners.  The online learning games were found to be very effective. Then other multi-teacher environments were becoming members.  The Christine Hermanson Grant Program provides ENSEMBLE subscribers with sponsorships for school General Music classes subscriptions.  Your school could become a beneficiary.
+
+
+Band and Choir
+        In addition to elementary General Music, at middle school levels it is used by choirs (using the Solfege sequence), and by bands, and orchestras.  In these cases scores history by individual student is helpful in measuring progress.
+
+
+Combinations
+        Either enough seats can be purchased to keep track of each student’s scores history, or generic usernames can be used.  Or combinations are possible.  For example, a school district could provide General Music classes with MusicLearningCommunity.com learning games at every elementary school with one subscription.  For this example, if there were 12 elementary schools, an ENSEMBLE subscription of 24 seats would provide each elementary school with two generic usernames, administered by twelve teachers in total for a cost of $244 per year. Or, this could support 24 elementary and middle schools with single generic usernames.  Or, additional seats could be purchased to support, with scores history, a choir or band, and these seats could retain scores history.
+
+
+College and Adults
+        Even though the games are simple and cartoonish, adult students who “think like a kid again” have benefitted from a MusicLearningCommunity.com subscription.  So, anyone of any age who wants a better grasp of music literacy can benefit from the learning games.  Colleges have used subscriptions to support their music pedagogy classes and for their childcare facilities.  College students have used the games to support their music education.
+
+
+
+
+
+
+________________
+
+
+[Home Page—Information], expandable headings
+INTERNET ACCESS with BROWSER and MIDI Keyboard
+Internet Connection
+A reliable internet connection is required to play the games.  Any computer or mobile device which can properly connect, and stay connected, may be used.  Note that cell phone screens, however, tend to be a little small, making some games difficult to play.  We recommend using tablets instead.
+
+
+Operating Systems 
+MusicLearningCommunity.com and music learning games will run on all of the main computer operating systems: PC, macOS, and Chrome OS (Chromebook); and mobile operating systems, Android, and iOS.  
+
+
+Browsers
+Recent internet browser (after April, 2020) versions of Chrome, Firefox, Edge, Opera, and Safari are supported.  Browsers/operating system combinations change over time, however, so sometimes a switch to a different browser might be required.  A chart is provided to make it easier to see what combination of device operating system and browser can be used.  Android and iOS mobile operating systems are supported, but an accommodation for iOS requires installation of our native iOS app for MIDI.
+
+
+Op System
+	COMPUTER
+	MOBILE
+	BROWSER    
+	PC-Intel
+	Mac
+	Chrome OS
+	Android
+	iOS
+	Chrome
+	G-M
+	G-M
+	G-M
+	G-M
+	G
+	MLC app
+	
+
+	
+
+	
+
+	
+
+	G-M
+	Firefox
+	G
+	G
+	G
+	G
+	
+
+	Edge
+	G
+	G
+	G
+	G
+	
+
+	Opera
+	G
+	G
+	G
+	G
+	
+
+	Safari
+	G
+	
+
+	
+
+	G
+	
+
+	
+
+                        G = Game        M = MIDI
+
+
+MIDI Keyboards
+All of the learning games may be played on the access device, without a separate keyboard.  However, if a game includes an on-screen piano keyboard, the on-screen keyboard may be accessed using an optional external MIDI piano keyboard.  These are connected via USB to a computer, or connected to the computer or mobile device via Bluetooth.  
+Upon opening a game there is an indicator when a MIDI piano keyboard is recognized.  Note that even with a keyboard connected the device controls (keyboard, mouse, touchscreen) can still be used.  The MIDI piano keyboard should be connected before the game is accessed.  If problems occur, the browser should be refreshed to re-set the MIDI.
+Support for MIDI on PC, Macintosh, Chrome OS and mobile Android devices is provided with the Chrome browser.
+Support for  MIDI on mobile iOS is provided by a MusicLearningCommunity.com custom app.  This may be downloaded for free from the App Store. [search for “MusicLearningCommunity.”]  If you have the app, both the music learning system and MIDI will function.
+
+
+Custom app
+        This is only needed for the Apple iOS environment on mobile devices.  
+                {HOW TO INSTALL}
+
+
+
+
+
+
+
+
+________________
+
+
+[Home Page—Information], expandable headings
+LEARNING SEQUENCES
+Stages        
+A game is presented as a set of ordered Stages: Learn, Play, Quiz, Challenge (certain games), and Review. Each has a target score, and, when playing to completion, a score is achieved that is recorded in the student’s score history.  Reaching the target score on the Quiz usually demonstrates mastery.  The Review is usually presented as part of another assignment and is designed to help with retention of the concept being mastered.  Challenge games allow achievement of higher and higher scores, and high scores are recorded in a Leader Board that can be seen by any member student around the world.
+
+
+Individual Play
+The games may be played in any order, individually, by selecting through search criteria of level and major type (either aural or visual): Rhythm, Meter, Staff, Melody, Scales, Key Signatures, Intervals, Keyboard, Chords, Harmony, Musical Terms.  And then search by sub-categories, to find a specific game/stage to play.  Even when assigned to a sequence, a student may play individual games.  Any scores are retained, and will show up when that game is encountered later in the assigned sequence.
+
+
+Sequence Play
+The real benefit of MusicLearningCommunity.com on-line games is gained by playing the games through one of the automated sequences, where successively games are presented to the student in a specific order by Level and Assignment.  The order is designed to deliver a mix of concept types beginning with the more basic and continually advancing to the more complex concepts to master.  Review games show up at intervals to help learning retention.  
+[In addition to the order of game presentation are the insertion of other learning elements such as text, instructional video, music, and achievement rewards.  At the time of release in January, 2021 non-game learning elements are not in place.  Addition of learning elements is a continuing improvement process at this time.]
+
+
+Sequence Assignment
+All students, when created in the system, automatically default to the Lifetime Musician Sequence, but may be assigned to another.  When a student logs in and sees the Dashboard, clicking on the Student Assignment element will lead to the game playing environment and the student will be presented, automatically, with the next game to be played, or other learning element, in his or her assigned sequence.
+
+
+Available Sequences
+Lifetime Musician – this is the default sequence, designed by our founder, Christine Hermanson, to be a logical presentation of concepts by level, and generally follows the most widely used pedagogical models.
+Solfege – this is the Lifetime Musician sequence, but whenever the game concept involves note reading, the lettered notes are replaced with solfege (fixed do) do, re, mi fa, sol, la, ti.  This sequence is helpful for voice students.  [NOTE: Not all games using lettered notes have been converted to solfege at the time of release in January 2021, but will be converted as soon as practical.]
+Evaluation – this is a sequence made up of selected Quiz’s at each level to represent most of the various types of concepts.  It is designed to be assigned to a student to help evaluate his or her progress, especially assessment of a student new to the teacher.  The student should be assigned to start at a level that seems appropriate to the teacher.  If the student fails to achieve the target score on several games, he or she should be assigned one of the other sequences, to start at a Level one below where he or she was failing to achieve the target scores.
+Archived – in Version 1.0 (in this Help Center) members will find archived, detailed information that can be used to manually assign to students sequences that match many popular methods (e.g. Alfred, Faber, Celebrate Piano).  These were used with the original version of MusicLearningCommunity.com prior to 2021.  These are presented as spreadsheets that can be printed, where for specific pages in the related method/theory book, the game that presents the related concept is listed.  These are called “Student Pages”.  For a student to follow the sequence, he or she will need to search for the individual game set (Learn, Play, Quiz), play the set, then search for the next game set.  The benefit in using the Student Pages is that the concepts being taught in the selected games are targeted directly to the method/theory book.  The disadvantage is that MusicLearningCommunity.com cannot provide these in an automated sequence, and thus the student must look up each individual game, as well as missing the various other learning elements embedded in our automated sequences. [NOTE: we are aware that some of the Student Pages are outdated, but these are not planned to be revised.]
+
+
+[NOTE: Additional automated Sequences are planned.]
+
+
+Sequence Review  
+Teachers have the ability to review each defined music learning sequence in the form of a report, by selecting the Sequence box from their dashboard.  
+
+
+[Home Page—Information], expandable headings 
+CHRISTINE HERMANSON GRANT PROGRAM
+        Our founder and course author, Christine Hermanson, dedicated her occupational life to music education, particularly early learners.  And she is a nationally-recognized pioneer in music education technology.  Her teaching philosophy included a conviction that anyone could learn, make, and enjoy music—that music is an integral part of every individual’s experience.  And, as an aid to learning music, she discovered that computer technology could be very effective, particularly in learning music literacy.
+        In her honor, the Christine Hermanson Grant Program was established to encourage early learners in music education by providing to schools free subscriptions to MusicLearningCommunity.com for General Music classes.  This is accomplished through a simple sponsor program.  Anyone who subscribes to the ENSEMBLE level (including a school) automatically becomes a sponsor for the school of their choice to provide a free SOLO subscription (of 5 seats) to be used for General Music.  As long as the ENSEMBLE subscription is active, the free sponsored subscription remains active.
+        The most effective way to use the learning games with General Music classes of young learners, is where the games are played in a class environment utilizing a Smartboard.  Other configurations can also be useful.
+        When a new member obtains an ENSEMBLE subscription, they are provided a unique “sponsor code”.  The member then has a choice of “banking” the sponsorship with MusicLearningCommunity.com or providing the code to a school of their choice.  The sponsored school may then apply for a subscription using that code.  Any “banked” codes will ultimately be used by MusicLearningCommunity.com to provide free subscriptions at their discretion, but will credit the name of the sponsoring member for the donation.
+        One example situation might be where a school obtains an ENSEMBLE subscription for their Middle School Choir and then sponsors a free subscription for their Elementary School General Music classes.  
+
+
+
+
+
+
+
+
+USER HIERARCHY  [Dashboard Page—Resources], expandable headings
+        The different kinds of users and their capabilities are listed below.  Note that there is flexibility in defining the Teacher/Administrator roles.  For a SOLO subscription the Subscriber-Administrator and Teacher are the same by default.  For the ENSEMBLE subscription the Subscriber-Administrator can be separated into two roles by assigning a unique username and password to the Teacher-Admin, which otherwise defaults to the same username and password.  Multiple Teachers can then be created by the Teacher-Admin.  This is helpful in school situations where one individual handles the financial aspects (e. g., business office) and another handles the educational activity.
+
+
+Generic Student (often used for General Music classes)        
+° Created by a Teacher or Teacher-Admin.
+° Uses any of several usernames and passwords created by a Teacher or Teacher-Admin.
+° Play games, either sequenced or individual, via access to the student dashboard.
+° Scores are recorded for each username—but are irrelevant since multiple students use the same usernames.
+° No automated sequence assignment is used.
+Regular Student
+° Created by a Teacher or Teacher-Admin by providing a unique username and password.
+° Play games, either sequenced or individual, via access to the student dashboard.
+° Game scores history can be viewed individually.
+° Challenge games participation, competing with other students world-wide.
+Teacher
+° Created by a Teacher-Admin by providing a unique username and password [Ensemble], or defaults from Subscriber Admin [Solo].
+° Teacher/Admin dashboard access
+° Create students by providing usernames and passwords.
+° Specific game sequence assignment to students.
+° Game scores history viewing of his or her students.
+° Play on-line games individually selected (no scores are recorded for Teachers)
+Teacher-Admin
+° Created by the Subscriber-Administrator as an option by providing a unique username and password [Ensemble], or defaults from Subscriber-Administrator [Solo].
+° Teacher/Admin dashboard access
+° Create Teachers [ENSEMBLE] by providing usernames and passwords.
+° Create students by providing usernames and passwords.
+° Specific game sequence assignment to students.
+° Assign and/or move students to specific Teachers
+° Game scores history viewing of all students.
+° Play on-line games individually selected (no scores are recorded for Teacher-Admin)
+° Delete individual student and scores history records
+° Receives copies of communications sent by MusicLearningCommunity.com via e-mail.
+Subscription-Administrator
+° Created as part of the original subscription process, including a unique username and password.  User editing is enabled.
+° When an optional Teacher-Admin is absent, includes Teacher-Admin capabilities.
+° Payment information addition and edit.
+° Schedule pause and restart of monthly subscriptions.
+° Number of student seats addition (annual subscription) or additions and reductions (monthly subscription)
+° Subscription identification and payment data addition and edit.
+° Subscription termination (student scores data retained in system for 13 months).
+° Receives copies of communications sent by MusicLearningCommunity.com via e-mail.
+° Christine Hermanson Grant Program administration.
+
+
+
+
+
+
+________________
+
+
+COPIED FROM SITE:
+
+
+ABOUT US
+Teachers
+MusicLearningCommunity.com—your tireless teaching assistant with hundreds of online games that reinforce essential theory and aural skills—a breakthrough website carefully designed for professional music teachers and their students.
+Success is the Best Motivator
+Members report that after one year of playing the learning games that they assign, their students are 3 to 5 months ahead of where they were before MusicLearningCommunity.com.
+  
+
+ Benefits
+* Faster development of sight-reading skills
+* Higher scores on student achievement evaluations, assessments and theory tests
+* Speeds the progress of study in all instruments and voice
+* Proven success with students with special needs
+ Features
+* Over 450 colorful, interactive games build essential skills in rhythm, pitch and melody, harmony, scales, intervals, chords, tonal memory, playback and understanding musical terms and symbols
+* Series of games uses a MIDI keyboard connected to the computer
+* Provides immediate feedback
+* Lesson planning tools for busy teachers
+* Automatic Score Reports for teachers and students
+* Award Certificates celebrate achievement
+* High score boards for Challenge games display the top twenty scorers in the world
+ In the Classroom
+* Engage the entire class using an interactive whiteboard or projector
+* Play the games individually or in teams
+* Take the class to the computer lab to do individualized assessments
+* Content aligns with all state and national standards
+* Promotes differentiated learning by providing unlimited access for students in multiple skill levels—beginning through intermediate
+* Students can play at school and at home
+ In the Studio
+* Students can play at the studio and at home
+* Get a double benefit when students play the Learn and Play levels of the games at home and play the Quiz levels at the studio
+* Student Pages sequence the games to match popular piano methods, MTNA state student achievement syllabi and the Carnegie Hall Royal Conservatory Achievement Program
+* 
+
+
+
+
+
+ logo 
+
+Parents
+A Family Membership is a great investment in your child's music education.
+Teachers report that after one year of playing the learning games that they assign, their students are 3 to 5 months ahead of where they were before MusicLearningCommunity.com.
+SUBSCRIBE TODAY
+Learning the language of music
+Learning the language of music is a step-by-step process similar to learning math…one skill builds on another. Both math and music take practice and repetition to gain mastery. Learning music through games has proven to be very effective.
+They're having fun…You know they're learning
+On this website, students have access to literally hundreds of colorful, interactive music games – from beginning through intermediate levels – that speed them on their way to becoming Lifetime Musicians. Our goal is to help students master the music reading and aural skills they need to achieve satisfaction and success in increasing levels of music performance and creativity.
+Success is the best motivator
+* Higher levels of sight-reading skill
+* Higher scores on student performance evaluations and music theory tests
+* Speeds the progress of study in all instruments and voice
+* Includes access for up to 5 family members
+* Students have access to all levels and all games
+* Parents and students can monitor progress and scores
+* High score boards for Challenge games display the top twenty scorers in the world
+ parent 
+
+Did you know... ?
+Higher SAT Scores
+Students who study music score higher on the verbal and math portions of SAT than students with no course work or experience in the arts.
+Engineers and IT
+The very best engineers and technical designers in the Silicon Valley are, nearly without exception, practicing musicians.
+Enhances spatial-temporal reasoning
+Two research projects have found that music training--specifically piano instruction--can dramatically enhance children's spatial-temporal reasoning skills, the skills crucial for greater success in subjects like math and science.
+
+
+
+
+
+
+________________
+
+
+Our Team
+Christine Hermanson, Founder
+Job
+Chris has taught music students ages 3 through 87 in her private studio, at her own fine arts academy, and in public schools. She has also worked with students world-wide through the interactive music instruction software and online courses she has developed. Her desire to find the best ways to develop music sight-reading skills led her to purchase a computer and music theory software in 1980. Since then, she has been teaching teachers how to be more effective and efficient through the use of learning technologies. For 17 years, Chris designed and coordinated the MTNA National Symposium on Technology in Music. She is the author of the Musicware Piano and PianoWorks MIDI music teaching systems, the Master Musician Music Literacy Curriculum, and the MTNA Guide to Music Instruction Software--1st and 2nd editions. In 2006, she launched MusicLearningCommunity.com, a website that provides hundreds of learning games for music theory and aural skills that students play from the studio, school and at home.
+"Christine Hermanson, a giant of multimedia music who began her work on education computer programs 18 years ago", The New York Times, April, 1998
+BMus (plus K-12 certification) – University of Michigan
+MS Ed Instructional Technology/Instructional Design –Southern Illinois University Edwardsville
+
+Passed on in June, 2015
+Eric Hermanson
+Senior software engineer
+learning management system and business processes
+example@example.com
+Paul Hermanson
+Graphic Designer
+created Terry Treble, background photographs, game characters and graphic designs -- www.qualitydigitalartistry.com
+example@example.com
+Brian Hermanson
+Audio engineer, game design consultant, tester
+and intro music composer
+Some text that describes me lorem ipsum ipsum lorem.
+
+
+
+example@example.com
+William Hermanson
+Director
+Some text that describes me lorem ipsum ipsum lorem.
+example@example.com
+Kathy Dotson 
+Customer Service Manager
+Some text that describes me lorem ipsum ipsum lorem.
+example@example.com
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions
+FAQs
+My screen resolution is 800 x 600. Part of the game is cut off.
+Find the "view" dropdown menu in your browser. Click on "Full Screen." This will close the top tool bars and you should be able to see the entire game screen. To restore your tool bars, click the double picture button next to the X in the top right corner of your screen.
+Which version of Adobe Acrobat Reader do I need to download the printable teaching materials?
+To download the printable teaching materials, you will need the free Adobe Acrobat Reader version X or higher.
+Some of the text is cut off
+Internet Explorer and Firefox users: if the text doesn't seem to fit in the text box, please click View at the top of your screen, then click Text Size. Setting your text size to "medium" (in IE) or clicking the "decrease" button (in Firefox) should fix the problem.
+What is MusicLearningCommunity?
+MusicLearningCommunity.com is an animated, multimedia, interactive music theory and ear training tool that is self-correcting, fosters independent learning and is available anytime, anywhere. When you look beyond the "games" you will see some serious learning going on!
+What is MusicLearningCommunity?
+MusicLearningCommunity.com is an animated, multimedia, interactive music theory and ear training tool that is self-correcting, fosters independent learning and is available anytime, anywhere. When you look beyond the "games" you will see some serious learning going on!
+With which computers, tablets and phones does MusicLearningCommunity.com work?
+You can access the website, play the games and work with all of the teacher tools on any computer (PC and Mac) with any internet browser (Internet Explorer, Firefox, Google Chrome and Safari). The website also works with any Android tablet or SmartPhone that has the Flash Player—including the Kindle Fire! IPad owners can access the entire website—even though the iPad doesn't have the Flash Player—by downloading an alternative browser called "iSwifter" from the App Store.
+Can I see my student's scores and progress?
+Yes! When students play a game to the end at the studio or at home, their scores are automatically submitted into the teacher's confidential score report. This can be accessed from the Teacher Resource Center—log in with your teacher user name and password.
+What age groups does MusicLearningCommunity support?
+The learning games are designed for students in pre-school through piano performance level 6. We also have many adult beginners who aren't afraid to "be a kid again" and are having tremendous success learning with our games.
+What do you mean by multimedia and interactive?
+The learning games include animation, graphics, music and sound effects to stimulate learning and to accommodate all learning styles.
+Which learning methods and curricula do your games support?
+Our learning games support all teaching methods and state and national standards. We are always sequencing new methods, state achievement evaluations, and curricula. If you have a curriculum you think we should add, please email us.
+Do you have any lesson planning tools?
+Yes. We have pre-designed lesson sequences for all music teaching situations. There are lesson plans that match the concepts taught in each of the major piano methods – unit by unit. We are in the process of sequencing the games for the various MTNA state achievement programs and the Carnegie Hall – Royal Conservatory of Music "The Achievement Program," (TAP). The "Lifetime Musician" curriculum is the standard sequence for all instruments and for general music in schools. To view and print these sequences, log in with your teacher username and password and scroll down the list of printable teacher tools.
+How much does it cost?
+There are several plans available starting at $9.95 per month. Click here for a free trial.
+I am an independent music teacher. How can my membership pay for itself?
+We encourage teacher members to pass the cost of this service on to their students as if purchasing a theory book or as a nominal technology fee. If you have 10 students, and you charge each student $2 per month, that would cover the cost of a $19.95 plan.
+Do I have to download and install software onto my computer?
+o, MusicLearningCommunity is 100% online and it is available around the world 24/7. You may need to download the free plug-in Flash Player at www.adobe.com if you have a new Mac computer.
+How do I change my teacher username and password?
+To change your teacher username and password, email us your desired username and password and we'll change your master account.
+How do I set up student usernames and passwords?
+Click, "Member Login," and enter your username and password. This will open the Teacher Resource Center. Click "Manage Student Users." This takes you to your Student Roster. This is where you can create usernames and passwords for each of your students. Tip: Create a student username for yourself so you can see what your students see! Please click here for more instruction.
+How do I help students stay engaged?
+You can help motivate students by making regular lesson assignments and following up on their scores and progress. Many teachers offer contests and incentives that not only encourage the students to achieve target scores, but also serve to energize the whole studio. Click here for some ideas.
+How do we keep the parents in the loop?
+It is important to train parents as to the benefits of regularly playing the music learning games. Our members have reported that when students play the games for a school year, their musicianship and performance level advances by an extra three to five months. 
+How do I manage student users?
+Log in with your teacher username and password. Click "Manage Student Users" on the left side of the screen. On this screen, you may add or remove students from the system. 
+
+
+
+
+
+
+Press
+New music website
+American Music Teacher, December 2005
+"MusicLearningCommunity.com is a new website with more than 160 levels of 37 animated, interactive music games. Established by Christine Hermanson, the site combines traditional theory and ear-training concepts with colorful, animated music games. 
+
+The goal of MusicLearningCommunity.com is to enhance teaching curricula and correlate with all popular piano teaching methods. The games are designed to reinforce students' music skills.
+
+Teachers and students gain access to the site via a membership. For $19.95 a month, a teacher and all her or his students have unlimited 24-hour-a-day access to the website.
+For more information contact MusicLearningCommunity.com."
+See What People Are Saying
+Missouri Music Teachers Association
+MusicLearningCommunity
+Clavier Companion
+
+
+
+
+
+
+MusicLearningCommunity.com “Playground for Lifetime Musicians in Training”™ 
+For immediate release
+Date: September 20, 2005 Contact: Christine D. Hermanson (636) 240-3660 or (314) 378-4610 
+MusicLearningCommunity.com is becoming an indispensable teaching tool for professional music teachers and their students. This ground-breaking interactive website is filled with over 150 extraordinary multimedia games and learning activities of varying levels, all carefully planned to gain mastery of the elements of music theory, ear training and rhythmic skills in an exciting, challenging environment. 
+“MusicLearningCommunity.com enhances a teacher’s current curriculum and correlates with all popular piano teaching methods,” says MMTA member, Christine Hermanson*, who created and developed the site. “As students play the games, they fall naturally into the learning process. And they have such fun that they don’t even realize they’re learning solid music concepts.” 
+Since its launch at the 2005 MTNA convention in April, MusicLearningCommunity.com has grown to include teacher-members in 22 US states, Canada, and Europe. 
+Teachers and students can play sample games by going online to 
+www.MusicLearningCommunity.com and clicking Free Preview. A free two-week trial 
+membership, newsletter and curriculum guide are available to all music teachers. 
+* Christine Hermanson created and coordinated the MTNA National Symposium on Technology in Music from 1988-2003. 
+For further information, contact Christine Hermanson at (314) 378-4610 or 
+chris@MusicLearningCommunity.com 
+ page1image1256431648 
+
+MusicLearningCommunity.com launches April 3 
+“Playground for Lifetime Musicians in Training”™ 
+For immediate release Date: April 3, 2005 Contact: Ellen K. Hanna 
+(636) 861-0196 
+MusicLearningCommunity.com kickoff in Seattle 
+A ground-breaking interactive website that promises to become an indispensable teaching tool in the music field was launched today in Seattle, Washington by St. Louis resident Christine Hermanson, an acknowledged pioneer in music education technology. 
+MusicLearningCommunity.com is “a playground of musical games” – a site filled with hundreds of extraordinary multimedia learning activities of varying levels, all carefully planned to gain mastery of the elements of music theory, ear training and rhythmic skills in an exciting, challenging environment. 
+During the next few days, the nation’s music teachers will discover the innovative methodology of MusicLearningCommunity.com at the Music Teachers National Association (MTNA) annual convention. The five-day event continues at the Seattle Convention Center through next Wednesday. 
+The website is “a tremendous hit,” according to Mary Gae George, author of Artistry at the Piano. “Chris has captured such a refreshing and wholesome tone to these 
+MusicLearningCommunity.com Page 2 of 4 
+games and learning activities. They are a delight to the eye, the sounds are splendid, the pedagogy is excellent." 
+MusicLearningCommunity.com is the brainchild of Christine Hermanson, a leading expert in music and computer-based learning who was described by The New York Times as “a giant of multimedia music who began her work on education computer programs 18 years ago,..." (April 1998) 
+Hermanson has been mentoring music teachers since 1980 in the use of computer technology. She says that the Internet now provides the ideal environment to engage students in interactive learning and promoting the lifelong enjoyment of music. 
+“MusicLearningCommunity.com is designed to be a fun and exciting learning environment that enhances a teacher’s current curriculum,” says Hermanson. “As students play the games, they fall naturally into the learning process. And they have such fun that they don’t even realize they’re learning solid music concepts. 
+“We’re an international community of professional music instructors dedicated to providing our musicians-in-training with exceptional sequential instruction—and transforming our students into Lifetime Musicians.” 
+Teachers and students may obtain additional information by accessing the website at MusicLearningCommunity.com or at info@MusicLearningCommunity.com. 
+SEE ATTACHED BIO 
+MEDIA: For further information, contact Christine Hermanson at (314) 378-4610 or 
+chris@MusicLearningCommunity.com 
+-30- 
+ page2image1254743424 
+
+MusicLearningCommunity.com Page 3 of 4 
+Biographical Information Christine Hermanson MusicLearningCommunity.com St. Louis, Missouri
+(314) 378-4610 (voice and fax) chris@MusicLearningCommunity.com 
+"Christine Hermanson, a giant of multimedia music
+who began her work on education computer programs 18 years ago, ..." 
+- The New York Times, April 1998 
+Professionally, Christine ... 
+* ∙  Has taught music students ages 3 through 87 in public schools, as founder and director of her own fine arts academy and worldwide through the interactive music instruction software and Internet-based courses she has developed. 
+* ∙  Is the author of the following:
+- Ten interactive, multimedia, MIDI music teaching systems that comprise the Musicware PIANO Series
+- Alfred Adult Piano Course for Windows Level I and Level II
+- Musicware SING!
+- Master Musician Music Literacy Curriculum
+- 1990 DOS-based PianoWorks I and II MIDI piano teaching system
+- MTNA Guide to Music Instruction Software, 1st and 2nd Editions 
+* ∙  Is featured in the college textbook, Experiencing Music Technology by David Williams and Peter Webster (Schirmer). (1990-1998) 
+* ∙  Served as instructional technology consultant to public school districts and university music faculty throughout the US. Served as guest instructor for numerous universities, teaching masters-level seminars in music technology since 1985. Served as the Technology Coordinator for MTNA (Music Teachers National Association) and designed, organized and conducted the week-long MTNA National Symposium on Technology in Music from 1988-2003. 
+* ∙  Developed a comprehensive music curriculum and 10 interactive, web-delivered courses for K-12, and taught 100 students (from as far away as Greece) from her home in St. Louis, Missouri while she was on the faculty of the Internet Academy, Seattle, WA (1998-2000). Created a web-delivered course entitled “Connecting to Music” for The Principia Middle School. (1999) 
+* ∙  Worked as Mentor/Coach for the Bill and Melinda Gates Learning Foundation, Model Secondary Schools Project assigned to the Detroit Public Schools planning team as they designed and implemented a new small high school with a technology focus. Also worked on school reform issues and program development for the Foundation, as they funded and designed new small 
+
+
+MusicLearningCommunity.com Page 4 of 4 
+technology high schools for under-served students in large metropolitan cities in the US. (2000-2001) 
+   * ∙  Created a multimedia CD and web-based training course for an innovative business development process and provided face-to-face training and coaching to management, marketing, scientists and technical professionals for a well-known, multinational corporation. (1999-2002) 
+   * ∙  Served as Director of Curriculum Development for Full Tilt Music, Inc. of St. Johns, Newfoundland, working to create the first live online private piano lesson system (formerly known as “Online Conservatory”). (2000-2001) Served as Strategic Consultant to the Van Koevering Piano Company in the areas of strategic planning and distance learning. (2001) 
+   * ∙  Designed a DVD and web-based multimedia piano course for Yamaha portable keyboards, which combines full-motion video, animated computer graphics, printed songbook and interactive fully-orchestrated MIDI play-along accompaniments. (2003) 
+   * ∙  Designed and developed a web-based marketing/training application for an electrical component manufacturing company based in St. Charles, Missouri. Created a Flash-based multimedia website for a prominent St. Louis architect (2004-2005) 
+Formal Education: 
+   * ∙  BMus with Distinction (K-12 Certification), University of Michigan 
+   * ∙  MSEd Instructional Technology/Instructional Design, Southern Illinois 
+University, Edwardsville, Illinois 
+-30- 
+
+
+Privacy Policy
+What information do we collect?
+We collect information from you when you subscribe on our site, request a trial membership or request to receive our newsletter.
+When subscribing on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+What do we use your information for?
+To deliver the purchased product or service requested. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
+To send periodic emails to give you information and updates pertaining to your membership, including company news and related product or service information, etc.
+Note: If at any time you would like to stop receiving future email newsletters, we include detailed unsubscribe instructions at the bottom of each newsletter.
+How do we protect your information?
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider's database only to be accessible by those authorized with special access rights to such systems. We are certified to be "Credit Card Safe" by Security Metricswww.securitymetrics.com
+After a transaction, your private information (credit card number, etc.) is not stored on our servers.
+Which version of Adobe Acrobat Reader do I need to download the printable teaching materials?
+To download the printable teaching materials, you will need the free Adobe Acrobat Reader version X or higher.
+Do we use cookies?
+We do not use cookies.
+Do we disclose any information to outside parties?
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+California Online Privacy Protection Act Compliance
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Childrens Online Privacy Protection Act Compliance
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any personally identifiable information from children under the age of 13.
+Online Privacy Policy Only
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+Your Consent
+By using our site, you consent to our online privacy policy
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+This policy was last modified on March 25, 2012
+Contacting Us
+If there are any questions regarding this privacy policy you may contact us using the information below:
+http://www.musiclearningcommunity.com/contact.html
+Wildwood, Missouri 63011
+United States of America
+bill@musiclearningcommunity.com
+
+
+
+
+Terms & Conditions
+The Teacher/Studio membership and the Family membership are month to month subscriptions.
+
+Subscriptions are paid by an automatic credit card payment--on the same day each month--using our secure online payment system.
+
+You can cancel your membership at any time by emailing us at least one week before the end of your billing cycle. Your membership will remain active through the current billing cycle.
+
+If you plan to re-activate your membership at a later date, we will preserve your student roster when you give us a restart date.
+
+There are no contracts or hidden fees. We do not offer refunds.

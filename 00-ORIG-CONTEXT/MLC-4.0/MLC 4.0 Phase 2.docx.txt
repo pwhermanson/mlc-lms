@@ -1,0 +1,47 @@
+﻿PHASE 2 SPECIFICATIONS
+Phase 2-A        Mass Assign to Teachers.
+        We have the ability to mass assign courses to students.  In the same manner we need to ability to mass assign students to teachers.  This will be used in the school environment.  The “teacher” role can also be named a “grade”.  To move an entire grade of students to another could be done efficiently with a mass assign.
+        This would be done within the Subscription-Admin and/or Teacher-Admin roles.  A logical place to do this would be from the “Students” selection from the Dashboard.  Perhaps a second drop-down under “Assign Courses”, named “Assign Teacher.  The top “select all” check box would be available.
+Phase 2-B        Student Upload from csv.
+        A utility is needed that will upload from a csv file and create student records.  The file would contain: (1) Member ID#, [id];  (2) student real name [student fullname]; (3) student username [username];  (4) student password [password];  (5) teacher assignment [teacher fullname] (optional).
+        This would be done within the Subscription-Admin and/or Teacher-Admin roles.  A logical place to do this would be from the Dashboard, with a new page sectional box entitled, “Utilities”, underneath the “My Subscription” sectional box.  This would link to a utility page where full instructions could be given, with controls to upload the csv file.  Ideally, there could be a “test” mode with an interrogation display, and a “reverse” button.  
+        Perhaps a “mass delete” of the upload could be available in case of a mistake in the csv data (the uploaded students marked with an internal code?).  This means that the user would have completed the upload, accesses student data, realized the mistake, and re-enters the utility to extract the upload. [“Discard last upload”?]
+Phase 2-C        Subscription Pause automatic resume  (proration?)
+        When a subscriber decides to pause their subscription (Dashboard/ “Subscription”/ “Change Status”) a box should appear to the right with the title, “Reactivation Date”
+Phase 2-        School name header
+Phase 2-        School  purchase order number
+        We are dealing with the ability to invoice schools correctly.  The invoice being sent should have a purchase order number option.  A large school district may have policies that prohibit the finance department from paying an invoice without an approved purchase order in advance.  PO number will tie the two together.
+        Although we want an annual subscription to automatically send a renewal invoice, we also need the ability to include a NEW PO number each year.  Perhaps we could send an automatic renewal notice to the subscriber--the subscriber puts the PO number in a specific location--the system automatically creates the annual invoice at the appropriate time and pulls in the new PO number.
+
+
+
+
+Phase 2-        Yearly Billing Statement
+        Many customers would like to have an annual billing statement of what they have paid for their subscription, and find a credit card statement not suitable.  There are two options; (1) a calendar year billing statement, (2) a date-to-date billing statement.
+        The ideal solution to this would be the ability to request a billing statement report (that would utilize Stripe) that would be e-mailed automatically to the member.  They could enter any beginning and ending dates (up to 36 months) and receive a statement.
+        Billing statement content would be: (1) a header of MusicLearningCommunity.com, member ID, member name, date range; (2) lines of billing detail [date, invoice amount, payment].
+
+
+Phase 2-        Student Awards
+        Students need reinforcing feedback of several types:
+        (1) Quiz checkmarks.  When a student achieves or exceeds the target score on the Quiz stage of a game, the Game Assignment Play panel should display a large green check mark signifying the event.
+        (2) Assignment badge.  When a student has successfully completed an Assignment (Sequence Group) and clicks on the blue bar to move on, the student returns to the Dashboard to find a Badge awarded.
+
+
+
+
+Phase 2-        Student Listing alphabetical sort by real name (schools)
+Phase-2-        Reports: List of students with usernames, passwords.
+        Reports: 
+
+
+Phase 2-        Mass student delete w/ criteria
+.
+Phase 2-        Challenge Board
+Phase 2-        Student progress report
+Phase 2-        Automatic notifications
+Phase 2-        Promo codes
+Phase 2-        Christine Hermanson Grant program / Sponsor Codes
+Phase 2-        Terry Treble books (award)
+Phase 2-        Teacher Finder
+Phase 2-        My Teacher (messaging?)
