@@ -75,6 +75,10 @@ Seat operations
 - `seats_in_use` cannot exceed `seats_purchased`
 - Blocking rules
   - Prevent seat remove if it would strand active students without reassignment
+- **Solo Plan**: Seats can be added/removed in increments of 1
+- **Ensemble Plan**: Seats can be added/removed in increments of 5 (historical requirement)
+- **Monthly Subscriptions**: Can increase or decrease seats during any month with prorated billing
+- **Annual Subscriptions**: Can increase seats with prorated charges, but cannot decrease until renewal
 
 Proration
 - For mid cycle seat add
@@ -92,6 +96,9 @@ Pause and reactivation
 - Reactivation date stored on the Subscription
 - No new charges while paused. Resume normal billing on reactivation
 - Option to prepay remaining cycle on reactivation if required by plan
+- **Monthly Subscriptions**: Can self-manage suspend and restart dates
+- **Annual Subscriptions**: Pause functionality may be limited or require manual intervention
+- **Grace Period**: 30-day period where subscription remains active but payment not received (configurable)
 
 Invoices and statements
 - Invoice generated on period end or immediate when a synchronous seat add occurs depending on provider features
@@ -114,10 +121,13 @@ Error handling
 
 ### Prelude (Trial Plan)
 - **Duration**: 30-day evaluation period
-- **Seats**: Up to 5 seats for testing
+- **Seats**: Up to 19 seats for testing (historical maximum)
 - **Features**: Full platform access with limited usage
 - **Billing**: No payment required, no automatic conversion
 - **Purpose**: Allow potential customers to evaluate the platform
+- **Access Levels**: Includes Administrator, Teacher, and Student levels
+- **Teacher Limit**: Up to 1 teacher can be added
+- **Student Limit**: Up to 19 students can be entered
 
 ### Solo (Studio Plan)
 - **Target**: Individual music studios and private teachers
@@ -126,6 +136,8 @@ Error handling
 - **Features**: Full platform access, basic reporting, email support
 - **Billing**: Monthly or annual payment options
 - **Scaling**: Linear pricing with volume discounts at higher tiers
+- **Base Pricing**: $7.95/month for 5 seats, $0.80 per additional seat
+- **Annual Pricing**: $95.40/year for 5 seats, $9.60 per additional seat annually
 
 ### Ensemble (School Plan)
 - **Target**: Schools, districts, and large music programs
@@ -134,6 +146,16 @@ Error handling
 - **Features**: Full platform access, advanced reporting, bulk operations, phone support
 - **Billing**: Annual contracts with purchase order support
 - **Scaling**: Tiered pricing with significant volume discounts
+- **Base Pricing**: $19.95/month for 20 seats, with sliding scale per-seat pricing
+- **Tiered Pricing Examples**:
+  - 20-120 seats: $0.20 per additional seat
+  - 121-240 seats: $0.18 per additional seat  
+  - 241-500 seats: $0.16 per additional seat
+  - 501-1000 seats: $0.12 per additional seat
+  - 1001-2500 seats: $0.10 per additional seat
+  - 2501-4200 seats: $0.08 per additional seat
+  - 4201-6000 seats: $0.06 per additional seat
+  - 6000+ seats: $0.05 per additional seat
 
 ## Seat Management
 
@@ -159,11 +181,13 @@ Error handling
 ## Billing Operations
 
 ### Payment Processing
-- **Payment Methods**: Credit cards, ACH, wire transfers
+- **Payment Methods**: Credit cards (Discover, American Express, MasterCard, Visa), PayPal, ACH, wire transfers
 - **Billing Cycles**: Monthly or annual options
 - **Payment Retry**: Automatic retry for failed payments
 - **Dunning Management**: Handle failed payment scenarios
 - **Receipt Generation**: Automatic receipt delivery
+- **Provider Integration**: Braintree services for payment processing (historical requirement)
+- **Self-Management**: Subscribers can self-manage subscription information via website
 
 ### Invoice Management
 - **Invoice Generation**: Automatic monthly/annual invoices
@@ -187,6 +211,9 @@ Error handling
 - **Billing History**: View all invoices and payments
 - **Payment Methods**: Update credit cards and billing information
 - **Usage Monitoring**: Track seat utilization and costs
+- **Member Management**: Create and manage teacher accounts with usernames and passwords
+- **Student Management**: Enter student information (firstname, lastname, username, password)
+- **Sequence Assignment**: Assign sequence names and start positions to students
 
 ### Teacher-Admin Capabilities
 - **Seat Assignment**: Assign seats to teachers and students
@@ -200,6 +227,8 @@ Error handling
 - **Refund Processing**: Process refunds and credits
 - **Billing Analytics**: System-wide billing and usage analytics
 - **Support Tools**: Assist customers with billing issues
+- **Member Search**: Search members by name, email, school, member number, sponsor code
+- **Member Fields**: Manage customer information including name, address, school, email, start/end dates, maximum students, member number, sponsor code, phone numbers, financial account reference, and notes
 
 ## Payment Provider Integration
 
@@ -216,6 +245,9 @@ Error handling
 - **Advanced Fraud**: Enhanced fraud protection
 - **Recurring Billing**: Automated subscription management
 - **Reporting**: Detailed payment and transaction reporting
+- **Historical Requirement**: Primary payment processor for MLC platform
+- **Supported Cards**: Discover, American Express, MasterCard, Visa
+- **PayPal Support**: Integrated PayPal payment option
 
 ### Webhook Handling
 - **Payment Success**: Update subscription status
@@ -278,6 +310,8 @@ Error handling
 - **Audit Support**: Provide data for financial audits
 - **Regulatory Compliance**: Meet financial regulations
 - **Reporting Requirements**: Generate required financial reports
+- **Terms Acceptance**: Present clear description of amount committed and terms for subscriber acceptance
+- **Standard Features**: Credit card information updates, address changes, and other account management
 
 ## UX requirements (if applicable)
 
@@ -340,6 +374,10 @@ Sampling
 - Whether immediate seat removal with credit is allowed for schools
 - Statement format requirements from finance, including logo usage and address blocks
 - Tax handling requirements and jurisdictions we must support
+- **Historical Context**: Based on 2012-2020 pricing data, confirm current tiered pricing structure
+- **Payment Provider**: Confirm primary payment processor (Braintree vs Stripe) for MLC 5.0
+- **Seat Increments**: Confirm Ensemble plan seat increment requirements (5 vs 1)
+- **Grace Period**: Confirm 30-day grace period for annual subscriptions
 
 ## Future Enhancements
 

@@ -1,4 +1,6 @@
 <!-- 
+
+
 Please perform this workflow exactly as written. Do not start enhancement work until Step 1 is completed and verified. If at anytime there is a file in 00-ORIG-CONTEXT that seems relevant, but you are not able to access, please mark the beginning of the line with this exact text: "NEED CONTEXT" + [filename] and pause the workflow.
 
 Step 1 — Select and mark In Progress
@@ -40,6 +42,8 @@ Optional status notes
 At the start of your run, post a short note: “Marked X as In Progress.”
 At the end: “Completed X and checked it off.”
 This prompt ensures the in-progress status is marked first, verified, and later replaced by a checkmark only after the enhancement is complete.
+
+
 -->
 
 ✅ [EXECUTIVE-SUMMARY.md](../00-foundations/executive-summary.md)
@@ -99,18 +103,18 @@ This prompt ensures the in-progress status is marked first, verified, and later 
 ✅ [11-search-and-discovery/teacher-quick-find.md](../11-search-and-discovery/teacher-quick-find.md)
 ✅ [12-gamification/badges-system.md](../12-gamification/badges-system.md)
 ✅ [12-gamification/points-and-streaks.md](../12-gamification/points-and-streaks.md)
-[12-gamification/challenge-boards.md](../12-gamification/challenge-boards.md)
-[12-gamification/achievements-sharing.md](../12-gamification/achievements-sharing.md)
-[14-payments-and-subscriptions/plans-and-pricing.md](../14-payments-and-subscriptions/plans-and-pricing.md)
-[14-payments-and-subscriptions/seat-management.md](../14-payments-and-subscriptions/seat-management.md)
-[14-payments-and-subscriptions/checkout-and-trials.md](../14-payments-and-subscriptions/checkout-and-trials.md)
-[14-payments-and-subscriptions/billing-plans-and-seats.md](../14-payments-and-subscriptions/billing-plans-and-seats.md)
-[14-payments-and-subscriptions/billing-provider-integration.md](../14-payments-and-subscriptions/billing-provider-integration.md)
-[14-payments-and-subscriptions/po-and-invoicing-for-schools.md](../14-payments-and-subscriptions/po-and-invoicing-for-schools.md)
-[14-payments-and-subscriptions/pause-and-reactivation.md](../14-payments-and-subscriptions/pause-and-reactivation.md)
-[14-payments-and-subscriptions/billing-statements-on-demand.md](../14-payments-and-subscriptions/billing-statements-on-demand.md)
-[14-payments-and-subscriptions/promo-codes-impl.md](../14-payments-and-subscriptions/promo-codes-impl.md)
-[14-payments-and-subscriptions/sponsor-codes-impl.md](../14-payments-and-subscriptions/sponsor-codes-impl.md)
+✅ [12-gamification/challenge-boards.md](../12-gamification/challenge-boards.md)
+✅ [12-gamification/achievements-sharing.md](../12-gamification/achievements-sharing.md)
+✅ [14-payments-and-subscriptions/plans-and-pricing.md](../14-payments-and-subscriptions/plans-and-pricing.md)
+✅ [14-payments-and-subscriptions/seat-management.md](../14-payments-and-subscriptions/seat-management.md)
+✅ [14-payments-and-subscriptions/checkout-and-trials.md](../14-payments-and-subscriptions/checkout-and-trials.md)
+✅ [14-payments-and-subscriptions/billing-plans-and-seats.md](../14-payments-and-subscriptions/billing-plans-and-seats.md)
+✅ [14-payments-and-subscriptions/billing-provider-integration.md](../14-payments-and-subscriptions/billing-provider-integration.md)
+✅ [14-payments-and-subscriptions/po-and-invoicing-for-schools.md](../14-payments-and-subscriptions/po-and-invoicing-for-schools.md)
+✅ [14-payments-and-subscriptions/pause-and-reactivation.md](../14-payments-and-subscriptions/pause-and-reactivation.md)
+✅ [14-payments-and-subscriptions/billing-statements-on-demand.md](../14-payments-and-subscriptions/billing-statements-on-demand.md)
+✅ [14-payments-and-subscriptions/promo-codes-impl.md](../14-payments-and-subscriptions/promo-codes-impl.md)
+✅ [14-payments-and-subscriptions/sponsor-codes-impl.md](../14-payments-and-subscriptions/sponsor-codes-impl.md)
 [14-payments-and-subscriptions/pricing-models.md](../14-payments-and-subscriptions/pricing-models.md)
 [14-payments-and-subscriptions/seat-pricing-calculator.md](../14-payments-and-subscriptions/seat-pricing-calculator.md)
 [14-payments-and-subscriptions/promo-codes.md](../14-payments-and-subscriptions/promo-codes.md)
