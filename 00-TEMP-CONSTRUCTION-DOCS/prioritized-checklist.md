@@ -5,7 +5,7 @@ Please perform this workflow exactly as written. Do not start enhancement work u
 
 Step 1 — Select and mark In Progress
 Find the first item in 00-TEMP-CONSTRUCTION-DOCS/prioritized-checklist.md that:
-is not prefixed with ✅ and
+is not prefixed with ✅ or ⚠️ and
 does not already contain - In Progress. If there is already an item in progress, then it is being worked on by somebody else. You need to then select the next item that isn't already marked as in-progress.
 Immediately update that line to append the exact text - "In Progress" (space-hyphen-space case-sensitive) at the beginning of the line.
 Save the file and re-open it to verify the change is present.
@@ -33,7 +33,7 @@ If you must switch items mid-way, first revert the previous item by removing - I
 Never check off an item until edits to its target page are complete and saved.
 Do not alter any other checklist lines except the current item being processed.
 Exact formatting
-In-progress format: [path/to/doc.md](../path/to/doc.md) - In Progress
+In-progress format: 🔄 - In Progress - [path/to/doc.md](../path/to/doc.md) 
 Completed format: ✅ [path/to/doc.md](../path/to/doc.md)
 Verification steps (must do)
 After Step 1 and Step 6, re-open the checklist file and confirm the exact expected text is present.
@@ -42,6 +42,10 @@ Optional status notes
 At the start of your run, post a short note: “Marked X as In Progress.”
 At the end: “Completed X and checked it off.”
 This prompt ensures the in-progress status is marked first, verified, and later replaced by a checkmark only after the enhancement is complete.
+
+Do this next: 
+
+
 
 
 -->
@@ -140,31 +144,31 @@ This prompt ensures the in-progress status is marked first, verified, and later 
 ✅ [06-system-admin/sysadmin-audit-logs.md](../06-system-admin/sysadmin-audit-logs.md)
 ✅ [06-system-admin/sysadmin-feature-flags.md](../06-system-admin/sysadmin-feature-flags.md)
 ✅ [06-system-admin/user-permissions.md](../06-system-admin/user-permissions.md)
-[08-games-registry-and-authoring/games-crud.md](../08-games-registry-and-authoring/games-crud.md)
-[08-games-registry-and-authoring/games-stages-policy.md](../08-games-registry-and-authoring/games-stages-policy.md)
-[08-games-registry-and-authoring/games-metadata.md](../08-games-registry-and-authoring/games-metadata.md)
-[08-games-registry-and-authoring/games-assets-pipeline.md](../08-games-registry-and-authoring/games-assets-pipeline.md)
-[08-games-registry-and-authoring/games-importer.md](../08-games-registry-and-authoring/games-importer.md)
-[08-games-registry-and-authoring/games-audit-and-health.md](../08-games-registry-and-authoring/games-audit-and-health.md)
-[08-games-registry-and-authoring/games-telemetry.md](../08-games-registry-and-authoring/games-telemetry.md)
-[09-sequences-and-curriculum-tools/sequence-libraries.md](../09-sequences-and-curriculum-tools/sequence-libraries.md)
-[09-sequences-and-curriculum-tools/sequence-authoring.md](../09-sequences-and-curriculum-tools/sequence-authoring.md)
-[09-sequences-and-curriculum-tools/sequence-alignment-to-methods.md](../09-sequences-and-curriculum-tools/sequence-alignment-to-methods.md)
-[09-sequences-and-curriculum-tools/sequence-placements-eval.md](../09-sequences-and-curriculum-tools/sequence-placements-eval.md)
-[09-sequences-and-curriculum-tools/sequence-exports.md](../09-sequences-and-curriculum-tools/sequence-exports.md)
-[09-sequences-and-curriculum-tools/ai-sequence-generator.md](../09-sequences-and-curriculum-tools/ai-sequence-generator.md)
-[09-sequences-and-curriculum-tools/curriculum-mapping-tools.md](../09-sequences-and-curriculum-tools/curriculum-mapping-tools.md)
-[10-assignments-engine/assignment-progress-tracking.md](../10-assignments-engine/assignment-progress-tracking.md)
-[10-assignments-engine/retention-review-logic.md](../10-assignments-engine/retention-review-logic.md)
-[10-assignments-engine/free-play-vs-assigned.md](../10-assignments-engine/free-play-vs-assigned.md)
-[13-messaging-and-notifications/in-app-notifications.md](../13-messaging-and-notifications/in-app-notifications.md)
-[13-messaging-and-notifications/email-templates.md](../13-messaging-and-notifications/email-templates.md)
-[13-messaging-and-notifications/push-and-desktop.md](../13-messaging-and-notifications/push-and-desktop.md)
-[13-messaging-and-notifications/system-announcements.md](../13-messaging-and-notifications/system-announcements.md)
-[16-accessibility-and-inclusion/neurodiverse-support.md](../16-accessibility-and-inclusion/neurodiverse-support.md)
-[16-accessibility-and-inclusion/captions-and-audio-descriptions.md](../16-accessibility-and-inclusion/captions-and-audio-descriptions.md)
-[16-accessibility-and-inclusion/keyboard-and-midi-access.md](../16-accessibility-and-inclusion/keyboard-and-midi-access.md)
-[17-integrations/midi-support.md](../17-integrations/midi-support.md)
+✅ [08-games-registry-and-authoring/games-crud.md](../08-games-registry-and-authoring/games-crud.md)
+✅ [08-games-registry-and-authoring/games-stages-policy.md](../08-games-registry-and-authoring/games-stages-policy.md)
+✅ [08-games-registry-and-authoring/games-metadata.md](../08-games-registry-and-authoring/games-metadata.md)
+✅ [08-games-registry-and-authoring/games-assets-pipeline.md](../08-games-registry-and-authoring/games-assets-pipeline.md)
+✅ [08-games-registry-and-authoring/games-importer.md](../08-games-registry-and-authoring/games-importer.md)
+✅ [08-games-registry-and-authoring/games-audit-and-health.md](../08-games-registry-and-authoring/games-audit-and-health.md)
+✅ [08-games-registry-and-authoring/games-telemetry.md](../08-games-registry-and-authoring/games-telemetry.md)
+✅ [09-sequences-and-curriculum-tools/sequence-libraries.md](../09-sequences-and-curriculum-tools/sequence-libraries.md)
+✅ [09-sequences-and-curriculum-tools/sequence-authoring.md](../09-sequences-and-curriculum-tools/sequence-authoring.md)
+✅ [09-sequences-and-curriculum-tools/sequence-alignment-to-methods.md](../09-sequences-and-curriculum-tools/sequence-alignment-to-methods.md)
+✅ [09-sequences-and-curriculum-tools/sequence-placements-eval.md](../09-sequences-and-curriculum-tools/sequence-placements-eval.md)
+✅ [09-sequences-and-curriculum-tools/sequence-exports.md](../09-sequences-and-curriculum-tools/sequence-exports.md)
+✅ - ⚠️ Backburner - [09-sequences-and-curriculum-tools/ai-sequence-generator.md](../09-sequences-and-curriculum-tools/ai-sequence-generator.md)
+✅ [09-sequences-and-curriculum-tools/curriculum-mapping-tools.md](../09-sequences-and-curriculum-tools/curriculum-mapping-tools.md)
+✅ [10-assignments-engine/assignment-progress-tracking.md](../10-assignments-engine/assignment-progress-tracking.md)
+✅ [10-assignments-engine/retention-review-logic.md](../10-assignments-engine/retention-review-logic.md)
+✅ [10-assignments-engine/free-play-vs-assigned.md](../10-assignments-engine/free-play-vs-assigned.md)
+✅ [13-messaging-and-notifications/in-app-notifications.md](../13-messaging-and-notifications/in-app-notifications.md)
+✅ [13-messaging-and-notifications/email-templates.md](../13-messaging-and-notifications/email-templates.md)
+✅ [13-messaging-and-notifications/push-and-desktop.md](../13-messaging-and-notifications/push-and-desktop.md)
+✅ [13-messaging-and-notifications/system-announcements.md](../13-messaging-and-notifications/system-announcements.md)
+✅ [16-accessibility-and-inclusion/neurodiverse-support.md](../16-accessibility-and-inclusion/neurodiverse-support.md)
+✅ [16-accessibility-and-inclusion/captions-and-audio-descriptions.md](../16-accessibility-and-inclusion/captions-and-audio-descriptions.md)
+✅ [16-accessibility-and-inclusion/keyboard-and-midi-access.md](../16-accessibility-and-inclusion/keyboard-and-midi-access.md)
+✅ [17-integrations/midi-support.md](../17-integrations/midi-support.md)
 [17-integrations/lms-ltispec-future.md](../17-integrations/lms-ltispec-future.md)
 [17-integrations/email-provider.md](../17-integrations/email-provider.md)
 [17-integrations/cdn-and-media.md](../17-integrations/cdn-and-media.md)
