@@ -751,7 +751,7 @@ This specification relies on several other systems and documents:
 - **CDN and Media Delivery**: Caption files stored and delivered via CDN alongside media assets (see [CDN and Media](../17-integrations/cdn-and-media.md))
 - **Game Player Shell**: Integration point for displaying captions in game Learn stages (see [Game Player Shell](../03-student-experience/game-player-shell.md))
 - **User Profile System**: Storage for caption display preferences (see [Session and Auth States](../02-roles-and-permissions/session-and-auth-states.md))
-- **Content Management System**: Workflow for caption authoring, review, and publishing (see [Content Approval Workflows](../29-content-management/content-approval-workflows.md))
+- **Content Management System**: Workflow for caption authoring, review, and publishing
 - **Asset Pipeline**: Upload, validation, and versioning of caption files (see [Games Assets Pipeline](../08-games-registry-and-authoring/games-assets-pipeline.md))
 
 ### Specification Dependencies
