@@ -209,6 +209,14 @@ Progress Velocity = (Current Level - Starting Level) / Days Since Enrollment
 - **Data Retention**: KPI data retained for 7 years for compliance and historical analysis
 - **Audit Logging**: All KPI access logged for security and compliance monitoring
 
+## Supporting Documents Referenced
+
+This teacher reports KPIs specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Score display and reporting requirements
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment score tracking and reporting
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher reporting and visibility permissions
+
 ## Dependencies
 
 ### Core System Dependencies

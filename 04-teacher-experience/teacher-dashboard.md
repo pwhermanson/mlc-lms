@@ -251,6 +251,15 @@ Based on historic specs in `00-ORIG-CONTEXT`:
 - **CDN**: Fast content delivery
 - **Minimal JavaScript**: Efficient client-side code
 
+## Supporting Documents Referenced
+
+This teacher dashboard specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Teacher interface content, navigation structure, and dashboard layout requirements
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher role capabilities, Teacher-Admin specifications, and data access
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Screen-specific content and messaging for teacher-facing interfaces
+- [Dashboard Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Dashboard%20Chart.xlsx%20-%20Sheet1.csv) — Dashboard layout and component specifications
+
 ## Future Enhancements
 
 ### AI Integration

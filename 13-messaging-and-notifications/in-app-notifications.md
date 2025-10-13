@@ -784,6 +784,14 @@ Reference: [Roles Matrix](../02-roles-and-permissions/roles-matrix.md) and [Perm
 - **COPPA compliance**: Student notification content excludes PII in payload
 - **FERPA compliance**: Educational records in notifications protected per role boundaries
 
+## Supporting Documents Referenced
+
+This in-app notifications specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging and notification content
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User interface text for notifications and alerts
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role-specific notification requirements
+
 ## Dependencies
 
 ### Core System Dependencies

@@ -684,6 +684,14 @@ Sampling: 10% (analytics only)
 - QA Reviewer: ✅ Yes (verify and close)
 - SysAdmin: ✅ Yes (any problem)
 
+## Supporting Documents Referenced
+
+This games audit and health specification draws from the following source documents:
+
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Current game library inventory showing status and health indicators
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game data structure for validation and audit requirements
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin tools requirements including content management
+
 ## Dependencies
 
 ### Internal Dependencies

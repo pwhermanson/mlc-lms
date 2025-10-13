@@ -239,6 +239,16 @@ Pricing model calculations integrate with the platform's telemetry system. For d
 - **Market Expansion**: New pricing tiers for different market segments
 - **Technology Costs**: Adjustments based on infrastructure and development costs
 
+## Supporting Documents Referenced
+
+This pricing models specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Chart.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Chart.csv) — Visual pricing tier structure
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Comprehensive pricing model calculations
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Complete pricing formulas and scenarios
+- [MLC Tiered Pricing 2020.xlsx - Chart2.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Chart2.csv) — Alternative pricing visualization
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Pricing page copy and plan descriptions
+
 ## Dependencies
 
 ### Related Specifications

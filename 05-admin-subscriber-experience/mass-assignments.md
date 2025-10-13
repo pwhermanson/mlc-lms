@@ -445,6 +445,14 @@ Mass assignment operations follow the comprehensive role-based access control sy
 
 *For complete permission specifications and role definitions, see [Roles Matrix](../02-roles-and-permissions/roles-matrix.md) and [Permissions Table](../02-roles-and-permissions/permissions-table.md)*
 
+## Supporting Documents Referenced
+
+This mass assignments specification draws from the following source documents:
+
+- [Mass Upload.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Mass%20Upload.xlsx%20-%20Sheet1.csv) — Bulk assignment operations and CSV import specifications
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Assignment structure and sequence specifications for bulk operations
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Administrative role mass assignment capabilities
+
 ## Dependencies
 
 ### Core System Dependencies

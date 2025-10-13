@@ -579,6 +579,14 @@ Track effectiveness and usage patterns to continuously improve support:
 - Configure default settings for new accounts
 - Access audit logs of setting changes
 
+## Supporting Documents Referenced
+
+This neurodiverse support specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform content and interface messaging
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User interface text and accessibility considerations
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student and parent profile settings
+
 ## Dependencies
 
 ### Core Dependencies

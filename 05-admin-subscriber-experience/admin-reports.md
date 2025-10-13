@@ -203,6 +203,14 @@ This specification defines the comprehensive reporting tools and analytics inter
 **Right to Deletion**: User data removal capabilities for privacy compliance
 **Cross-border Data**: International data transfer compliance
 
+## Supporting Documents Referenced
+
+This admin reports specification draws from the following source documents:
+
+- [Dashboard Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Dashboard%20Chart.xlsx%20-%20Sheet1.csv) — Admin dashboard and reporting interface specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Subscriber-Admin and Teacher-Admin reporting capabilities and data access
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Subscription utilization and seat usage reporting specifications
+
 ## Dependencies
 
 ### Core System Dependencies

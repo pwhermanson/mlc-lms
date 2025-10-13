@@ -221,6 +221,15 @@ The billing tools serve as the administrative hub for:
 - **Regulatory Reporting**: Compliance with financial reporting requirements
 - **Data Retention**: Proper retention and disposal of financial data
 
+## Supporting Documents Referenced
+
+This system admin billing tools specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin billing management capabilities and tools
+- [MLC Tiered Pricing 2020.xlsx files](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing models and billing calculation specifications
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat-based billing and subscription management specifications
+- [MLC Bid Sheet 6-21-21.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/MLC%20Bid%20Sheet%206-21-21.xlsx%20-%20Sheet1.csv) — Billing and pricing structure specifications
+
 ## Dependencies
 
 ### Internal Dependencies

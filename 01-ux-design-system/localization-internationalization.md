@@ -229,6 +229,15 @@ regional_settings (
 - Add region-specific educational content
 - Optimize for mobile and offline usage
 
+## Supporting Documents Referenced
+
+This localization and internationalization document draws from the following source documents:
+
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Global reach history (60,000+ students across 40+ countries)
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform content and messaging
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — International expansion strategy
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User-facing text and copy
+
 ## Open Questions
 
 ### Technical Decisions

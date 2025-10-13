@@ -249,6 +249,15 @@ This specification enables:
 - **Impersonation Controls**: Safe user impersonation for support
 - **Permission Reviews**: Regular review of user permissions
 
+## Supporting Documents Referenced
+
+This permissions table draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Detailed permission specifications for each user role and functional area
+- [Blayzer note USER ROLES.docx.txt](../00-ORIG-CONTEXT/Blayzer%20note%20USER%20ROLES.docx.txt) — Additional notes on permission boundaries and data access scopes
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Permission matrix visualization and role comparisons
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin permission specifications and management capabilities
+
 ## Dependencies
 
 ### Internal Dependencies

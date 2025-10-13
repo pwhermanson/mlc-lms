@@ -367,6 +367,14 @@ interface ResponsiveEvent {
 - **Teacher Tools**: How to make teacher tools effective across all breakpoints?
 - **Student Engagement**: How to maintain student engagement across different devices?
 
+## Supporting Documents Referenced
+
+This responsive breakpoints document draws from the following source documents:
+
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Multi-platform support requirements
+- [MLC_LearningUI_wireframes_201210.pdf](../00-ORIG-CONTEXT/MLC_LearningUI_wireframes_201210.pdf) — Original desktop-focused designs
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform accessibility requirements
+
 ## Related Documentation
 
 - [Accessibility Standards](../01-ux-design-system/a11y-standards.md) - Detailed accessibility requirements

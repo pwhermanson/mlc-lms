@@ -206,6 +206,16 @@ interface AccessibilityEvent {
 - **Parent Involvement** - How to make parent interfaces accessible while maintaining student privacy?
 - **Teacher Training** - How to train teachers on accessibility features and best practices?
 
+## Supporting Documents Referenced
+
+This accessibility standards document draws from the following source documents:
+
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Special needs success stories and proven effectiveness with autistic students
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform accessibility features and multi-modal learning support
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Cross-platform compatibility requirements
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role-based accessibility requirements
+- [MLC_LearningUI_wireframes_201210.pdf](../00-ORIG-CONTEXT/MLC_LearningUI_wireframes_201210.pdf) — Original interface design patterns
+
 ## Related Documentation
 
 - [WCAG 2.1 AA Compliance](../16-accessibility-and-inclusion/wcag-compliance.md) - Detailed WCAG implementation requirements

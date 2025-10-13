@@ -379,6 +379,16 @@ For detailed game mechanics and scoring systems, see [Game Model](../08-games-re
 - **Data Export**: Controlled data export permissions
 - **System Integration**: Permissions for system-to-system access
 
+## Supporting Documents Referenced
+
+This roles matrix draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Comprehensive specifications for all user roles, capabilities, and organizational hierarchies
+- [Blayzer note USER ROLES.docx.txt](../00-ORIG-CONTEXT/Blayzer%20note%20USER%20ROLES.docx.txt) — Additional notes and clarifications on role behaviors and permissions
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Visual representation of role relationships and permission levels
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat management and subscription plan role availability
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — High-level overview of user types and subscription models
+
 ## Related Documentation
 
 For comprehensive understanding of the role system, see:

@@ -142,6 +142,14 @@ Reference: `../02-roles-and-permissions/permissions-table.md`
 - Access comprehensive notification analytics
 - Manage notification system configuration
 
+## Supporting Documents Referenced
+
+This admin notifications specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Administrative notification content, messaging, and templates
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Subscriber-Admin and Teacher-Admin notification preferences and communication permissions
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Admin notification screen text and alert messages
+
 ## Dependencies
 
 ### Related Systems

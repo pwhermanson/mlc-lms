@@ -299,6 +299,14 @@ The points and streaks system implements the core pedagogical principle that "su
 - **Reset**: Reset student points or streaks if necessary
 - **Moderate**: Manage point/streak sharing and public display
 
+## Supporting Documents Referenced
+
+This points and streaks specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game scoring and progression tracking
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Score tracking and completion indicators
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Score display and progress visualization
+
 ## Dependencies
 
 ### Core System Dependencies

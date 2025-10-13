@@ -62,6 +62,14 @@ Reference `../02-roles-and-permissions/roles-matrix.md` and original permissions
 - Subscriber-Admin: read-only by default; feature flag can allow write
 - Student: no access
 
+## Supporting Documents Referenced
+
+This teacher grade-as-role specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher role game playing capabilities and score recording behavior
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture and stage specifications for testing
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Teacher game testing workflows and interface requirements
+
 ## Dependencies
 Depends on
 - `../10-assignments-engine/assignment-progress-tracking.md`

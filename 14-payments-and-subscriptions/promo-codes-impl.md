@@ -402,6 +402,14 @@ Track key metrics for marketing effectiveness:
 - Database performance under load
 - Cache effectiveness
 
+## Supporting Documents Referenced
+
+This promo codes implementation specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Pricing calculations with promotional discounts
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Promotional messaging and checkout flow copy
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Marketing and promotional content
+
 ## Deployment Considerations
 
 ### Feature Flags

@@ -281,6 +281,14 @@ Revenue per User = Monthly Revenue / Active Users
 - **Audit Logging**: All KPI access logged for security and compliance monitoring
 - **Cross-Organization Privacy**: No individual organization data visible in cross-org analytics
 
+## Supporting Documents Referenced
+
+This admin reports KPIs specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — Admin reporting tools and user management analytics
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Administrator roles and reporting permissions
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat usage reporting and analytics
+
 ## Dependencies
 
 ### Core System Dependencies

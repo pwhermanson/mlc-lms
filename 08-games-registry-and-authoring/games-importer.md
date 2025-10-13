@@ -610,6 +610,15 @@ All import operations logged to audit trail (see [Sysadmin Audit Logs](../06-sys
 - Changes made (games created/updated/deleted)
 - Rollback operations with reason
 
+## Supporting Documents Referenced
+
+This games importer specification draws from the following source documents:
+
+- [Games import master.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20import%20master.xlsx%20-%20Sheet1.csv) — Master import specification with field definitions and mappings
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Current game library showing expected import format
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game data structure and validation requirements
+- [Mass Upload.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Mass%20Upload.xlsx%20-%20Sheet1.csv) — Mass upload specifications and batch operation requirements
+
 ## Dependencies
 
 ### Internal Dependencies

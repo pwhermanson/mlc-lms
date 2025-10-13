@@ -442,6 +442,14 @@ Track key metrics for program effectiveness:
 - Database performance under load
 - Cache effectiveness
 
+## Supporting Documents Referenced
+
+This sponsor codes implementation specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Pricing calculations for sponsored subscriptions
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat allocation for sponsored organizations
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Ensemble member sponsorship permissions
+
 ## Deployment Considerations
 
 ### Feature Flags

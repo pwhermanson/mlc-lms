@@ -253,3 +253,22 @@ Original technology platform for the learning games, requiring browser plugins f
 - **MTNA**: Music Teachers National Association
 - **COPPA**: Children's Online Privacy Protection Act
 - **SSL**: Secure Socket Layer (encryption technology)
+
+## Supporting Documents Referenced
+
+This glossary draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game stages and learning element definitions
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Terminology, feature descriptions, and user-facing language
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role definitions and user type descriptions
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Historical context and Lifetime Musician philosophy
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence terminology and structure
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — LIFE, SOLF, EVAL sequence definitions
+- [Help Life Sequence.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Life%20Sequence.xlsx%20-%20Sheet1.csv) — LIFE sequence details
+- [Help Solf Sequemce.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Solf%20Sequemce.xlsx%20-%20Sheet1.csv) — SOLF sequence details
+- [Help Eval Sequence.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Eval%20Sequence.xlsx%20-%20Sheet1.csv) — EVAL sequence details
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat, slot, and subscription tier definitions
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing tier terminology
+- [EXE specs 2012-0913.xlsx - Elements.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Elements.csv) — Learning element specifications
+- [AlphaMasterList2020.xlsx - Master.csv](../00-ORIG-CONTEXT/AlphaMasterList2020.xlsx%20-%20Master.csv) — Game taxonomy and concept definitions
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Method book and Student Pages terminology

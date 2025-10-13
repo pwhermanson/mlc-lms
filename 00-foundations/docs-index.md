@@ -262,7 +262,6 @@ Welcome. This is the entry point for the MusicLearningCommunity LMS specificatio
 - [User Feedback](25-research-and-inspiration/user-feedback.md) | Owner: PM | Status: Draft
 
 ## Repo Operations
-- [Contributing](26-repo-operations/contributing.md) | Owner: PM | Status: Draft
 - [Issue Templates](26-repo-operations/issue-templates.md) | Owner: PM | Status: Draft
 - [Docs Index](00-foundations/docs-index.md) | Owner: PM | Status: Stable
 

@@ -231,6 +231,15 @@ The library organizes games into 14 main categories based on the original system
 - **Leaderboards**: Optional competitive elements for challenge games
 - **Reward System**: Points and recognition for learning achievements
 
+## Supporting Documents Referenced
+
+This all games library specification draws from the following source documents:
+
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Complete redesign specifications for the all games library interface and navigation
+- [EXE specs 2012-0913 (Category Screen)](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Category%20Screen.csv) — Category screen specifications and game browsing behaviors
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Complete game catalog with metadata and categorization
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture and stage availability specifications
+
 ## Dependencies
 
 - [Game Player Shell](game-player-shell.md) - Full-screen game execution

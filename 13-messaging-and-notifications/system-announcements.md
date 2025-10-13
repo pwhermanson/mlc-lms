@@ -1208,6 +1208,14 @@ Reference: [Roles Matrix](../02-roles-and-permissions/roles-matrix.md) and [Perm
 - Can approve any organization's announcements
 - Bypass requires justification (audit trail)
 
+## Supporting Documents Referenced
+
+This system announcements specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging and announcement content
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User interface text for announcements and alerts
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin announcement management tools
+
 ## Dependencies
 
 ### Core System Dependencies

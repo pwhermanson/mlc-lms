@@ -194,6 +194,13 @@ The on-demand statement feature enables subscribers to maintain accurate financi
 - Manage statement storage and retention
 - View system-wide statement analytics
 
+## Supporting Documents Referenced
+
+This billing statements on demand specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Billing statement calculations and line items
+- [MLC Bid Sheet 6-21-21.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/MLC%20Bid%20Sheet%206-21-21.xlsx%20-%20Sheet1.csv) — Invoice formatting for schools
+
 ## Dependencies
 
 - [billing-plans-and-seats.md](billing-plans-and-seats.md) - Core billing data and transaction history

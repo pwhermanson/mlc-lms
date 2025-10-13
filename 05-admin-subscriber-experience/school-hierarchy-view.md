@@ -196,6 +196,14 @@ Subscriber-Admin (School Administrator)
 - **Upgrade Indicators**: Show opportunities for plan upgrades or modifications
 - **Contract Information**: Display subscription terms and renewal information
 
+## Supporting Documents Referenced
+
+This school hierarchy view specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Organizational hierarchies, role relationships, and Teacher-Admin scope specifications
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Visual representation of role hierarchies and organizational structures
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — School organization and seat allocation across hierarchies
+
 ## Future Enhancements
 
 ### Advanced Visualization

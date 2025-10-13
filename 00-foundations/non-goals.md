@@ -228,3 +228,15 @@ This document should be reviewed quarterly to:
 - Consider new non-goals based on platform evolution
 - Ensure alignment with business objectives and user needs
 
+## Supporting Documents Referenced
+
+This non-goals document draws from the following source documents:
+
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Original business model and strategic decisions
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Historical decisions on platform architecture (Flash to HTML5, multi-domain considerations)
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform scope and feature descriptions
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role boundary definitions
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Subscription model decisions and billing approach
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Method alignment approach (manual vs automated)
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Browser support decisions
+

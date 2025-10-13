@@ -132,6 +132,23 @@ Parents and students can access MLC anytime to reinforce lesson objectives from 
 
 ---
 
+## Supporting Documents Referenced
+
+This product vision draws from the following source documents:
+
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Core mission and value propositions
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Founder background, historical success data, and educational effectiveness
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform capabilities and parent/teacher messaging
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Learn/Play/Quiz/Challenge/Review model
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — Sequence structure and curriculum pathways
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing tiers and seat scaling model
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role hierarchies and capabilities
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat management and scaling rules
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Method book alignment approach
+- [AlphaMasterList2020.xlsx - Master.csv](../00-ORIG-CONTEXT/AlphaMasterList2020.xlsx%20-%20Master.csv) — Game library scope (450+ games)
+
+---
+
 ## Source anchors
 
 * **Game structure, stages, scoring, and sequences** - Learn/Play/Quiz/Challenge/Review model with quantitative assessment.

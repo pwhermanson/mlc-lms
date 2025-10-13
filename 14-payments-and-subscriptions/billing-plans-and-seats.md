@@ -357,6 +357,15 @@ Sampling
 - Content Editors
   - No access to billing
 
+## Supporting Documents Referenced
+
+This billing plans and seats specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Complete billing calculations and seat-based pricing
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Seat pricing formulas and tier calculations
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat allocation and billing requirements
+- [MLC Bid Sheet 6-21-21.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/MLC%20Bid%20Sheet%206-21-21.xlsx%20-%20Sheet1.csv) — Enterprise pricing and bid specifications
+
 ## Dependencies
 
 - Plans and pricing reference data

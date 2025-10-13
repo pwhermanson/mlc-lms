@@ -319,6 +319,14 @@ The badges system implements the core pedagogical principle that "success is the
 - **Analytics**: Access comprehensive badge system analytics
 - **Moderate**: Manage badge sharing and public display
 
+## Supporting Documents Referenced
+
+This badges system specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game completion and achievement tracking requirements
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging and achievement communication
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User interface text for rewards and achievements
+
 ## Dependencies
 
 ### Core System Dependencies

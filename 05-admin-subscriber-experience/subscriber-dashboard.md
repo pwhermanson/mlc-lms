@@ -257,6 +257,15 @@ The dashboard is specifically designed for the MLC-LMS platform's unique role hi
 - **Retention Analysis**: Track concept retention through Review stages
 - **Pedagogical Effectiveness**: Measure alignment with music education standards
 
+## Supporting Documents Referenced
+
+This subscriber dashboard specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Subscriber-Admin role capabilities, permissions, and organizational management
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Administrative interface content, navigation, and dashboard layout
+- [Dashboard Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Dashboard%20Chart.xlsx%20-%20Sheet1.csv) — Dashboard component specifications and layout requirements
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat management and subscription administration specifications
+
 ## Future Enhancements
 
 ### Advanced Analytics

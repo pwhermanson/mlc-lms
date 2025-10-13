@@ -246,6 +246,14 @@ All roles except System Admin can play games, but with different scoring behavio
 - **Role Migration**: Tools for migrating users between roles
 - **Bulk Permission Updates**: Tools for updating permissions across multiple users
 
+## Supporting Documents Referenced
+
+This user permissions specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Complete user role permissions and access control specifications
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Visual representation of role permissions and hierarchies
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin permission management capabilities
+
 ## Dependencies and Integration
 
 ### Internal Dependencies

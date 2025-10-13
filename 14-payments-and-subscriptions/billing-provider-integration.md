@@ -347,6 +347,13 @@ The integration provides a unified interface for payment processing, subscriptio
 - **Tax Reporting**: Access to tax-related data
 - **Compliance**: Access to compliance reports
 
+## Supporting Documents Referenced
+
+This billing provider integration specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Pricing calculations for provider integration
+- [MLC Bid Sheet 6-21-21.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/MLC%20Bid%20Sheet%206-21-21.xlsx%20-%20Sheet1.csv) — Enterprise billing specifications
+
 ## Dependencies
 
 ### Internal Dependencies

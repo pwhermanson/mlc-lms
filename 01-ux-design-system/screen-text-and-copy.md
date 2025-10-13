@@ -241,6 +241,19 @@ All copy must reinforce the platform's fundamental goal: developing Lifetime Mus
 - **Teacher Feedback**: Input from educators on educational value
 - **Student Engagement**: Measure impact on learning motivation
 
+## Supporting Documents Referenced
+
+This screen text and copy guidelines document draws from the following source documents:
+
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Original screen text, role descriptions, and user-facing copy
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging, feature descriptions, and marketing copy
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Lifetime Musician philosophy and educational messaging
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role-specific messaging and workflows
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — User interface text and navigation labels
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assignment interface copy and messaging
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — Admin interface text and instructions
+- [AMessagetoParents.pdf](../00-ORIG-CONTEXT/AMessagetoParents.pdf) — Parent communication messaging
+
 ## Related Documentation
 
 - [Copy Guidelines](../22-content-style-guides/copy-guidelines.md) - General writing standards

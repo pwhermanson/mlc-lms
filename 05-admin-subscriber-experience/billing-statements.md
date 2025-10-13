@@ -267,6 +267,14 @@ The billing statement interface serves as the central hub for all billing-relate
 - **Status Information**: Access current billing status and subscription details
 - **Restrictions**: Cannot modify any billing settings or generate statements
 
+## Supporting Documents Referenced
+
+This billing statements specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx files](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing models and billing calculation specifications
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat-based billing and subscription management specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Subscriber-Admin billing statement access and payment management capabilities
+
 ## Dependencies
 
 ### Internal Dependencies

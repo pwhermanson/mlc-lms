@@ -152,6 +152,14 @@ Each game follows the established Learn → Play → Quiz → Review sequence:
 - **Voice Control**: Support for voice commands
 - **Switch Control**: Support for assistive devices
 
+## Supporting Documents Referenced
+
+This assignment play redesign specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Comprehensive redesign specifications for the assignment play interface, including UX improvements and workflow updates
+- [EXE specs 2012-0913 (Assignment Screen)](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Original assignment screen specifications and behaviors
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture and stage progression specifications
+
 ## Future Enhancements
 
 ### Advanced Features

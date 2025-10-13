@@ -74,6 +74,14 @@ Emit events (see `15-analytics-and-reporting/event-model.md`):
 - Teacher and teacher-admin may reset certain student settings (e.g., locale, accessibility) for support; password resets via account recovery flow, not via this page. See `02-roles-and-permissions/permissions-table.md`.
 - Subscriber/admin have no direct access here in student UI; administrative overrides live elsewhere. See `06-system-admin/user-permissions.md`.
 
+## Supporting Documents Referenced
+
+This student settings specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student role settings access and configuration permissions
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Settings interface content and user-facing text
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Settings screen labels, descriptions, and help text
+
 ## Dependencies
 - Localization framework and message catalogs: `01-ux-design-system/localization-internationalization.md`.
 - Theming and contrast tokens: `01-ux-design-system/a11y-standards.md`.

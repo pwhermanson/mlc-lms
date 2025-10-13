@@ -641,6 +641,14 @@ Content-Security-Policy:
 
 Ensure CSP policies allow MIDI access on production domains.
 
+## Supporting Documents Referenced
+
+This MIDI support specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — MIDI game requirements and specifications
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Browser compatibility for Web MIDI API support
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — MIDI assignment pane specifications
+
 ## Dependencies
 
 ### Core System Dependencies

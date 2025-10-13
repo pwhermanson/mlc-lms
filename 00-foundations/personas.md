@@ -312,3 +312,19 @@ For detailed role capabilities and permissions, see [Roles and Permissions Matri
 
 For detailed technical requirements and implementation guidance, see [System Architecture Overview](../18-architecture/system-overview.md) and [Accessibility Standards](../01-ux-design-system/a11y-standards.md).
 
+## Supporting Documents Referenced
+
+This personas document draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Detailed role capabilities and permissions
+- [Blayzer note USER ROLES.docx.txt](../00-ORIG-CONTEXT/Blayzer%20note%20USER%20ROLES.docx.txt) — Role specifications and workflows
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Role hierarchy visualization
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — User workflows and subscription types
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Special needs success stories and user testimonials
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Role descriptions and user flows
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Subscription tier flexibility and role configurations
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing structure for different user types
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin pain points and requirements
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Multi-platform support requirements
+- [AMessagetoParents.pdf](../00-ORIG-CONTEXT/AMessagetoParents.pdf) — Parent messaging and value propositions
+

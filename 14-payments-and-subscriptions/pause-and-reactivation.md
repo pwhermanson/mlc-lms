@@ -205,6 +205,14 @@ CREATE TABLE subscription_pauses (
 - **Customer Insights**: Analysis of pause patterns and reasons
 - **Revenue Impact**: Effect of pause functionality on revenue retention
 
+## Supporting Documents Referenced
+
+This pause and reactivation specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Subscription pause and reactivation billing calculations
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat management during pause periods
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Pause and reactivation messaging
+
 ## Future Considerations
 
 ### Potential Enhancements

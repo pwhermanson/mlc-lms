@@ -821,6 +821,16 @@ Fires: When system suggests prerequisite games based on metadata
 - System Admin can set organization-wide metadata overrides (e.g., custom difficulty scale, custom category labels)
 - Overrides affect display only, do not modify canonical game metadata
 
+## Supporting Documents Referenced
+
+This games metadata specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original game metadata requirements and categorization
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Complete game library with metadata examples
+- [Games import master.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20import%20master.xlsx%20-%20Sheet1.csv) — Import specifications defining metadata fields
+- [EXE specs 2012-0913 - Game Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Game%20Screen.csv) — Game screen metadata display requirements
+- [EXE specs 2012-0913 - Category Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Category%20Screen.csv) — Category and concept parameter system specifications
+
 ## Dependencies
 
 ### Internal Dependencies

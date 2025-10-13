@@ -77,6 +77,14 @@ Access:
 - Subscriber Admin: read-only unless explicitly granted (see `../06-system-admin/user-permissions.md`)
 - Impersonation: banner and disabled destructive actions (see `../02-roles-and-permissions/impersonation-and-support-access.md`)
 
+## Supporting Documents Referenced
+
+This teacher challenges specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher role challenge creation and management capabilities
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Challenge game specifications and competitive gameplay requirements
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Challenge interface content and messaging
+
 ## Dependencies
 - Game registry for stage availability and scoring semantics (see `../08-games-registry-and-authoring/game-model.md`)
 - Assignment/Play events pipeline for scores (see `../10-assignments-engine/assignment-progress-tracking.md`)

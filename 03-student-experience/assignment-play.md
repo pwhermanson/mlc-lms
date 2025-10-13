@@ -186,6 +186,15 @@ Each game follows the established Learn → Play → Quiz → Review sequence:
 - Progress tracking provides insights for both students and teachers
 - Flexible gating allows teachers to customize learning paths
 
+## Supporting Documents Referenced
+
+This assignment play specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Original assignment play interface redesign specifications and workflow
+- [EXE specs 2012-0913 (Assignment Screen)](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Detailed assignment screen specifications and behaviors
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture and stage progression specifications
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence and assignment structure specifications
+
 ## Dependencies
 - Game Model for Stage definitions, targets, and lifecycle
 - Sequence Model for step composition, gates, and review scheduling

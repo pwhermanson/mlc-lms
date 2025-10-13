@@ -1125,6 +1125,14 @@ Reference: [Roles Matrix](../02-roles-and-permissions/roles-matrix.md) and [Perm
 - **COPPA compliance**: Student emails sent to guardian address if under 13
 - **FERPA compliance**: Educational content in emails protected per role boundaries
 
+## Supporting Documents Referenced
+
+This email templates specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging and email communication content
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User interface text and messaging guidelines
+- [AMessagetoParents.pdf](../00-ORIG-CONTEXT/AMessagetoParents.pdf) — Parent communication messaging and tone examples
+
 ## Dependencies
 
 ### Core System Dependencies

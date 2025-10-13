@@ -250,6 +250,14 @@ This specification enables:
 - **Time Limits**: Impersonation sessions have shorter timeouts
 - **Notification**: Impersonated users notified of impersonation activity
 
+## Supporting Documents Referenced
+
+This session and authentication states specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Authentication requirements and session management rules for different user roles
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin authentication and security requirements
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Overview of security and compliance requirements
+
 ## Dependencies
 
 ### Internal Dependencies

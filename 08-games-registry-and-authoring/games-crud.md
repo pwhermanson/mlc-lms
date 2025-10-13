@@ -636,6 +636,15 @@ See [Permissions Table](../02-roles-and-permissions/permissions-table.md#content
 
 **Permission Checks**: Enforced at API layer before any operation. Unauthorized attempts logged for security monitoring.
 
+## Supporting Documents Referenced
+
+This games CRUD specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original game organization and data structure requirements
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Current game library inventory and metadata examples
+- [Games import master.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20import%20master.xlsx%20-%20Sheet1.csv) — Game import specifications and field definitions
+- [EXE specs 2012-0913 - Game Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Game%20Screen.csv) — Game screen specifications and metadata display requirements
+
 ## Dependencies
 
 ### Internal Dependencies

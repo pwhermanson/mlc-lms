@@ -53,6 +53,14 @@ Excluded:
 - Teacher-Admin: read reports across the subscriber tenant
 - Subscriber-Admin: not in scope here; see admin analytics
 
+## Supporting Documents Referenced
+
+This teacher reports specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher and Teacher-Admin reporting capabilities and data access
+- [Dashboard Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Dashboard%20Chart.xlsx%20-%20Sheet1.csv) — Dashboard and reporting interface specifications
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Reports interface content and messaging
+
 ## Dependencies
 - KPIs and metric definitions: `15-analytics-and-reporting/teacher-reports-kpis.md`
 - Assignment status logic: `10-assignments-engine/assignment-progress-tracking.md`

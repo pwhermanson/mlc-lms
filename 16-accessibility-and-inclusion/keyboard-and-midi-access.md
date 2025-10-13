@@ -529,6 +529,14 @@ Accessible from Settings or pre-game screen, allows student to test MIDI connect
 - **Fallback Policy Management**: Can create and modify fallback policies available to teachers and admins
 - **Emergency MIDI Override**: Can disable MIDI requirements system-wide if critical compatibility issues arise
 
+## Supporting Documents Referenced
+
+This keyboard and MIDI access specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — MIDI game requirements and keyboard interaction
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Browser compatibility for keyboard and MIDI access
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Keyboard navigation for game selection
+
 ## Dependencies
 
 ### Core System Dependencies

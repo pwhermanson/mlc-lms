@@ -298,6 +298,13 @@ The feature flag system serves as the critical infrastructure for:
 - **Environment Access**: Access to feature flags across all environments
 - **Emergency Access**: Special access for emergency flag management
 
+## Supporting Documents Referenced
+
+This system admin feature flags specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin configuration management capabilities and feature control
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional feature flag specifications and rollout strategies
+
 ## Dependencies
 
 ### Internal Dependencies

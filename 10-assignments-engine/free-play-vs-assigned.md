@@ -1028,6 +1028,15 @@ All context-distinguishing events are **never sampled** (100% capture) because:
 | Export student data | ❌ | ✅ (own classes) | ✅ (own org) | ✅ (all) |
 | Compare free play vs assigned | ❌ | ✅ (own classes) | ✅ (own org) | ✅ (all) |
 
+## Supporting Documents Referenced
+
+This free play vs assigned specification draws from the following source documents:
+
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Free play game browsing and selection interface
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assigned game navigation and tracking requirements
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game access modes and scoring differences
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment context and score tracking
+
 ## Dependencies
 
 ### Internal Specifications

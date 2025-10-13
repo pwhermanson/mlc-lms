@@ -226,6 +226,14 @@ Based on the original system's Challenge stage design:
 - **Control**: Enable/disable leaderboard participation for their child
 - **Privacy**: Modify display name and privacy settings
 
+## Supporting Documents Referenced
+
+This leaderboards specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Challenge game specifications and competitive gameplay requirements
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Leaderboard content, messaging, and gamification elements
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student role capabilities for challenge participation and leaderboard access
+
 ## Dependencies
 
 ### Core System Dependencies

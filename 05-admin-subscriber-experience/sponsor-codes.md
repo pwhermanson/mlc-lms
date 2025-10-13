@@ -233,6 +233,14 @@ When a sponsor chooses to let administrators assign their code:
 - **Impact Updates**: Regular updates on sponsored organization progress
 - **Program Communications**: Share program news and success stories
 
+## Supporting Documents Referenced
+
+This sponsor codes specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx files](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing models and sponsored subscription specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Subscriber-Admin and System Admin sponsor code management capabilities
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Sponsored seat allocation and subscription management
+
 ## Future Enhancements
 
 ### Program Expansion

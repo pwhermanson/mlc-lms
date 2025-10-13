@@ -273,6 +273,14 @@ This addresses the original MLC system's challenge where students would discover
 - **Configuration**: Can modify assignment policies and behavior
 - **Support**: Can troubleshoot assignment issues
 
+## Supporting Documents Referenced
+
+This assignment model specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assignment structure and workflow specifications
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Assignment and sequence structure specifications
+- [Course import.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Course%20import.xlsx%20-%20Sheet1.csv) — Assignment import and data model specifications
+
 ## Dependencies
 
 ### Internal Dependencies

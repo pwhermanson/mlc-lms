@@ -179,6 +179,22 @@ The legacy system's success provided a solid foundation for the current redesign
 
 The legacy system's proven pedagogical approach, successful business model, and comprehensive feature set provide the foundation for the new system design, ensuring continuity of the educational mission while embracing modern technology standards.
 
+## Supporting Documents Referenced
+
+This legacy systems documentation draws from the following source documents:
+
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — System evolution and historical milestones
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Business model and operational structure
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Five-stage game architecture
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform features and capabilities
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — Sequencing system structure
+- [AlphaMasterList2020.xlsx - Master.csv](../00-ORIG-CONTEXT/AlphaMasterList2020.xlsx%20-%20Master.csv) — Game catalog and organization
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Subscription tier structure
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing model and seat calculations
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — User management system and role hierarchies
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Technical requirements and browser compatibility
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — Legacy system administration challenges
+
 ## Related Documentation
 - [Company History](company-history.md) - Detailed organizational development
 - [Product Vision](product-vision.md) - Future system direction and goals

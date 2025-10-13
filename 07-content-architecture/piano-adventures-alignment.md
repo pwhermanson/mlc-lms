@@ -122,6 +122,15 @@ Each Piano Adventures level is organized into assignments that mirror the book s
 - Achievement tracking aligns with book milestones
 - Review scheduling supports long-term retention
 
+## Supporting Documents Referenced
+
+This Piano Adventures curriculum alignment specification draws from the following source documents:
+
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Detailed Piano Adventures method structure and pedagogical approach
+- [Level1CurriculumMap.xls - Sheet1.csv](../00-ORIG-CONTEXT/Level1CurriculumMap.xls%20-%20Sheet1.csv) — Sample curriculum mapping for Level 1 correlations
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Sequence creation master list with method alignments
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence specifications including page correlations and skill mappings
+
 ## Cross-References
 
 ### Related Documentation

@@ -430,6 +430,18 @@ Components are filtered based on user roles and subscription types:
 - **Progress Tracking**: Optimal progress visualization for different user types?
 - **Teacher Tools**: Most effective components for teacher workflow efficiency?
 
+## Supporting Documents Referenced
+
+This components overview document draws from the following source documents:
+
+- [MLC_LearningUI_wireframes_201210.pdf](../00-ORIG-CONTEXT/MLC_LearningUI_wireframes_201210.pdf) — Original UI patterns and component designs
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Interface descriptions and user-facing component requirements
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Game browsing component patterns
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assignment interface components
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — Admin interface component requirements
+- [Dashboard Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Dashboard%20Chart.xlsx%20-%20Sheet1.csv) — Dashboard component specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role-specific component requirements
+
 ## Related Documentation
 
 - [Accessibility Standards](../01-ux-design-system/a11y-standards.md) - Detailed accessibility requirements

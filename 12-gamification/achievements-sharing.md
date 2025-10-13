@@ -312,6 +312,14 @@ The system implements the original design principle where "high scores are recor
 - **Analytics**: Access comprehensive sharing and engagement analytics
 - **Manage**: Create and manage community highlights and features
 
+## Supporting Documents Referenced
+
+This achievements sharing specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging and social features content
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — User interface text for sharing and notifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Privacy controls and parental consent requirements
+
 ## Dependencies
 
 ### Core System Dependencies

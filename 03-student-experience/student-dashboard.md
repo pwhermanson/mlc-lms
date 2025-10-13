@@ -248,6 +248,15 @@ Based on feedback from the original system, the student dashboard specifically a
 - **Offline Resilience**: Cached content and queued submissions maintain functionality during connectivity issues
 - **Error Recovery**: Clear error messages and recovery options prevent students from getting stuck
 
+## Supporting Documents Referenced
+
+This student dashboard specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Student interface content, navigation structure, and dashboard layout requirements
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Screen-specific content and messaging for student-facing interfaces
+- [MLC_LearningUI_wireframes_201210.pdf](../00-ORIG-CONTEXT/MLC_LearningUI_wireframes_201210.pdf) — 2012 wireframes showing dashboard layout and navigation patterns
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student role capabilities and data access specifications
+
 ## Future Enhancements
 
 ### AI Integration

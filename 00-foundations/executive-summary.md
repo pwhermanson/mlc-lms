@@ -157,6 +157,25 @@ A mastery-first, AI-enabled music learning platform that adapts to any teaching 
 
 ---
 
+## Supporting Documents Referenced
+
+This executive summary draws from the following source documents:
+
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Original business model and value propositions
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Founder background and historical context
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role definitions and capabilities
+- [Blayzer note USER ROLES.docx.txt](../00-ORIG-CONTEXT/Blayzer%20note%20USER%20ROLES.docx.txt) — Additional role specifications
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Marketing materials and site copy
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Detailed pricing calculations
+- [MLC Tiered Pricing 2020.xlsx - Chart.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Chart.csv) — Pricing tier visualizations
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game stages and scoring model
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — Sequence structure and specifications
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat management and scaling rules
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin requirements and capabilities
+- [Mass Upload.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Mass%20Upload.xlsx%20-%20Sheet1.csv) — Bulk operations and CSV utilities
+
+---
+
 ## References to source specs
 
 * Game stages, Sequences, and scoring model

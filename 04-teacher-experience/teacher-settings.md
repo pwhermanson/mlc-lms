@@ -115,6 +115,14 @@ Who can read, write, publish, or override.
 - Recess override may be locked by Subscriber-Admin policy for schools.
 
 
+## Supporting Documents Referenced
+
+This teacher settings specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher and Teacher-Admin settings access and configuration permissions
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Teacher settings interface content and messaging
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Settings screen labels, descriptions, and help text
+
 ## Dependencies
 Other specs or systems this relies on.
 

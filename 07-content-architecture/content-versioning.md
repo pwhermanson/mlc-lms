@@ -238,6 +238,15 @@ The content versioning system enables:
 - **Version Selection**: Can choose specific versions for custom sequences
 - **Feedback Submission**: Can provide feedback on content versions
 
+## Supporting Documents Referenced
+
+This content versioning specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original game organization and structure specifications
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Current game library inventory and status tracking
+- [Games import master.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20import%20master.xlsx%20-%20Sheet1.csv) — Game import specifications and metadata structure
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence creation specifications including content dependencies
+
 ## Dependencies
 
 ### Internal Dependencies

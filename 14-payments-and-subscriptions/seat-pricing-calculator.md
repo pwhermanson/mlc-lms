@@ -231,6 +231,14 @@ Dynamic pricing calculation system that provides real-time cost calculations for
 - **Calculation History**: Audit trail of all calculations
 - **User Preferences**: Storage of user calculator preferences
 
+## Supporting Documents Referenced
+
+This seat pricing calculator specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Seat-based pricing calculation formulas
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Complete seat pricing scenarios
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat allocation and pricing requirements
+
 ## Dependencies
 
 ### Related Specifications

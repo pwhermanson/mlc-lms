@@ -356,6 +356,14 @@ This specification defines the comprehensive event tracking system for the MLC-L
 - **System Events**: 1-year retention for operational monitoring
 - **Automatic Deletion**: Events automatically purged after retention period
 
+## Supporting Documents Referenced
+
+This event model specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game tracking and scoring event requirements
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Score tracking and progress event requirements
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment event tracking specifications
+
 ## Dependencies
 
 ### Core System Dependencies

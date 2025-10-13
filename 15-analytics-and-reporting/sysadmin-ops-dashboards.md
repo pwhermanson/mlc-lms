@@ -279,6 +279,14 @@ This specification defines the comprehensive operational dashboards available to
 - **Data Classification**: All exported data properly classified and labeled
 - **Retention Policies**: Exported data subject to same retention policies as source data
 
+## Supporting Documents Referenced
+
+This sysadmin ops dashboards specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin tools and operational dashboards
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional system admin monitoring requirements
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Content health monitoring and game status tracking
+
 ## Dependencies
 
 ### Core System Dependencies

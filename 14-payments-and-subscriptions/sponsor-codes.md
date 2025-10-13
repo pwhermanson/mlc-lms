@@ -155,6 +155,14 @@ The program encourages early learners in music education by providing schools wi
 - **Learning Progress**: Measurable improvement in student outcomes
 - **Institutional Retention**: Long-term adoption by educational institutions
 
+## Supporting Documents Referenced
+
+This sponsor codes specification draws from the following source documents:
+
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat allocation for sponsored educational organizations
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Ensemble member role and sponsorship capabilities
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Christine Hermanson Grant Program messaging
+
 ## Future Enhancements
 
 ### Program Expansion

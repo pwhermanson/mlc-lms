@@ -160,6 +160,15 @@ The Assignment Builder is the primary tool for teachers to create, customize, an
 - **Assistive Technology**: Support for assistive devices and software
 - **Customization Options**: Allow students to customize their learning experience
 
+## Supporting Documents Referenced
+
+This assignment builder specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assignment creation workflows and interface design
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence creation specifications and assignment structure
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher role assignment creation capabilities and permissions
+- [Mass Upload.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Mass%20Upload.xlsx%20-%20Sheet1.csv) — Bulk assignment operations specifications
+
 ## Future Enhancements
 
 ### AI Integration

@@ -569,6 +569,14 @@ dimensions: {
 - **View summaries**: Parents see simplified progress summaries, not detailed step data
 - **No edit access**: Parents cannot modify progress or targets
 
+## Supporting Documents Referenced
+
+This assignment progress tracking specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assignment navigation and score display requirements
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment screen specifications with score tracking and completion status
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence progression and assignment structure specifications
+
 ## Dependencies
 
 ### Internal Dependencies

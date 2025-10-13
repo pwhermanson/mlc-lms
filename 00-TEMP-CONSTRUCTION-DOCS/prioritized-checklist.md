@@ -23,7 +23,30 @@ Confirm that added content is not already present in another page and won’t be
 If overlap is useful, reference at a high level and link to the canonical doc.
 Step 5 — Telemetry and dependencies (if applicable)
 If the page mentions events, data, or roles, reference existing specs (e.g., event model, permissions, UX standards) instead of duplicating them.
-Step 6 — Finalize and check off
+
+
+Step 6
+Add a **"Supporting Documents Referenced"** section to all checked-off (✅) documents in `00-TEMP-CONSTRUCTION-DOCS/prioritized-checklist.md`, following the pattern established in `25-research-and-inspiration/wireframes-2012-notes.md`.
+
+## Pattern to Follow
+
+Each section should:
+1. Be placed before "Dependencies," "Open Questions," or "Future Enhancements" sections
+2. List relevant source documents from `00-ORIG-CONTEXT/` folder
+3. Include brief descriptions of what each source provides
+4. Use relative paths with proper escaping (spaces as `%20`)
+
+**Example Format:**
+```markdown
+## Supporting Documents Referenced
+
+This [document name] specification draws from the following source documents:
+
+- [Source1.docx.txt](../00-ORIG-CONTEXT/Source1.docx.txt) — Description of what this provides
+- [Source2.csv](../00-ORIG-CONTEXT/Source2.csv) — Description
+```
+
+Step 7 — Finalize and check off
 When the enhancement is complete and saved, return to 00-TEMP-CONSTRUCTION-DOCS/prioritized-checklist.md.
 Replace the - In Progress suffix on the chosen item with a leading ✅ to mark it complete (do not leave - In Progress).
 Save and verify the checklist now shows the item as completed.
@@ -42,9 +65,6 @@ Optional status notes
 At the start of your run, post a short note: “Marked X as In Progress.”
 At the end: “Completed X and checked it off.”
 This prompt ensures the in-progress status is marked first, verified, and later replaced by a checkmark only after the enhancement is complete.
-
-Do this next: 
-
 
 
 
@@ -169,76 +189,75 @@ Do this next:
 ✅ [16-accessibility-and-inclusion/captions-and-audio-descriptions.md](../16-accessibility-and-inclusion/captions-and-audio-descriptions.md)
 ✅ [16-accessibility-and-inclusion/keyboard-and-midi-access.md](../16-accessibility-and-inclusion/keyboard-and-midi-access.md)
 ✅ [17-integrations/midi-support.md](../17-integrations/midi-support.md)
-[17-integrations/lms-ltispec-future.md](../17-integrations/lms-ltispec-future.md)
-[17-integrations/email-provider.md](../17-integrations/email-provider.md)
-[17-integrations/cdn-and-media.md](../17-integrations/cdn-and-media.md)
-[18-architecture/system-overview.md](../18-architecture/system-overview.md)
-[18-architecture/service-boundaries.md](../18-architecture/service-boundaries.md)
-[18-architecture/data-model-erd.md](../18-architecture/data-model-erd.md)
-[18-architecture/api-design-principles.md](../18-architecture/api-design-principles.md)
-[18-architecture/rest-endpoints.md](../18-architecture/rest-endpoints.md)
-[18-architecture/webhooks.md](../18-architecture/webhooks.md)
-[18-architecture/background-jobs.md](../18-architecture/background-jobs.md)
-[18-architecture/search-architecture.md](../18-architecture/search-architecture.md)
-[18-architecture/caching-strategy.md](../18-architecture/caching-strategy.md)
-[18-architecture/security-privacy.md](../18-architecture/security-privacy.md)
-[18-architecture/rate-limiting-and-abuse.md](../18-architecture/rate-limiting-and-abuse.md)
-[18-architecture/config-and-secrets.md](../18-architecture/config-and-secrets.md)
-[18-architecture/browser-compatibility-matrix.md](../18-architecture/browser-compatibility-matrix.md)
-[19-quality-and-operations/test-strategy.md](../19-quality-and-operations/test-strategy.md)
-[19-quality-and-operations/browser-device-matrix.md](../19-quality-and-operations/browser-device-matrix.md)
-[19-quality-and-operations/qa-checklists.md](../19-quality-and-operations/qa-checklists.md)
-[19-quality-and-operations/release-management.md](../19-quality-and-operations/release-management.md)
-[19-quality-and-operations/observability.md](../19-quality-and-operations/observability.md)
-[19-quality-and-operations/incident-response.md](../19-quality-and-operations/incident-response.md)
-[19-quality-and-operations/testing-requirements.md](../19-quality-and-operations/testing-requirements.md)
-[20-imports-and-automation/csv-spec-students.md](../20-imports-and-automation/csv-spec-students.md)
-[20-imports-and-automation/csv-spec-teachers.md](../20-imports-and-automation/csv-spec-teachers.md)
-[20-imports-and-automation/csv-spec-courses-assignments.md](../20-imports-and-automation/csv-spec-courses-assignments.md)
-[20-imports-and-automation/csv-spec-games.md](../20-imports-and-automation/csv-spec-games.md)
-[20-imports-and-automation/bulk-ops-jobs.md](../20-imports-and-automation/bulk-ops-jobs.md)
-[20-imports-and-automation/export-specs.md](../20-imports-and-automation/export-specs.md)
-[20-imports-and-automation/csv-specifications.md](../20-imports-and-automation/csv-specifications.md)
-[20-imports-and-automation/data-migration.md](../20-imports-and-automation/data-migration.md)
-[21-mobile-and-offline/responsive-behaviors.md](../21-mobile-and-offline/responsive-behaviors.md)
-[21-mobile-and-offline/pwa-considerations.md](../21-mobile-and-offline/pwa-considerations.md)
-[22-content-style-guides/copy-guide-students.md](../22-content-style-guides/copy-guide-students.md)
-[22-content-style-guides/copy-guide-teachers.md](../22-content-style-guides/copy-guide-teachers.md)
-[22-content-style-guides/copy-guide-admins.md](../22-content-style-guides/copy-guide-admins.md)
-[22-content-style-guides/error-messages.md](../22-content-style-guides/error-messages.md)
-[22-content-style-guides/terry-treble-branding.md](../22-content-style-guides/terry-treble-branding.md)
-[22-content-style-guides/copy-guidelines.md](../22-content-style-guides/copy-guidelines.md)
-[23-legal-and-compliance/privacy-policy-outline.md](../23-legal-and-compliance/privacy-policy-outline.md)
-[23-legal-and-compliance/tos-outline.md](../23-legal-and-compliance/tos-outline.md)
-[23-legal-and-compliance/coppa-ferpa-notes.md](../23-legal-and-compliance/coppa-ferpa-notes.md)
-[23-legal-and-compliance/copyright-and-licensing.md](../23-legal-and-compliance/copyright-and-licensing.md)
-[23-legal-and-compliance/privacy-policy.md](../23-legal-and-compliance/privacy-policy.md)
-[23-legal-and-compliance/terms-conditions.md](../23-legal-and-compliance/terms-conditions.md)
-[24-roadmap-and-phasing/phase-1-scope.md](../24-roadmap-and-phasing/phase-1-scope.md)
-[24-roadmap-and-phasing/phase-2-scope.md](../24-roadmap-and-phasing/phase-2-scope.md)
-[24-roadmap-and-phasing/phase-3-scope.md](../24-roadmap-and-phasing/phase-3-scope.md)
-[24-roadmap-and-phasing/measures-of-success.md](../24-roadmap-and-phasing/measures-of-success.md)
-[25-research-and-inspiration/wireframes-2012-notes.md](../25-research-and-inspiration/wireframes-2012-notes.md)
-[25-research-and-inspiration/competitor-scan-2025.md](../25-research-and-inspiration/competitor-scan-2025.md)
-[25-research-and-inspiration/user-feedback.md](../25-research-and-inspiration/user-feedback.md)
-[25-research-and-inspiration/competitor-analysis.md](../25-research-and-inspiration/competitor-analysis.md)
-[26-repo-operations/contributing.md](../26-repo-operations/contributing.md)
-[26-repo-operations/issue-templates.md](../26-repo-operations/issue-templates.md)
-[16-accessibility-and-inclusion/wcag-compliance.md](../16-accessibility-and-inclusion/wcag-compliance.md)
-[23-legal-and-compliance/gdpr-compliance.md](../23-legal-and-compliance/gdpr-compliance.md)
-[23-legal-and-compliance/ferpa-compliance.md](../23-legal-and-compliance/ferpa-compliance.md)
-[17-integrations/xapi-implementation.md](../17-integrations/xapi-implementation.md)
-[17-integrations/scorm-compliance.md](../17-integrations/scorm-compliance.md)
-[17-integrations/sso-integration.md](../17-integrations/sso-integration.md)
-[21-mobile-and-offline/pwa-specifications.md](../21-mobile-and-offline/pwa-specifications.md)
-[15-analytics-and-reporting/learning-analytics.md](../15-analytics-and-reporting/learning-analytics.md)
-[13-messaging-and-notifications/communication-framework.md](../13-messaging-and-notifications/communication-framework.md)
+✅ [17-integrations/lms-ltispec-future.md](../17-integrations/lms-ltispec-future.md)
+✅ [17-integrations/email-provider.md](../17-integrations/email-provider.md)
+✅ [17-integrations/cdn-and-media.md](../17-integrations/cdn-and-media.md)
+✅ [18-architecture/system-overview.md](../18-architecture/system-overview.md)
+✅ [18-architecture/service-boundaries.md](../18-architecture/service-boundaries.md)
+✅ [18-architecture/data-model-erd.md](../18-architecture/data-model-erd.md)
+✅ [18-architecture/api-design-principles.md](../18-architecture/api-design-principles.md)
+✅ [18-architecture/rest-endpoints.md](../18-architecture/rest-endpoints.md)
+✅ [18-architecture/webhooks.md](../18-architecture/webhooks.md)
+✅ [18-architecture/background-jobs.md](../18-architecture/background-jobs.md)
+✅ [18-architecture/search-architecture.md](../18-architecture/search-architecture.md)
+✅ [18-architecture/caching-strategy.md](../18-architecture/caching-strategy.md)
+✅ [18-architecture/security-privacy.md](../18-architecture/security-privacy.md)
+✅ [18-architecture/rate-limiting-and-abuse.md](../18-architecture/rate-limiting-and-abuse.md)
+✅ [18-architecture/config-and-secrets.md](../18-architecture/config-and-secrets.md)
+✅ [18-architecture/browser-compatibility-matrix.md](../18-architecture/browser-compatibility-matrix.md)
+✅ [19-quality-and-operations/test-strategy.md](../19-quality-and-operations/test-strategy.md)
+✅ [19-quality-and-operations/browser-device-matrix.md](../19-quality-and-operations/browser-device-matrix.md)
+✅ [19-quality-and-operations/qa-checklists.md](../19-quality-and-operations/qa-checklists.md)
+✅ [19-quality-and-operations/release-management.md](../19-quality-and-operations/release-management.md)
+✅ [19-quality-and-operations/observability.md](../19-quality-and-operations/observability.md)
+✅ [19-quality-and-operations/incident-response.md](../19-quality-and-operations/incident-response.md)
+✅ [19-quality-and-operations/testing-requirements.md](../19-quality-and-operations/testing-requirements.md)
+✅ [20-imports-and-automation/csv-spec-students.md](../20-imports-and-automation/csv-spec-students.md)
+✅ [20-imports-and-automation/csv-spec-teachers.md](../20-imports-and-automation/csv-spec-teachers.md)
+✅ [20-imports-and-automation/csv-spec-courses-assignments.md](../20-imports-and-automation/csv-spec-courses-assignments.md)
+✅ [20-imports-and-automation/csv-spec-games.md](../20-imports-and-automation/csv-spec-games.md)
+✅ [20-imports-and-automation/bulk-ops-jobs.md](../20-imports-and-automation/bulk-ops-jobs.md)
+✅ [20-imports-and-automation/export-specs.md](../20-imports-and-automation/export-specs.md)
+✅ [20-imports-and-automation/csv-specifications.md](../20-imports-and-automation/csv-specifications.md)
+✅ [20-imports-and-automation/data-migration.md](../20-imports-and-automation/data-migration.md)
+✅ [21-mobile-and-offline/responsive-behaviors.md](../21-mobile-and-offline/responsive-behaviors.md)
+✅ [21-mobile-and-offline/pwa-considerations.md](../21-mobile-and-offline/pwa-considerations.md)
+✅ [22-content-style-guides/copy-guide-students.md](../22-content-style-guides/copy-guide-students.md)
+✅ [22-content-style-guides/copy-guide-teachers.md](../22-content-style-guides/copy-guide-teachers.md)
+✅ [22-content-style-guides/copy-guide-admins.md](../22-content-style-guides/copy-guide-admins.md)
+✅ [22-content-style-guides/error-messages.md](../22-content-style-guides/error-messages.md)
+✅ [22-content-style-guides/terry-treble-branding.md](../22-content-style-guides/terry-treble-branding.md)
+✅ [22-content-style-guides/copy-guidelines.md](../22-content-style-guides/copy-guidelines.md)
+✅ [23-legal-and-compliance/privacy-policy-outline.md](../23-legal-and-compliance/privacy-policy-outline.md)
+⚠️ Backburner - [23-legal-and-compliance/tos-outline.md](../23-legal-and-compliance/tos-outline.md)
+⚠️ Backburner - [23-legal-and-compliance/coppa-ferpa-notes.md](../23-legal-and-compliance/coppa-ferpa-notes.md)
+⚠️ Backburner - [23-legal-and-compliance/copyright-and-licensing.md](../23-legal-and-compliance/copyright-and-licensing.md)
+✅ [23-legal-and-compliance/privacy-policy.md](../23-legal-and-compliance/privacy-policy.md)
+⚠️ Backburner - [23-legal-and-compliance/terms-conditions.md](../23-legal-and-compliance/terms-conditions.md)
+✅ [24-roadmap-and-phasing/phase-1-scope.md](../24-roadmap-and-phasing/phase-1-scope.md)
+✅ [24-roadmap-and-phasing/phase-2-scope.md](../24-roadmap-and-phasing/phase-2-scope.md)
+✅ [24-roadmap-and-phasing/phase-3-scope.md](../24-roadmap-and-phasing/phase-3-scope.md)
+✅ [24-roadmap-and-phasing/measures-of-success.md](../24-roadmap-and-phasing/measures-of-success.md)
+✅ [25-research-and-inspiration/wireframes-2012-notes.md](../25-research-and-inspiration/wireframes-2012-notes.md)
+✅ [25-research-and-inspiration/competitor-scan-2025.md](../25-research-and-inspiration/competitor-scan-2025.md)
+✅ [25-research-and-inspiration/user-feedback.md](../25-research-and-inspiration/user-feedback.md)
+✅ [25-research-and-inspiration/competitor-analysis.md](../25-research-and-inspiration/competitor-analysis.md)
+✅ [26-repo-operations/issue-templates.md](../26-repo-operations/issue-templates.md)
+⚠️ Backburner - [16-accessibility-and-inclusion/wcag-compliance.md](../16-accessibility-and-inclusion/wcag-compliance.md)
+⚠️ Backburner - [23-legal-and-compliance/gdpr-compliance.md](../23-legal-and-compliance/gdpr-compliance.md)
+⚠️ Backburner - [23-legal-and-compliance/ferpa-compliance.md](../23-legal-and-compliance/ferpa-compliance.md)
+⚠️ Backburner - [17-integrations/xapi-implementation.md](../17-integrations/xapi-implementation.md)
+⚠️ Backburner - [17-integrations/scorm-compliance.md](../17-integrations/scorm-compliance.md)
+✅ [17-integrations/sso-integration.md](../17-integrations/sso-integration.md)
+✅ [21-mobile-and-offline/pwa-specifications.md](../21-mobile-and-offline/pwa-specifications.md)
+✅ [15-analytics-and-reporting/learning-analytics.md](../15-analytics-and-reporting/learning-analytics.md)
+✅ [13-messaging-and-notifications/communication-framework.md](../13-messaging-and-notifications/communication-framework.md)
 [18-architecture/performance-and-scalability.md](../18-architecture/performance-and-scalability.md)
 [27-social-learning/social-learning-framework.md](../27-social-learning/social-learning-framework.md)
 [27-social-learning/community-features.md](../27-social-learning/community-features.md)
 [28-advanced-assessment/proctoring-security.md](../28-advanced-assessment/proctoring-security.md)
 [28-advanced-assessment/competency-assessment.md](../28-advanced-assessment/competency-assessment.md)
 [29-content-management/advanced-versioning.md](../29-content-management/advanced-versioning.md)
-[29-content-management/content-approval-workflows.md](../29-content-management/content-approval-workflows.md)
-[30-ai-and-machine-learning/ai-content-generation.md](../30-ai-and-machine-learning/ai-content-generation.md)
-[30-ai-and-machine-learning/predictive-analytics.md](../30-ai-and-machine-learning/predictive-analytics.md)
+⚠️ Backburner - [29-content-management/content-approval-workflows.md](../29-content-management/content-approval-workflows.md)
+⚠️ Backburner - [30-ai-and-machine-learning/ai-content-generation.md](../30-ai-and-machine-learning/ai-content-generation.md)
+⚠️ Backburner - [30-ai-and-machine-learning/predictive-analytics.md](../30-ai-and-machine-learning/predictive-analytics.md)

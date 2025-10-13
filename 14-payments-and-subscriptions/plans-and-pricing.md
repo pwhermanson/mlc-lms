@@ -219,6 +219,16 @@ For very large implementations (typically 1,000+ seats), custom pricing may be a
 - Manage promotional pricing
 - Access all billing data
 
+## Supporting Documents Referenced
+
+This plans and pricing specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx - Chart.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Chart.csv) — Pricing tier visualization and structure
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Pricing calculation formulas and seat-based pricing
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Complete pricing model calculations
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Pricing page copy and plan descriptions
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat allocation and management specifications
+
 ## Dependencies
 
 - [billing-plans-and-seats.md](billing-plans-and-seats.md) - Detailed billing operations

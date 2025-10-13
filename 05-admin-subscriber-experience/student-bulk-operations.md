@@ -370,6 +370,14 @@ Access to student data is controlled by organizational scope and role hierarchy 
 
 *For complete permission specifications and role definitions, see [Roles Matrix](../02-roles-and-permissions/roles-matrix.md) and [Permissions Table](../02-roles-and-permissions/permissions-table.md)*
 
+## Supporting Documents Referenced
+
+This student bulk operations specification draws from the following source documents:
+
+- [Mass Upload.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Mass%20Upload.xlsx%20-%20Sheet1.csv) — Bulk student operations and CSV import specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Administrative role bulk operations capabilities and permissions
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Student seat management and bulk allocation specifications
+
 ## Dependencies
 
 ### Core System Dependencies

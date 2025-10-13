@@ -246,6 +246,14 @@ The student profile enables:
 - **Compliance Monitoring**: System tracks data access for privacy compliance
 - **Backup and Recovery**: System can backup and restore profile data
 
+## Supporting Documents Referenced
+
+This student profile specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student role capabilities and profile data access specifications
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Student profile content, messaging, and interface elements
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Profile screen text and user-facing messages
+
 ## Dependencies
 
 ### Core System Dependencies

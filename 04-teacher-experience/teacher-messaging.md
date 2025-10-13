@@ -81,6 +81,14 @@ Reference: `../02-roles-and-permissions/roles-matrix.md`, `../02-roles-and-permi
 - Subscriber-Admin: read-only audit access when enabled by org policy
 - Student, Guardian: read and reply within threads where they are participants; cannot create new threads to teachers unless explicitly enabled (future toggle)
 
+## Supporting Documents Referenced
+
+This teacher messaging specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Teacher messaging interface content and communication templates
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher role messaging capabilities and communication permissions
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Messaging screen text and communication workflows
+
 ## Dependencies
 - In-app delivery: `../13-messaging-and-notifications/in-app-notifications.md`
 - Email delivery and templates: `../13-messaging-and-notifications/email-templates.md`, `../17-integrations/email-provider.md`

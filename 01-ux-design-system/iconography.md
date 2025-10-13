@@ -461,6 +461,14 @@ Icons are filtered based on user roles and subscription types:
 - **Student Understanding**: How to ensure students understand icon meanings?
 - **Parent Communication**: How to use icons to communicate with parents?
 
+## Supporting Documents Referenced
+
+This iconography document draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform branding and visual language
+- [MLC_LearningUI_wireframes_201210.pdf](../00-ORIG-CONTEXT/MLC_LearningUI_wireframes_201210.pdf) — Original icon usage patterns
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Terry Treble mascot and visual branding history
+
 ## Related Documentation
 
 - [Accessibility Standards](../01-ux-design-system/a11y-standards.md) - Detailed accessibility requirements

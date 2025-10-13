@@ -185,6 +185,15 @@ Comprehensive member management system for administrators to create, modify, and
 - **Achievement Tracking**: Monitor student achievements and milestones
 - **Performance Analytics**: Analyze educational performance and outcomes
 
+## Supporting Documents Referenced
+
+This member management specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — User role specifications, permissions, and member management capabilities
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Visual representation of role relationships and management hierarchies
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Member seat allocation and subscription management specifications
+- [Mass Upload.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Mass%20Upload.xlsx%20-%20Sheet1.csv) — Bulk member operations and CSV import specifications
+
 ## Related Documentation
 
 For comprehensive understanding of the member management system, see:

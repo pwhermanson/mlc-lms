@@ -186,3 +186,23 @@ Each game teaches a very specific musical concept aimed at mastery and retention
 - Support for multiple input methods (mouse, MIDI keyboard, touch)
 - Immediate feedback and clear success criteria
 
+## Supporting Documents Referenced
+
+This pedagogy document draws from the following source documents:
+
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Historical educational foundation and proven effectiveness
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Lifetime Musician philosophy and core principles
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Learn/Play/Quiz/Challenge/Review staged approach
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Pedagogical messaging and educational benefits
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — Lifetime Musician curriculum structure
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST .csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Alphabetical game listing and concept coverage
+- [MLC Sequences (1).xlsx - LIFE.csv](../00-ORIG-CONTEXT/MLC%20Sequences%20%281%29.xlsx%20-%20LIFE.csv) — Sequence design and learning pathways
+- [Help Life Sequence.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Life%20Sequence.xlsx%20-%20Sheet1.csv) — LIFE sequence implementation
+- [Help Solf Sequemce.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Solf%20Sequemce.xlsx%20-%20Sheet1.csv) — Solfege sequence approach
+- [Help Eval Sequence.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Eval%20Sequence.xlsx%20-%20Sheet1.csv) — Evaluation and placement methodology
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Method book alignment strategies
+- [Level1CurriculumMap.xls - Sheet1.csv](../00-ORIG-CONTEXT/Level1CurriculumMap.xls%20-%20Sheet1.csv) — Curriculum mapping and concept progression
+- [AlphaMasterList2020.xlsx - Master.csv](../00-ORIG-CONTEXT/AlphaMasterList2020.xlsx%20-%20Master.csv) — Complete game library with learning concepts
+- [EXE specs 2012-0913.xlsx - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment structure and scoring model
+- [EXE specs 2012-0913.xlsx - Elements.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Elements.csv) — Learning element specifications
+

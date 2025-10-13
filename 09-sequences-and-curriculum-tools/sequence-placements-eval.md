@@ -320,6 +320,14 @@ See [Admin Reports KPIs](../15-analytics-and-reporting/admin-reports-kpis.md) fo
 
 See [Roles Matrix](../02-roles-and-permissions/roles-matrix.md) and [Permissions Table](../02-roles-and-permissions/permissions-table.md) for complete permission definitions.
 
+## Supporting Documents Referenced
+
+This sequence placements evaluation specification draws from the following source documents:
+
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence specifications including prerequisite skills
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Sequence difficulty levels and progression
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game difficulty and skill assessment structure
+
 ## Dependencies
 
 ### Core sequence and content systems

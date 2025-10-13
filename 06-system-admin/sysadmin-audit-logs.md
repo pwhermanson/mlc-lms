@@ -279,6 +279,14 @@ The audit logs serve as the central repository for:
 - **Security Context**: Access to security monitoring and threat detection
 - **Compliance Context**: Access to compliance monitoring and reporting
 
+## Supporting Documents Referenced
+
+This system admin audit logs specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin audit logging capabilities and requirements
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional audit log specifications and compliance requirements
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — User action logging and audit trail specifications
+
 ## Dependencies
 
 ### Internal Dependencies

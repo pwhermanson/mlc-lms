@@ -227,6 +227,15 @@ For canonical telemetry definitions and sampling rules, see [Event Model](../15-
 - **Sequence cloning**: Allow teachers to clone and modify first-party or method-aligned sequences as a starting point for custom sequences?
 - **Publisher partnerships**: Define process and metadata requirements for onboarding new method book publishers.
 
+## Supporting Documents Referenced
+
+This sequence libraries specification draws from the following source documents:
+
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Master list of learning sequences with method alignments
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — Lifetime Musician sequence specifications
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence creation specifications and structure
+- [MLC Sequences (1).xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20Sequences%20(1).xlsx%20-%20ALPHA%20LIST%20.csv) — Additional sequence listings and classifications
+
 ## Dependencies
 - [Sequence Model](sequence-model.md) - Core data structures, versioning, and progression rules
 - [Sequence Authoring](sequence-authoring.md) - Tools for creating and editing sequences

@@ -195,6 +195,14 @@ Comprehensive system for creating, managing, and tracking promotional codes, inc
 - **Retention Improvement**: Impact on customer churn rates
 - **Brand Awareness**: Increased visibility through promotional campaigns
 
+## Supporting Documents Referenced
+
+This promo codes specification draws from the following source documents:
+
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Promotional code messaging and checkout flow
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Marketing and promotional campaign content
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Discount calculations
+
 ## Future Enhancements
 
 ### Advanced Features

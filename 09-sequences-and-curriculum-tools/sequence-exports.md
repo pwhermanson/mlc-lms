@@ -462,6 +462,14 @@ Permissions are checked at two points:
 
 If permission check fails during processing, export job status is set to `failed` with `error_type: permission_denied`.
 
+## Supporting Documents Referenced
+
+This sequence exports specification draws from the following source documents:
+
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence export format specifications
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Sequence metadata for export operations
+- [MLC Sequences (1).xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20Sequences%20(1).xlsx%20-%20specs.csv) — Additional sequence export examples
+
 ## Dependencies
 
 ### Core sequence specifications

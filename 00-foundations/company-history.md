@@ -177,4 +177,14 @@ The Hermanson family's multi-generational involvement in music education technol
 
 ---
 
+## Supporting Documents Referenced
+
+This company history document draws from the following source documents:
+
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Primary source for company history, founder biography, and family contributions
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Business milestones and strategic evolution
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Product evolution and platform capabilities
+
+---
+
 *This history is based on the comprehensive documentation provided in the MLC History Draft 2020 and related materials, preserving the authentic voice and detailed experiences of the founding family.*

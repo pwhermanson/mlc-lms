@@ -408,3 +408,22 @@ For detailed implementation guidance, refer to:
 - **Mobile Apps**: Native app navigation patterns
 - **Offline Support**: Navigation and content access without internet connection
 
+## Supporting Documents Referenced
+
+This information architecture document draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role hierarchies, capabilities, and dashboard elements
+- [Blayzer note USER ROLES.docx.txt](../00-ORIG-CONTEXT/Blayzer%20note%20USER%20ROLES.docx.txt) — Role specifications and access patterns
+- [Dashboard Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Dashboard%20Chart.xlsx%20-%20Sheet1.csv) — Dashboard element access matrix by role
+- [MLC_LearningUI_wireframes_201210.pdf](../00-ORIG-CONTEXT/MLC_LearningUI_wireframes_201210.pdf) — Original navigation patterns and screen flows
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Two-tier game selection structure
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin interface requirements
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional system admin specifications
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Content organization and navigation descriptions
+- [MLC SeqCreate 2020.xlsx - LIFE SEQ.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20LIFE%20SEQ.csv) — Sequence organization and structure
+- [Help Life Sequence.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Life%20Sequence.xlsx%20-%20Sheet1.csv) — LIFE sequence navigation
+- [Help Solf Sequemce.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Solf%20Sequemce.xlsx%20-%20Sheet1.csv) — Solfege sequence navigation
+- [Help Eval Sequence.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Help%20Sequence/Help%20Eval%20Sequence.xlsx%20-%20Sheet1.csv) — Evaluation sequence structure
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Subscription plan hierarchies and role flexibility
+- [AlphaMasterList2020.xlsx - Master.csv](../00-ORIG-CONTEXT/AlphaMasterList2020.xlsx%20-%20Master.csv) — Content library organization
+

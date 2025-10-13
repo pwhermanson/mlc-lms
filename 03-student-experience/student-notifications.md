@@ -47,6 +47,14 @@ Log student interactions for learning analytics without duplicating event schema
 - Visibility: students see only notifications scoped to their enrollment and identity. Enforcement follows `02-roles-and-permissions/roles-matrix.md`.
 - Preferences: students can toggle categories (Assignments, Challenges, Messages, System) and opt into push/desktop per device (details in `13-messaging-and-notifications/push-and-desktop.md`).
 
+## Supporting Documents Referenced
+
+This student notifications specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Notification content, messaging, and templates for student communications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student role notification preferences and delivery permissions
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Notification screen text and alert messages
+
 ## Dependencies
 - Channel and delivery: `13-messaging-and-notifications/in-app-notifications.md`, `13-messaging-and-notifications/push-and-desktop.md`.
 - Announcement governance: `13-messaging-and-notifications/system-announcements.md`.

@@ -150,6 +150,14 @@ Each game display must include:
 - **Mobile Compatibility**: Responsive design for various devices
 - **Browser Support**: Consistent experience across supported browsers
 
+## Supporting Documents Referenced
+
+This all games redesign specification draws from the following source documents:
+
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Comprehensive redesign specifications for the all games interface, including UX improvements and navigation updates
+- [EXE specs 2012-0913 (Category Screen)](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Category%20Screen.csv) — Original category screen specifications and behaviors
+- [Games Loaded.xlsx - Free Trial Games - New Graphics.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Free%20Trial%20Games%20-%20New%20Graphics.csv) — Game catalog updates and new graphics specifications
+
 ## Future Enhancements
 
 ### Advanced Features

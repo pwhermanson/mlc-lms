@@ -559,6 +559,15 @@ Curriculum mapping tools follow the role-based access control (RBAC) system defi
 - Historical record maintained for all mapping versions
 - Export operations logged for compliance tracking
 
+## Supporting Documents Referenced
+
+This curriculum mapping tools specification draws from the following source documents:
+
+- [Level1CurriculumMap.xls - Sheet1.csv](../00-ORIG-CONTEXT/Level1CurriculumMap.xls%20-%20Sheet1.csv) — Example curriculum mapping structure for method books
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence specifications showing curriculum alignment structure
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Method book alignment requirements and structure
+- [EXE specs 2012-0913 - Category Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Category%20Screen.csv) — Concept parameter system for curriculum mapping
+
 ## Dependencies
 
 ### Core Systems

@@ -286,6 +286,14 @@ Based on the original system's game taxonomy:
 - **Control**: Enable/disable challenge participation for their child
 - **Privacy**: Modify display name and privacy settings for challenges
 
+## Supporting Documents Referenced
+
+This challenge boards specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Challenge stage definitions and competitive elements
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform messaging for competitive features
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher controls for student competition features
+
 ## Dependencies
 
 ### Core System Dependencies

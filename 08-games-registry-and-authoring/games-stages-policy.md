@@ -444,6 +444,14 @@ See [Permissions Table](../02-roles-and-permissions/permissions-table.md#content
 
 **Permission Enforcement**: All stage modification operations validate permissions at API layer before applying changes.
 
+## Supporting Documents Referenced
+
+This games stages policy specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original stage definitions and progression requirements
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment screen specifications showing stage presentation
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Stage selection and navigation redesign requirements
+
 ## Dependencies
 
 ### Internal Dependencies

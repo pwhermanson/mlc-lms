@@ -207,6 +207,15 @@ The member profile serves as the central interface for system administrators to:
 - **Global Scope**: Access to all users regardless of organization
 - **Support Context**: Access to user support information and history
 
+## Supporting Documents Referenced
+
+This system admin member profile specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin member profile management and editing capabilities
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional member profile specifications and support workflows
+- [User Profile Chart.docx.pdf](../00-ORIG-CONTEXT/User%20Profile%20Chart.docx.pdf) — Complete user profile data structure and field specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — System admin user management permissions and capabilities
+
 ## Dependencies
 
 ### Internal Dependencies

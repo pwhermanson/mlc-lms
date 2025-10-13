@@ -262,6 +262,14 @@ The system supports both Solo and Ensemble subscription models, allowing Subscri
 - **Upsell Rate**: Percentage of users who upgrade after using code
 - **Retention Rate**: Long-term retention of promotional customers
 
+## Supporting Documents Referenced
+
+This promo codes specification draws from the following source documents:
+
+- [MLC Tiered Pricing 2020.xlsx files](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — Pricing models and discount calculation specifications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Subscriber-Admin promotional code management capabilities
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Subscription management and promotional pricing specifications
+
 ## Related Documentation
 
 - [Promo Codes Implementation](../14-payments-and-subscriptions/promo-codes-impl.md) - Technical implementation details

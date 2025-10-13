@@ -153,6 +153,14 @@ This specification enables the systematic organization and management of all edu
 - **System Configuration**: Can modify element behavior and presentation rules
 - **Analytics**: Can access comprehensive usage and effectiveness data
 
+## Supporting Documents Referenced
+
+This learning elements overview specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture and learning element specifications
+- [MLC SeqCreate 2020.xlsx files](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence and learning element structure specifications
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Piano Adventures curriculum alignment and learning elements
+
 ## Dependencies
 
 ### Internal Dependencies

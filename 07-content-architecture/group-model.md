@@ -288,6 +288,14 @@ Sequence Groups
 - **Administrative Content**: Access based on role and permissions
 - **Shared Content**: Access based on group type and settings
 
+## Supporting Documents Referenced
+
+This group model specification draws from the following source documents:
+
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Group management and organizational hierarchy specifications
+- [Roles Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Roles%20Chart.xlsx%20-%20Sheet1.csv) — Group relationships and role hierarchy visualizations
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Group-based seat allocation and management specifications
+
 ## Dependencies
 
 ### Internal Dependencies

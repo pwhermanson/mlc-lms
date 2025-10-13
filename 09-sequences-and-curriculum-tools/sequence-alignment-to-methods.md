@@ -403,6 +403,15 @@ Method-aligned sequence permissions follow the core role-based access control (R
 - All edits to method-aligned sequences are logged with user ID, timestamp, and change summary
 - Page correlation changes require change justification (new edition, error correction, pedagogical improvement)
 
+## Supporting Documents Referenced
+
+This sequence alignment to methods specification draws from the following source documents:
+
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Master list of method-aligned sequences
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence specifications including page correlations
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Piano Adventures method alignment details
+- [Level1CurriculumMap.xls - Sheet1.csv](../00-ORIG-CONTEXT/Level1CurriculumMap.xls%20-%20Sheet1.csv) — Example curriculum mapping structure
+
 ## Dependencies
 
 ### Core data models and systems

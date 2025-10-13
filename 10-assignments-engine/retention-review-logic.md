@@ -849,6 +849,14 @@ All retention-related modifications (manual scheduling, skipped reviews, retenti
 - Original and new values
 - Reason/justification (required for overrides)
 
+## Supporting Documents Referenced
+
+This retention review logic specification draws from the following source documents:
+
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence specifications including review stage definitions
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game stage definitions including review stage purpose
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment structure showing review scheduling
+
 ## Dependencies
 
 ### Internal Dependencies

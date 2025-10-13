@@ -652,6 +652,14 @@ Tracks the complete game bundle loading process:
 - **No Direct Access**: Cannot view raw telemetry data
 - **Aggregated Insights**: See processed analytics and KPIs derived from telemetry (see [Teacher Reports KPIs](../15-analytics-and-reporting/teacher-reports-kpis.md))
 
+## Supporting Documents Referenced
+
+This games telemetry specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original game tracking and scoring requirements
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Score display and tracking requirements
+- [EXE specs 2012-0913 - Assignment Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment screen score tracking specifications
+
 ## Dependencies
 
 ### Core System Dependencies

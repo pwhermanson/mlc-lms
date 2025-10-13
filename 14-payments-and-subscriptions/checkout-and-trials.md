@@ -342,6 +342,14 @@ The checkout and trial system is critical for customer acquisition, conversion o
 - **Analytics Access**: Full access to trial and conversion analytics
 - **Support Operations**: Can assist with trial and checkout issues
 
+## Supporting Documents Referenced
+
+This checkout and trials specification draws from the following source documents:
+
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Checkout flow copy and trial messaging
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Registration and subscription flow content
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Trial and subscription pricing calculations
+
 ## Dependencies
 
 ### Internal Dependencies

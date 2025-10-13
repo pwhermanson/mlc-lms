@@ -272,6 +272,15 @@ This specification enables:
 - **No Data Deletion**: Cannot delete user data or accounts
 - **Emergency Override**: Critical situations may allow additional actions
 
+## Supporting Documents Referenced
+
+This impersonation and support access specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — Original system admin interface requirements and member management workflows
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional system admin panel specifications and filtering improvements
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Comprehensive role definitions and permission structures
+- [Blayzer note USER ROLES.docx.txt](../00-ORIG-CONTEXT/Blayzer%20note%20USER%20ROLES.docx.txt) — User role notes and access control requirements
+
 ## Dependencies
 
 ### Internal Dependencies

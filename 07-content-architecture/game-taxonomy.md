@@ -205,6 +205,14 @@ Examples:
 - **Migration**: Can handle taxonomy restructuring and migrations
 - **Analytics**: Full access to taxonomy usage and effectiveness data
 
+## Supporting Documents Referenced
+
+This game taxonomy specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game classification and taxonomy structure
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Complete game catalog with categorization and taxonomy data
+- [AlphaMasterList2020.xlsx files](../00-ORIG-CONTEXT/AlphaMasterList2020.xlsx%20-%20ALPHA.csv) — Game categorization and alphabetical taxonomy specifications
+
 ## Dependencies
 
 ### Internal Dependencies

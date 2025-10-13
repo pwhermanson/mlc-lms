@@ -173,6 +173,15 @@ The user index serves as the central hub for system administrators to:
 - **Data Retention**: Proper data retention and deletion policies
 - **Permission Reviews**: Regular review of system admin access
 
+## Supporting Documents Referenced
+
+This system admin user index specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin user management interface and capabilities
+- [System Admin Re-design B.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design%20B.docx.txt) — Additional system admin user index specifications and workflows
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — User role specifications and system admin oversight capabilities
+- [User Profile Chart.docx.pdf](../00-ORIG-CONTEXT/User%20Profile%20Chart.docx.pdf) — User profile data structure and management specifications
+
 ## Dependencies
 
 ### Internal Dependencies

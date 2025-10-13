@@ -810,6 +810,14 @@ Fires: When emergency hotfix deployed outside normal workflow
 - Content Editors: ✅ Own uploads only
 - SysAdmin: ✅ All uploads
 
+## Supporting Documents Referenced
+
+This games assets pipeline specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original game asset organization and structure
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Game library showing asset references and availability
+- [Browser Chart.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Browser%20Chart.xlsx%20-%20Sheet1.csv) — Browser compatibility requirements affecting asset formats
+
 ## Dependencies
 
 ### Internal Dependencies

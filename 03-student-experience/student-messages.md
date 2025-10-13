@@ -330,6 +330,14 @@ interface ThreadEvent {
 - **System Configuration**: Can configure messaging system settings
 - **Audit Access**: Can access complete audit trails
 
+## Supporting Documents Referenced
+
+This student messages specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Messaging content, templates, and student communication interface
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Student role messaging capabilities and communication permissions
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Messages screen text and user-facing content
+
 ## Dependencies
 
 ### Core Dependencies

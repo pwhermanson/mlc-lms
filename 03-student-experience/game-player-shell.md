@@ -268,6 +268,15 @@ Based on the original system's "All Games" redesign requirements:
 - **Emergency Controls**: Can pause or terminate game sessions if needed
 - **Audit Access**: Can view complete audit logs and telemetry data
 
+## Supporting Documents Referenced
+
+This game player shell specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture, stages, and player shell requirements
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Game player integration with assignment workflows
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Game library and player shell design specifications
+- [EXE specs 2012-0913 (Game Screen)](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Game%20Screen.csv) — Game screen specifications and player shell behaviors
+
 ## Dependencies
 
 ### Core System Dependencies

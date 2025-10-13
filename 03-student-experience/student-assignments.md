@@ -158,6 +158,15 @@ Based on the original system requirements documented in "All Games Redesign":
 - **Progress tracking**: System can update completion status
 - **Notification sending**: System can send progress notifications
 
+## Supporting Documents Referenced
+
+This student assignments interface specification draws from the following source documents:
+
+- [Assignment Play Re-design.docx.txt](../00-ORIG-CONTEXT/Assignment%20Play%20Re-design.docx.txt) — Assignment interface design and workflow specifications
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Assignment structure and sequence specifications
+- [EXE specs 2012-0913 (Assignment Screen)](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Assignment%20Screen.csv) — Assignment screen specifications and behaviors
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Student-facing content and messaging for assignments
+
 ## Dependencies
 ### Core system dependencies
 - [Assignment Generation Engine](../10-assignments-engine/assignment-generation.md) for assignment creation and management

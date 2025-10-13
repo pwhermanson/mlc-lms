@@ -733,6 +733,14 @@ All caption authoring, editing, and approval actions are logged in the audit tra
 - Caption authoring velocity (how quickly new content is getting captions)
 - Overdue caption requests (content published without captions beyond allowed grace period)
 
+## Supporting Documents Referenced
+
+This captions and audio descriptions specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game content structure and audio/visual elements
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Platform content requiring captions
+- [pianoAdventures.doc.txt](../00-ORIG-CONTEXT/pianoAdventures.doc.txt) — Instructional content requiring audio descriptions
+
 ## Dependencies
 
 This specification relies on several other systems and documents:

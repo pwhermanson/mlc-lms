@@ -228,6 +228,17 @@ Teachers and administrators can generate reports on:
 - **Difficulty Analysis**: Effectiveness of difficulty level assignments
 - **Standards Progress**: Progress toward educational standards compliance
 
+## Supporting Documents Referenced
+
+This game catalog and registry specification draws from the following source documents:
+
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Original game organization and categorization structure
+- [All Games Redesign.docx.txt](../00-ORIG-CONTEXT/All%20Games%20Redesign.docx.txt) — Game browsing interface requirements and two-tier navigation
+- [Games Loaded.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20Loaded.xlsx%20-%20Sheet1.csv) — Complete game library inventory with metadata
+- [Games import master.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20import%20master.xlsx%20-%20Sheet1.csv) — Game import specifications and classification schema
+- [EXE specs 2012-0913 - Game Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Game%20Screen.csv) — Game screen specifications and metadata display
+- [EXE specs 2012-0913 - Category Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Category%20Screen.csv) — Category browsing and concept parameter system
+
 ## Future Enhancements
 
 ### Planned Improvements

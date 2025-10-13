@@ -251,6 +251,14 @@ The PO and invoicing system enables schools to use their standard procurement pr
 - Handle system errors and issues
 - Access audit logs and compliance data
 
+## Supporting Documents Referenced
+
+This PO and invoicing for schools specification draws from the following source documents:
+
+- [MLC Bid Sheet 6-21-21.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/MLC%20Bid%20Sheet%206-21-21.xlsx%20-%20Sheet1.csv) — School bidding and invoicing specifications
+- [MLC Tiered Pricing 2020.xlsx - Full Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Full%20Calc.csv) — School pricing calculations
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Seat-based invoicing for schools
+
 ## Dependencies
 
 - [billing-plans-and-seats.md](billing-plans-and-seats.md) - Core billing functionality

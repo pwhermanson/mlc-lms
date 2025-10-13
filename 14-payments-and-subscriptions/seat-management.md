@@ -288,6 +288,14 @@ The system supports the platform's tiered pricing model where seats are the prim
 - **History**: Can view seat assignment history
 - **Restrictions**: Cannot modify any seat settings
 
+## Supporting Documents Referenced
+
+This seat management specification draws from the following source documents:
+
+- [Seats.docx.txt](../00-ORIG-CONTEXT/Seats.docx.txt) — Comprehensive seat allocation and management requirements
+- [MLC Tiered Pricing 2020.xlsx - Calc.csv](../00-ORIG-CONTEXT/MLC%20Tiered%20Pricing%202020.xlsx%20-%20Calc.csv) — Seat-based pricing calculations
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Role-based seat usage and allocation
+
 ## Dependencies
 
 ### Internal Dependencies

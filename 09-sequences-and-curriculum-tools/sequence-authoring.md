@@ -492,6 +492,15 @@ All authoring actions are logged for audit purposes:
 
 For audit log structure and retention, see [System Admin Audit Logs](../06-system-admin/sysadmin-audit-logs.md).
 
+## Supporting Documents Referenced
+
+This sequence authoring specification draws from the following source documents:
+
+- [MLC SeqCreate 2020.xlsx - specs.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence authoring specifications and workflow requirements
+- [MLC SeqCreate 2020.xlsx - ALPHA LIST.csv](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20ALPHA%20LIST%20.csv) — Sequence organization and classification schema
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game selection and organization for sequence building
+- [EXE specs 2012-0913 - Category Screen.csv](../00-ORIG-CONTEXT/exe-specs/EXE%20specs%202012-0913.xlsx%20-%20Category%20Screen.csv) — Category browsing for game selection
+
 ## Dependencies
 
 The sequence authoring tool integrates with multiple systems and relies on several foundational specs:

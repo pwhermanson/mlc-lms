@@ -112,6 +112,14 @@ Reference: `../02-roles-and-permissions/roles-matrix.md`, `../02-roles-and-permi
 - Subscriber-Admin: receive system-wide notifications, view notification delivery reports
 - System Admin: send system announcements, manage notification delivery systems
 
+## Supporting Documents Referenced
+
+This teacher notifications specification draws from the following source documents:
+
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Notification content, messaging, and templates for teacher communications
+- [USER ROLES detail.docx.txt](../00-ORIG-CONTEXT/USER%20ROLES%20detail.docx.txt) — Teacher and Teacher-Admin notification preferences and delivery permissions
+- [Screeens Text.docx.txt](../00-ORIG-CONTEXT/Screeens%20Text.docx.txt) — Notification screen text and alert messages
+
 ## Dependencies
 - In-app delivery: `../13-messaging-and-notifications/in-app-notifications.md`
 - Email delivery: `../13-messaging-and-notifications/email-templates.md`, `../17-integrations/email-provider.md`

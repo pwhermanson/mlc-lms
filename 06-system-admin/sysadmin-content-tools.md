@@ -219,6 +219,15 @@ The content tools serve as the central interface for system administrators to:
 - **Data Retention**: Proper data retention and deletion policies
 - **Content Standards**: Enforcement of platform content standards and guidelines
 
+## Supporting Documents Referenced
+
+This system admin content tools specification draws from the following source documents:
+
+- [System Admin Re-design.docx.txt](../00-ORIG-CONTEXT/System%20Admin%20Re-design.docx.txt) — System admin content management capabilities and tools
+- [Game Structure.docx.txt](../00-ORIG-CONTEXT/Game%20Structure.docx.txt) — Game architecture and content structure specifications
+- [Games import master.xlsx - Sheet1.csv](../00-ORIG-CONTEXT/Games%20import%20master.xlsx%20-%20Sheet1.csv) — Game import and bulk content management specifications
+- [MLC SeqCreate 2020.xlsx files](../00-ORIG-CONTEXT/MLC%20SeqCreate%202020.xlsx%20-%20specs.csv) — Sequence and curriculum content management specifications
+
 ## Dependencies
 
 ### Internal Dependencies

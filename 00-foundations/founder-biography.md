@@ -139,4 +139,14 @@ Her vision of developing "Lifetime Musicians" through engaging, mastery-based le
 
 ---
 
+## Supporting Documents Referenced
+
+This founder biography draws from the following source documents:
+
+- [MLC History Draft 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20History%20Draft%202020.docx.txt) — Primary source for Christine Hermanson's biography, career history, and contributions
+- [MLC Executive Summary 2020.docx.txt](../00-ORIG-CONTEXT/MLC%20Executive%20Summary%202020.docx.txt) — Professional achievements and industry recognition
+- [MLC Site Content.docx.txt](../00-ORIG-CONTEXT/MLC%20Site%20Content.docx.txt) — Educational philosophy and Lifetime Musician vision
+
+---
+
 *This biography is based on comprehensive documentation from the MLC History Draft 2020, MLC Executive Summary 2020, and related materials, preserving the authentic voice and detailed experiences of Christine Hermanson's remarkable career.*
